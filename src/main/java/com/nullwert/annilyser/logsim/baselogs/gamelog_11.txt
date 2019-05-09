@@ -1,0 +1,1315 @@
+3:55] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ You have joined the
+[04:53:55] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Green team
+[04:53:55] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[04:53:55] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[04:53:55] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[04:53:55] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[04:54:18] [Client thread/INFO]: [CHAT] [Blue] [P] tora0409 [TORA]: 
+[04:54:27] [Client thread/INFO]: [CHAT] You can vote for The Shotbow Network on Planet Minecraft to help bring new players! Visit vote.shotbow.net to vote!
+[04:54:41] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[04:54:41] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[04:54:42] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[04:54:44] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[04:54:45] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[04:55:24] [Client thread/INFO]: [CHAT] (Team) [Green] YUUSEY: 何しよう？
+[04:55:38] [Client thread/INFO]: [CHAT] [Lobby] [P] Re1lly_: iro
+[04:55:47] [Client thread/INFO]: [CHAT] [Blue] [P] Tetrodotoxin [TTX]: 
+[04:55:51] [Client thread/INFO]: [CHAT] [Blue] [P] tora0409 [TORA]: 
+[04:55:59] [Client thread/INFO]: [CHAT] cherokee selected, loading...
+[04:56:06] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[04:56:06] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[04:56:06] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[04:56:06] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[04:56:06] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The game has started!
+[04:56:06] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The nexus is invincible
+[04:56:06] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[04:56:06] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[04:56:06] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[04:56:06] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[04:56:25] [Client thread/INFO]: [CHAT] Transporter selected
+[04:56:29] [Client thread/INFO]: [CHAT] Looking to get some easy XP?  Follow @ShotbowNetwork on twitter.  XP codes are given away for free XP regularly.
+[04:56:33] [Client thread/INFO]: [CHAT] You are unable to place a portal next to the nexus area
+[04:56:57] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[04:56:57] [Client thread/INFO]: [CHAT] Vampire selected
+[04:57:38] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[04:57:48] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[04:57:48] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[04:57:52] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[04:57:53] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[04:57:59] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[04:58:02] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[04:58:02] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[04:58:02] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[04:58:03] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[04:58:29] [Client thread/INFO]: [CHAT] TIP: Interested in building a map for Annihilation? Post a build submission to our forums! https://shotbow.net/forum/forums/buildsubmission/
+[04:58:47] [Client thread/INFO]: [CHAT] §9Dahian§9(SUC) killed §e_gt_1234§e(SCP)
+[04:58:59] [Client thread/INFO]: [CHAT] §chayue§c(ACR) killed §9namakotaro§9(MIN)
+[04:59:14] [Client thread/INFO]: [CHAT] §a6qU_§a(SCP) killed §9blockendark§9(MIN)
+[04:59:15] [Client thread/INFO]: [CHAT] §eThobias_xD§e(MIN) killed §aorange_jp§a(SCO)
+[05:00:30] [Client thread/INFO]: [CHAT] TIP: Change your class by entering the nether portal near your nexus.  You can unlock classes by meeting certain criteria or by unlocking them with Shotbow XP.
+[05:00:31] [Client thread/INFO]: [CHAT] §9namakotaro§9(MIN) killed §cCOUNTRY0510§c(SCO)
+[05:00:34] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §eseiya0818§e(BUI)
+[05:00:48] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §cga_to_130§c(SCP)
+[05:01:10] [Client thread/INFO]: [CHAT] §cDJ_Soppy§c(ASN) killed §9pjt8014§9(MIN) attacking Blue's Nexus.
+[05:01:15] [Client thread/INFO]: [CHAT] §9pjt8014§9(MIN) killed §cDJ_Soppy§c(ASN) defending Blue's Nexus.
+[05:01:23] [Client thread/INFO]: [CHAT] §c_Kirigaya_Kazuto§c(MIN) killed §eAquaBlooper§e(VAM)
+[05:01:37] [Client thread/INFO]: [CHAT] §awarata§a(PYR) killed §9Dahian§9(SUC)
+[05:01:47] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §aRgml_natasou_xxx§a(SCO)
+[05:01:47] [Client thread/INFO]: [CHAT] §9kirar1n§9(SCO) killed §chayue§c(ACR)
+[05:01:50] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §c0b1rd§c(SCO)
+[05:01:52] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cga_to_130§c(SCP)
+[05:02:03] [Client thread/INFO]: [CHAT] §9pjt8014§9(MIN) killed §cCOUNTRY0510§c(SCO)
+[05:02:06] [Client thread/INFO]: [CHAT] §9kirar1n§9(SCO) killed §cGomiya_www§c(MIN)
+[05:02:16] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §aotmis25§a(ENC)
+[05:02:20] [Client thread/INFO]: [CHAT] §c_Kirigaya_Kazuto§c(MIN) killed §9kirar1n§9(SCO)
+[05:02:25] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SCO) killed §aorange_jp§a(SCO)
+[05:02:30] [Client thread/INFO]: [CHAT] Want to advertise your stream or Youtube channel? Got something to say to the entire network? Get a Shotbow Shout at shout.shotbow.net
+[05:02:35] [Client thread/INFO]: [CHAT] §9honoyuki§9(WAR) killed §cmaho0120§c(ENC)
+[05:02:41] [Client thread/INFO]: [CHAT] §eok2931§e(ENC) killed §aniniboo§a(SPY)
+[05:02:44] [Client thread/INFO]: [CHAT] §eok2931§e(ENC) killed §awarata§a(PYR)
+[05:02:45] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SCO) killed §a6qU_§a(SCP)
+[05:02:54] [Client thread/INFO]: [CHAT] §9pjt8014§9(MIN) killed §cDJ_Soppy§c(ASN)
+[05:02:54] [Client thread/INFO]: [CHAT] §eok2931§e(ENC) killed §c0b1rd§c(SCO)
+[05:02:57] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cRa_pis§c(SCP)
+[05:03:19] [Client thread/INFO]: [CHAT] §eAquaBlooper§e(VAM) killed §c9898kw§c(MIN)
+[05:03:24] [Client thread/INFO]: [CHAT] §cDJ_Soppy§c(ASN) killed §eLooomi§e(WAR)
+[05:03:30] [Client thread/INFO]: [CHAT] §cDJ_Soppy§c(ASN) killed §eAquaBlooper§e(VAM)
+[05:03:36] [Client thread/INFO]: [CHAT] §9honoyuki§9(WAR) killed §crockman422§c(SPY)
+[05:03:36] [Client thread/INFO]: [CHAT] (Team) [Green] YUUSEY: gold
+[05:03:37] [Client thread/INFO]: [CHAT] You cannot inflict damage while in bat form!
+[05:03:42] [Client thread/INFO]: [CHAT] §cmaho0120§c(WAR) killed §9honoyuki§9(WAR)
+[05:03:42] [Client thread/INFO]: [CHAT] §ahayato3GO§a(ENC) killed §9kirar1n§9(SCO)
+[05:03:43] [Client thread/INFO]: [CHAT] §aYUUSEY§a(MIN) killed §9MomokaNyanNyan§9(SCO)
+[05:03:47] [Client thread/INFO]: [CHAT] §a6qU_§a(SCP) killed §9fulg0r§9(ENC)
+[05:03:52] [Client thread/INFO]: [CHAT] §eyumeraku§e(SCO) killed §cDJ_Soppy§c(ASN)
+[05:03:52] [Client thread/INFO]: [CHAT] §9pjt8014§9(MIN) killed §chayue§c(ACR)
+[05:04:00] [Client thread/INFO]: [CHAT] §eok2931§e(ENC) killed §c0b1rd§c(SCO)
+[05:04:12] [Client thread/INFO]: [CHAT] §9Dahian§9(SUC) killed §crockman422§c(SPY)
+[05:04:18] [Client thread/INFO]: [CHAT] (Team) [Green] YUUSEY: gold come
+[05:04:26] [Client thread/INFO]: [CHAT] §ejemmy347§e(ARC) shot §cga_to_130§c(SCP)
+[05:04:27] [Client thread/INFO]: [CHAT] (Team) [Green] thriftymom: tks
+[05:04:28] [Client thread/INFO]: [CHAT] §aYUUSEY§a(MIN) shot §9MomokaNyanNyan§9(SCO)
+[05:04:30] [Client thread/INFO]: [CHAT] Encounter a bug and need to report it? Fill out the form here: http://shotbow.net/forum/p/bugs/
+[05:04:31] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cDJ_Soppy§c(ASN)
+[05:04:44] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cManlyTuxedo§c(ACR)
+[05:04:48] [Client thread/INFO]: [CHAT] (Team) [Green] niniboo: iron
+[05:04:59] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §c0b1rd§c(SCO)
+[05:04:59] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SCO) killed §aRgml_natasou_xxx§a(SCO)
+[05:05:00] [Client thread/INFO]: [CHAT] §cdanzanaito_§c(VAM) killed §ekoma1024§e(SCO)
+[05:05:00] [Client thread/INFO]: [CHAT] §cmaho0120§c(WAR) killed §aorange_jp§a(SCO)
+[05:05:04] [Client thread/INFO]: [CHAT] §ekoma1024§e(SCO) killed §cdanzanaito_§c(VAM)
+[05:05:11] [Client thread/INFO]: [CHAT] §cDJ_Soppy§c(ASN) killed §e_gt_1234§e(ACR)
+[05:05:12] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place things here.
+[05:05:13] [Client thread/INFO]: [CHAT] §eyumeraku§e(SCO) killed §cDJ_Soppy§c(ASN)
+[05:05:34] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[05:05:39] [Client thread/INFO]: [CHAT] §9Dahian§9(SUC) killed §chayue§c(ACR)
+[05:05:46] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §cRa_pis§c(SCP)
+[05:05:48] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §aao_udonn§a(PYR)
+[05:05:53] [Client thread/INFO]: [CHAT] §9RoyalNavy§9(SUC) killed §aharuto0829§a(MIN)
+[05:05:55] [Client thread/INFO]: [CHAT] §9RoyalNavy§9(SUC) killed §aYUUSEY§a(MIN)
+[05:06:05] [Client thread/INFO]: [CHAT] §eDqBall3475§e(BUI) killed §9kirar1n§9(SCO)
+[05:06:07] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:06:07] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:06:07] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:06:07] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:06:07] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 2 has started
+[05:06:07] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The nexus has lost its invincibility
+[05:06:07] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:06:07] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:06:07] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:06:07] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:06:11] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §cManlyTuxedo§c(ACR)
+[05:06:11] [Client thread/INFO]: [CHAT] §achimu17§a(ENC) killed §eCabalaro§e(ASN)
+[05:06:12] [Client thread/INFO]: [CHAT] §cDJ_Soppy§c(ASN) killed §eTheFr33zer§e(LUM)
+[05:06:14] [Client thread/INFO]: [CHAT] §9Re1lly_§9(ENC) killed §a6qU_§a(SCP)
+[05:06:17] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §c0b1rd§c(SCO)
+[05:06:31] [Client thread/INFO]: [CHAT] TIP: Team work is paramount to Annihilation.  Share resources, store extra armor/weapons at your base for fallen teammates, and move as a unified group.
+[05:06:33] [Client thread/INFO]: [CHAT] §9Dahian§9(SUC) killed §chayue§c(ACR)
+[05:06:37] [Client thread/INFO]: [CHAT] §c0b1rd§c(SCO) killed §9Dahian§9(SUC)
+[05:06:46] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §cRa_pis§c(SCP)
+[05:07:01] [Client thread/INFO]: [CHAT] §eCabalaro§e(ACR) killed §aHorst_Frank§a(VAM)
+[05:07:15] [Client thread/INFO]: [CHAT] Transporter selected
+[05:07:23] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §a2018_kitsune§a(SCO)
+[05:07:25] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §cDJ_Soppy§c(ASN)
+[05:07:30] [Client thread/INFO]: [CHAT] §cRa_pis§c(SCP) killed §eTheFr33zer§e(LUM)
+[05:07:31] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[05:07:35] [Client thread/INFO]: [CHAT] §c0b1rd§c(SCO) killed §9Dahian§9(SUC)
+[05:07:38] [Client thread/INFO]: [CHAT] §atomotomo0326§a(CIV) killed §ctutinoko355§c(MIN)
+[05:07:42] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §aao_udonn§a(PYR)
+[05:07:51] [Client thread/INFO]: [CHAT] §9fulg0r§9(SCO) killed §airen0423§a(ENC)
+[05:07:54] [Client thread/INFO]: [CHAT] §eDqBall3475§e(BUI) killed §9Xx_kirithan77_xX§9(SCO)
+[05:08:09] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §ebickey0704§e(BLO)
+[05:08:18] [Client thread/INFO]: [CHAT] §9Re1lly_§9(ENC) killed §a6qU_§a(SCP)
+[05:08:28] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(PYR) killed §ejemmy347§e(ARC)
+[05:08:32] [Client thread/INFO]: [CHAT] Like getting your news in quick picture format?  Follow us on Instagram @shotbowofficial
+[05:08:38] [Client thread/INFO]: [CHAT] §9fulg0r§9(SCO) killed §aharuto0829§a(MIN)
+[05:08:50] [Client thread/INFO]: [CHAT] §cDJ_Soppy§c(ASN) killed §9Dahian§9(SUC)
+[05:08:50] [Client thread/INFO]: [CHAT] §cDJ_Soppy§c(ASN) killed §9Dahian§9(SUC)
+[05:08:52] [Client thread/INFO]: [CHAT] §cRa_pis§c(SCP) killed §aHorst_Frank§a(TRA)
+[05:08:52] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[05:08:54] [Client thread/INFO]: [CHAT] §ela20011118§e(ENC) killed §awarata§a(PYR)
+[05:09:04] [Client thread/INFO]: [CHAT] §ela20011118§e(ENC) killed §a2018_kitsune§a(SUC)
+[05:09:13] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §eCabalaro§e(ACR)
+[05:09:13] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §cManlyTuxedo§c(ACR)
+[05:09:21] [Client thread/INFO]: [CHAT] §9rinsukeboo§9(MIN) killed §c0b1rd§c(SCO)
+[05:09:22] [Client thread/INFO]: [CHAT] §eThobias_xD§e(ENC) killed §9ZomboyChan§9(PYR)
+[05:09:27] [Client thread/INFO]: [CHAT] §aRgml_natasou_xxx§a(SCO) killed §9rinsukeboo§9(MIN)
+[05:09:30] [Client thread/INFO]: [CHAT] (Team) [Green] junglegreen: ty
+[05:09:31] [Client thread/INFO]: [CHAT] §aRgml_natasou_xxx§a(SCO) killed §9rikipooon§9(MIN)
+[05:09:33] [Client thread/INFO]: [CHAT] §9Re1lly_§9(ENC) killed §aRgml_natasou_xxx§a(SCO)
+[05:09:37] [Client thread/INFO]: [CHAT] §9N1A_o§9(ENC) killed §a6qU_§a(SCP)
+[05:09:40] [Client thread/INFO]: [CHAT] §eyumeraku§e(SCO) killed §c_Kirigaya_Kazuto§c(FAR)
+[05:09:40] [Client thread/INFO]: [CHAT] §9pjt8014§9(ENC) killed §chayue§c(ACR)
+[05:09:41] [Client thread/INFO]: [CHAT] §eyumeraku§e(SCO) killed §cManlyTuxedo§c(ACR)
+[05:09:52] [Client thread/INFO]: [CHAT] §c_Kirigaya_Kazuto§c(FAR) killed §ebickey0704§e(BLO)
+[05:09:55] [Client thread/INFO]: [CHAT] §eyumeraku§e(SCO) killed §c_Kirigaya_Kazuto§c(FAR)
+[05:09:56] [Client thread/INFO]: [CHAT] §eok2931§e(ENC) killed §awarata§a(PYR)
+[05:10:08] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §eyumeraku§e(SCO)
+[05:10:16] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) shot §cManlyTuxedo§c(ACR)
+[05:10:24] [Client thread/INFO]: [CHAT] §ela20011118§e(ENC) killed §a2018_kitsune§a(SUC)
+[05:10:25] [Client thread/INFO]: [CHAT] §9Dahian§9(SUC) killed §c0b1rd§c(SCO)
+[05:10:26] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §9Xx_kirithan77_xX§9(SCO)
+[05:10:32] [Client thread/INFO]: [CHAT] TIP: Create your own private room in the Shotbow Teamspeak.  Connect to ts.shotbow.net!
+[05:10:33] [Client thread/INFO]: [CHAT] Can't place that there!
+[05:10:35] [Client thread/INFO]: [CHAT] This is a teleport placed by Horst_Frank, sneak to go through it.
+[05:10:36] [Client thread/INFO]: [CHAT] Horst_Frank used your portal.
+[05:10:38] [Client thread/INFO]: [CHAT] This is a teleport placed by Horst_Frank, sneak to go through it.
+[05:10:41] [Client thread/INFO]: [CHAT] §emiyachan_111§e(TRA) killed §aryon4949§a(DAS)
+[05:10:45] [Client thread/INFO]: [CHAT] 3110kentaro used your portal.
+[05:10:45] [Client thread/INFO]: [CHAT] ryon4949 used your portal.
+[05:10:53] [Client thread/INFO]: [CHAT] orange_jp used your portal.
+[05:11:00] [Client thread/INFO]: [CHAT] §9RoyalNavy§9(SUC) killed §aRgml_natasou_xxx§a(SCO)
+[05:11:05] [Client thread/INFO]: [CHAT] Rgml_natasou_xxx used your portal.
+[05:11:09] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §eyumeraku§e(SCO)
+[05:11:13] [Client thread/INFO]: [CHAT] §awarata§a(PYR) killed §eGERAMC§e(MIN)
+[05:11:14] [Client thread/INFO]: [CHAT] CuckooLasagne used your portal.
+[05:11:29] [Client thread/INFO]: [CHAT] ao_udonn used your portal.
+[05:11:32] [Client thread/INFO]: [CHAT] §ela20011118§e(ENC) killed §a2018_kitsune§a(SUC)
+[05:11:34] [Client thread/INFO]: [CHAT] §eDqBall3475§e(TRA) killed §awarata§a(PYR)
+[05:11:37] [Client thread/INFO]: [CHAT] warata used your portal.
+[05:11:40] [Client thread/INFO]: [CHAT] 2018_kitsune used your portal.
+[05:11:41] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cManlyTuxedo§c(ACR)
+[05:11:42] [Client thread/INFO]: [CHAT] §9Dahian§9(SUC) killed §a6qU_§a(SCP)
+[05:11:47] [Client thread/INFO]: [CHAT] orange_jp used your portal.
+[05:11:53] [Client thread/INFO]: [CHAT] §ejemmy347§e(ARC) shot §chayue§c(ACR)
+[05:11:59] [Client thread/INFO]: [CHAT] §eyumeraku§e(SCO) killed §ckkfe1106§c(MIN)
+[05:12:03] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §ebickey0704§e(SCO)
+[05:12:03] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §aryon4949§a(DAS)
+[05:12:04] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §eyumeraku§e(SCO)
+[05:12:07] [Client thread/INFO]: [CHAT] ryon4949 used your portal.
+[05:12:15] [Client thread/INFO]: [CHAT] §a2018_kitsune§a(SUC) killed §ela20011118§e(ENC)
+[05:12:22] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §aryon4949§a(DAS)
+[05:12:28] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §a3110kentaro§a(MIN)
+[05:12:33] [Client thread/INFO]: [CHAT] TIP: Gold ingots can be used to purchase potion materials and some basic weapons.  Purchase these at the shop located at your base.
+[05:12:37] [Client thread/INFO]: [CHAT] §9tora0409§9(MIN) killed §eTheFr33zer§e(LUM)
+[05:12:38] [Client thread/INFO]: [CHAT] 2018_kitsune used your portal.
+[05:12:42] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §eJoancito63§e(SCP)
+[05:12:45] [Client thread/INFO]: [CHAT] kohei816 used your portal.
+[05:12:49] [Client thread/INFO]: [CHAT] 3110kentaro used your portal.
+[05:12:50] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §aCuckooLasagne§a(CIV)
+[05:12:54] [Client thread/INFO]: [CHAT] §aharuto0829§a(ENC) killed §9MomokaNyanNyan§9(ASN) defending Green's Nexus.
+[05:12:54] [Client thread/INFO]: [CHAT] §9HGnily§9(ENC) killed §cga_to_130§c(TRA)
+[05:12:56] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §c0b1rd§c(SCO)
+[05:12:58] [Client thread/INFO]: [CHAT] §eM6A3E8§e(BUI) killed §aRgml_natasou_xxx§a(SCO)
+[05:12:58] [Client thread/INFO]: [CHAT] §9Re1lly_§9(ENC) killed §cp1KqTyUu§c(SUC) defending Blue's Nexus.
+[05:13:00] [Client thread/INFO]: [CHAT] na_oto_ used your portal.
+[05:13:01] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:13:02] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:13:03] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §a3110kentaro§a(MIN)
+[05:13:03] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:13:04] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:13:05] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:13:09] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §akohei816§a(ACR)
+[05:13:13] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:13:13] [Client thread/INFO]: [CHAT] §eseiya0818§e(BUI) killed §awarata§a(PYR)
+[05:13:14] [Client thread/INFO]: [CHAT] §cRa_pis§c(SCP) killed §9honoyuki§9(WAR)
+[05:13:14] [Client thread/INFO]: [CHAT] kohei816 used your portal.
+[05:13:14] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:13:15] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:13:15] [Client thread/INFO]: [CHAT] §ehikaru1118§e(ENC) killed §aao_udonn§a(ASN) defending Yellow's Nexus.
+[05:13:17] [Client thread/INFO]: [CHAT] §eSweatpant_B0ner§e(PYR) killed §aorange_jp§a(SCO)
+[05:13:17] [Client thread/INFO]: [CHAT] Rgml_natasou_xxx used your portal.
+[05:13:18] [Client thread/INFO]: [CHAT] warata used your portal.
+[05:13:18] [Client thread/INFO]: [CHAT] 3110kentaro used your portal.
+[05:13:19] [Client thread/INFO]: [CHAT] §9pjt8014§9(ENC) killed §cga_to_130§c(TRA)
+[05:13:20] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[05:13:21] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[05:13:22] [Client thread/INFO]: [CHAT] §eCabalaro§e(ACR) killed §chayue§c(ACR)
+[05:13:23] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[05:13:23] [Client thread/INFO]: [CHAT] §eyumeraku§e(SCO) killed §cManlyTuxedo§c(ACR)
+[05:13:23] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §c0b1rd§c(SCO)
+[05:13:25] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[05:13:26] [Client thread/INFO]: [CHAT] §akohei816§a(ACR) killed §eM6A3E8§e(BUI)
+[05:13:27] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[05:13:28] [Client thread/INFO]: [CHAT] §cdanzanaito_§c(MIN) killed §eyumeraku§e(SCO)
+[05:13:29] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[05:13:30] [Client thread/INFO]: [CHAT] §9pjt8014§9(ENC) killed §cRa_pis§c(SCP)
+[05:13:30] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[05:13:32] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[05:13:34] [Client thread/INFO]: [CHAT] §9pjt8014§9(ENC) killed §cga_to_130§c(TRA)
+[05:13:35] [Client thread/INFO]: [CHAT] (Team) [Green] taiki6: りんごいる人-
+[05:13:38] [Client thread/INFO]: [CHAT] 2018_kitsune used your portal.
+[05:13:40] [Client thread/INFO]: [CHAT] ao_udonn used your portal.
+[05:13:43] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, DJ_Soppy.
+[05:13:44] [Client thread/INFO]: [CHAT] 3110kentaro used your portal.
+[05:13:46] [Client thread/INFO]: [CHAT] Horst_Frank used your portal.
+[05:13:47] [Client thread/INFO]: [CHAT] This is a teleport placed by Horst_Frank, sneak to go through it.
+[05:13:49] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) shot §ebickey0704§e(SCO)
+[05:13:49] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §9chuki§9(ACR)
+[05:13:50] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: SCP OP
+[05:13:54] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §9hikapyon§9(BUI)
+[05:14:00] [Client thread/INFO]: [CHAT] §eCabalaro§e(ACR) killed §aryutokume§a(VAM)
+[05:14:02] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:14:05] [Client thread/INFO]: [CHAT] DeggoGamer used your portal.
+[05:14:05] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:14:06] [Client thread/INFO]: [CHAT] §eM6A3E8§e(BUI) killed §aRgml_natasou_xxx§a(SCP)
+[05:14:10] [Client thread/INFO]: [CHAT] (Team) [Green] orange_jp: tY!
+[05:14:13] [Client thread/INFO]: [CHAT] Rgml_natasou_xxx used your portal.
+[05:14:15] [Client thread/INFO]: [CHAT] §eDai_0212§e(ARC) killed §akohei816§a(ACR) defending Yellow's Nexus.
+[05:14:17] [Client thread/INFO]: [CHAT] ryutokume used your portal.
+[05:14:19] [Client thread/INFO]: [CHAT] §eCabalaro§e(ACR) killed §awarata§a(PYR)
+[05:14:20] [Client thread/INFO]: [CHAT] kohei816 used your portal.
+[05:14:20] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cwhaqlen§c(MIN)
+[05:14:20] [Client thread/INFO]: [CHAT] ao_udonn used your portal.
+[05:14:25] [Client thread/INFO]: [CHAT] §a2018_kitsune§a(SUC) killed §cManlyTuxedo§c(ACR)
+[05:14:28] [Client thread/INFO]: [CHAT] otmis25 used your portal.
+[05:14:31] [Client thread/INFO]: [CHAT] warata used your portal.
+[05:14:33] [Client thread/INFO]: [CHAT] NooB_xX used your portal.
+[05:14:35] [Client thread/INFO]: [CHAT] TIP: Register on Shotbow.net to earn XP and also buy additional classes!  Classes have unique abilities and open up new strategies. Type /register <email> in a Shotbow Network lobby
+[05:14:43] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §chayue§c(ACR)
+[05:14:49] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §aHorst_Frank§a(TRA)
+[05:14:50] [Client thread/INFO]: [CHAT] ao_udonn used your portal.
+[05:14:51] [Client thread/INFO]: [CHAT] §eCabalaro§e(ACR) killed §aryon4949§a(DAS)
+[05:14:53] [Client thread/INFO]: [CHAT] NooB_xX used your portal.
+[05:14:53] [Client thread/INFO]: [CHAT] §akohei816§a(ACR) killed §eM6A3E8§e(BUI)
+[05:14:54] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cRa_pis§c(WIZ)
+[05:14:55] [Client thread/INFO]: [CHAT] taiki6 used your portal.
+[05:14:55] [Client thread/INFO]: [CHAT] Horst_Frank used your portal.
+[05:14:56] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §eLooomi§e(WAR)
+[05:14:57] [Client thread/INFO]: [CHAT] ryon4949 used your portal.
+[05:14:57] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, tic_1106.
+[05:14:58] [Client thread/INFO]: [CHAT] §eRINquinque§e(ENC) killed §aRgml_natasou_xxx§a(SCP)
+[05:15:00] [Client thread/INFO]: [CHAT] This is a teleport placed by Horst_Frank, sneak to go through it.
+[05:15:02] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §aryutokume§a(VAM)
+[05:15:04] [Client thread/INFO]: [CHAT] (Team) [Green] taiki6: go mid!!
+[05:15:05] [Client thread/INFO]: [CHAT] Rgml_natasou_xxx used your portal.
+[05:15:05] [Client thread/INFO]: [CHAT] ryutokume used your portal.
+[05:15:07] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cwhaqlen§c(MIN)
+[05:15:11] [Client thread/INFO]: [CHAT] NooB_xX used your portal.
+[05:15:11] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SPY) killed §ctakutakuyuyu§c(SPI)
+[05:15:14] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §ejemmy347§e(ARC)
+[05:15:15] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §eM6A3E8§e(BUI)
+[05:15:17] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §aao_udonn§a(PYR)
+[05:15:17] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §9Xx_kirithan77_xX§9(SCO)
+[05:15:18] [Client thread/INFO]: [CHAT] §awarata§a(PYR) killed §ekousan125_pvp§e(PYR)
+[05:15:18] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:15:18] [Client thread/INFO]: [CHAT] This is a teleport placed by Horst_Frank, sneak to go through it.
+[05:15:21] [Client thread/INFO]: [CHAT] ao_udonn used your portal.
+[05:15:22] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §eDai_0212§e(ARC)
+[05:15:23] [Client thread/INFO]: [CHAT] niniboo used your portal.
+[05:15:26] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cRa_pis§c(WIZ)
+[05:15:27] [Client thread/INFO]: [CHAT] §9pjt8014§9(ENC) killed §aorange_jp§a(SCO)
+[05:15:28] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §awarata§a(PYR)
+[05:15:29] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §9Dahian§9(SUC)
+[05:15:31] [Client thread/INFO]: [CHAT] warata used your portal.
+[05:15:33] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §aryon4949§a(DAS)
+[05:15:34] [Client thread/INFO]: [CHAT] §akohei816§a(ACR) killed §emiyachan_111§e(TRA)
+[05:15:34] [Client thread/INFO]: [CHAT] orange_jp used your portal.
+[05:15:35] [Client thread/INFO]: [CHAT] niniboo used your portal.
+[05:15:36] [Client thread/INFO]: [CHAT] §95ak4531it§9(MER) killed §a6qU_§a(SCP)
+[05:15:38] [Client thread/INFO]: [CHAT] siinabfk used your portal.
+[05:15:38] [Client thread/INFO]: [CHAT] ryon4949 used your portal.
+[05:15:38] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cwhaqlen§c(MIN)
+[05:15:40] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eLooomi§e(WAR)
+[05:15:52] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §cManlyTuxedo§c(ACR)
+[05:15:54] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:15:54] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §eTheFr33zer§e(LUM)
+[05:15:57] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ENC) killed §aryutokume§a(VAM)
+[05:16:00] [Client thread/INFO]: [CHAT] kohei816 used your portal.
+[05:16:00] [Client thread/INFO]: [CHAT] §9RoyalNavy§9(SUC) killed §eDqBall3475§e(TRA)
+[05:16:01] [Client thread/INFO]: [CHAT] (Team) [Green] otmis25: tp to mid!
+[05:16:02] [Client thread/INFO]: [CHAT] §ataiki6§a(ACR) killed §9hikapyon§9(TRA)
+[05:16:03] [Client thread/INFO]: [CHAT] ryutokume used your portal.
+[05:16:03] [Client thread/INFO]: [CHAT] §ehikaru1118§e(ENC) killed §aao_udonn§a(PYR)
+[05:16:03] [Client thread/INFO]: [CHAT] §eyumeraku§e(SCO) killed §ctakutakuyuyu§c(SPI)
+[05:16:03] [Client thread/INFO]: [CHAT] (Team) [Green] otmis25: up!
+[05:16:04] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §eLooomi§e(WAR)
+[05:16:06] [Client thread/INFO]: [CHAT] §chayue§c(ACR) killed §9MomokaNyanNyan§9(SPY)
+[05:16:06] [Client thread/INFO]: [CHAT] §awarata§a(PYR) killed §eDai_0212§e(ARC)
+[05:16:07] [Client thread/INFO]: [CHAT] §ehikaru1118§e(ENC) killed §aorange_jp§a(SCO)
+[05:16:08] [Client thread/INFO]: [CHAT] §eThobias_xD§e(SCO) killed §ataiki6§a(ACR)
+[05:16:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:16:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:16:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:16:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:16:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 3 has started
+[05:16:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Diamonds have spawned in the middle
+[05:16:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Witches have also spawned
+[05:16:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:16:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:16:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:16:14] [Client thread/INFO]: [CHAT] §ehikaru1118§e(ENC) killed §aRgml_natasou_xxx§a(SCP)
+[05:16:14] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §aNooB_xX§a(ASN)
+[05:16:14] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §cwhaqlen§c(MIN)
+[05:16:16] [Client thread/INFO]: [CHAT] taiki6 used your portal.
+[05:16:18] [Client thread/INFO]: [CHAT] §eSweatpant_B0ner§e(PYR) killed §cXx_kitikiti_xX§c(SUC)
+[05:16:22] [Client thread/INFO]: [CHAT] §aryutokume§a(VAM) killed §eDqBall3475§e(TRA)
+[05:16:28] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §9chuki§9(ACR)
+[05:16:29] [Client thread/INFO]: [CHAT] NooB_xX used your portal.
+[05:16:31] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §aao_udonn§a(PYR)
+[05:16:32] [Client thread/INFO]: [CHAT] §ataiki6§a(ACR) killed §eLooomi§e(WAR)
+[05:16:32] [Client thread/INFO]: [CHAT] §eshaneomac69§e(ENC) killed §9hikapyon§9(TRA)
+[05:16:32] [Client thread/INFO]: [CHAT] CuckooLasagne used your portal.
+[05:16:37] [Client thread/INFO]: [CHAT] TIP: Destroy the opposing team by using a pickaxe inside the enemy nexus. 
+[05:16:43] [Client thread/INFO]: [CHAT] ryutokume used your portal.
+[05:16:44] [Client thread/INFO]: [CHAT] §eThobias_xD§e(SCO) killed §c0b1rd§c(SCO)
+[05:16:46] [Client thread/INFO]: [CHAT] §ataiki6§a(ACR) killed §eM6A3E8§e(ARC)
+[05:16:47] [Client thread/INFO]: [CHAT] §cwhaqlen§c(MIN) killed §eyumeraku§e(SCO)
+[05:16:48] [Client thread/INFO]: [CHAT] §9tora0409§9(MIN) killed §a6qU_§a(SCP)
+[05:16:50] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §aNooB_xX§a(SCO)
+[05:16:53] [Client thread/INFO]: [CHAT] NooB_xX used your portal.
+[05:16:54] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) shot §aryutokume§a(VAM)
+[05:16:55] [Client thread/INFO]: [CHAT] 6qU_ used your portal.
+[05:16:57] [Client thread/INFO]: [CHAT] §eCabalaro§e(ACR) killed §aorange_jp§a(SCO)
+[05:16:59] [Client thread/INFO]: [CHAT] §chayue§c(ACR) killed §9honoyuki§9(WAR)
+[05:16:59] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §aRgml_natasou_xxx§a(SCP)
+[05:17:03] [Client thread/INFO]: [CHAT] §9fulg0r§9(SCO) killed §aao_udonn§a(PYR)
+[05:17:07] [Client thread/INFO]: [CHAT] tomotomo0326 used your portal.
+[05:17:07] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) shot §aryutokume§a(VAM)
+[05:17:14] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:17:18] [Client thread/INFO]: [CHAT] §aHorst_Frank§a(TRA) killed §eLooomi§e(WAR)
+[05:17:18] [Client thread/INFO]: [CHAT] +9 Shotbow Xp
+[05:17:19] [Client thread/INFO]: [CHAT] tomotomo0326 used your portal.
+[05:17:20] [Client thread/INFO]: [CHAT] §ehikaru1118§e(ACR) shot §aHorst_Frank§a(TRA)
+[05:17:22] [Client thread/INFO]: [CHAT] §aotmis25§a(TRA) killed §9chuki§9(PYR)
+[05:17:25] [Client thread/INFO]: [CHAT] §ehikaru1118§e(ACR) killed §ataiki6§a(ACR)
+[05:17:25] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §aao_udonn§a(PYR)
+[05:17:29] [Client thread/INFO]: [CHAT] §9honoyuki§9(WAR) killed §eDqBall3475§e(TRA)
+[05:17:29] [Client thread/INFO]: [CHAT] taiki6 used your portal.
+[05:17:30] [Client thread/INFO]: [CHAT] §ehikaru1118§e(ACR) killed §a6qU_§a(SCP)
+[05:17:30] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §aRgml_natasou_xxx§a(SCP)
+[05:17:31] [Client thread/INFO]: [CHAT] ao_udonn used your portal.
+[05:17:33] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §aNooB_xX§a(SCO)
+[05:17:36] [Client thread/INFO]: [CHAT] 2018_kitsune used your portal.
+[05:17:36] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) shot §ctakutakuyuyu§c(SPI)
+[05:17:37] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, 3110kentaro.
+[05:17:41] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §eLooomi§e(WAR)
+[05:17:46] [Client thread/INFO]: [CHAT] §9honoyuki§9(WAR) killed §aorange_jp§a(SCO)
+[05:17:49] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §eDqBall3475§e(TRA)
+[05:17:50] [Client thread/INFO]: [CHAT] §ehikaru1118§e(ACR) shot §ataiki6§a(ACR)
+[05:17:51] [Client thread/INFO]: [CHAT] Horst_Frank used your portal.
+[05:17:51] [Client thread/INFO]: [CHAT] Rgml_natasou_xxx used your portal.
+[05:17:52] [Client thread/INFO]: [CHAT] This is a teleport placed by Horst_Frank, sneak to go through it.
+[05:17:54] [Client thread/INFO]: [CHAT] taiki6 used your portal.
+[05:17:54] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §a6qU_§a(SCP)
+[05:17:55] [Client thread/INFO]: [CHAT] §ehikaru1118§e(ACR) shot §aao_udonn§a(PYR)
+[05:17:57] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) shot §cmaho0120§c(ACR)
+[05:17:59] [Client thread/INFO]: [CHAT] ao_udonn used your portal.
+[05:18:00] [Client thread/INFO]: [CHAT] 2018_kitsune used your portal.
+[05:18:00] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §aHorst_Frank§a(TRA)
+[05:18:04] [Client thread/INFO]: [CHAT] §atikuwa0807§a(TRA) killed §9Xx_kirithan77_xX§9(THO)
+[05:18:04] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §eLooomi§e(WAR)
+[05:18:05] [Client thread/INFO]: [CHAT] §cfkyuu01§c(ACR) killed §eseiya0818§e(BUI)
+[05:18:06] [Client thread/INFO]: [CHAT] §9chuki§9(PYR) killed §atikuwa0807§a(TRA)
+[05:18:06] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[05:18:07] [Client thread/INFO]: [CHAT] §ataiki6§a(ACR) killed §eDqBall3475§e(TRA)
+[05:18:08] [Client thread/INFO]: [CHAT] §eJoancito63§e(SCP) killed §c0b1rd§c(SCO)
+[05:18:08] [Client thread/INFO]: [CHAT] §ehikaru1118§e(ACR) killed §ataiki6§a(ACR)
+[05:18:08] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) shot §ctakutakuyuyu§c(SPI)
+[05:18:11] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §ehikaru1118§e(ACR)
+[05:18:11] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §ajunglegreen§a(ACR)
+[05:18:29] [Client thread/INFO]: [CHAT] §cfkyuu01§c(ACR) killed §ejemmy347§e(ARC)
+[05:18:33] [Client thread/INFO]: [CHAT] §chayue§c(ACR) killed §eseiya0818§e(BUI)
+[05:18:36] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:18:37] [Client thread/INFO]: [CHAT] §cfkyuu01§c(ACR) shot §9RoyalNavy§9(ROB)
+[05:18:37] [Client thread/INFO]: [CHAT] §eCabalaro§e(ACR) killed §aCuckooLasagne§a(CIV)
+[05:18:39] [Client thread/INFO]: [CHAT] TIP: Defend your nexus!  If your nexus is destroyed, you will be unable to respawn and your team will lose the match.
+[05:18:48] [Client thread/INFO]: [CHAT] §ajunglegreen§a(ACR) killed §9kirar1n§9(SUC)
+[05:18:50] [Client thread/INFO]: [CHAT] §e_gt_1234§e(ACR) killed §ana_oto_§a(SPI)
+[05:19:01] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §ajunglegreen§a(ACR)
+[05:19:04] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) shot §cfkyuu01§c(ACR)
+[05:19:06] [Client thread/INFO]: [CHAT] (Team) [Green] otmis25: tp to mid up!
+[05:19:25] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SPY) killed §c0b1rd§c(SCP)
+[05:19:28] [Client thread/INFO]: [CHAT] §9fulg0r§9(SCO) killed §awarata§a(PYR)
+[05:19:33] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §a6qU_§a(SCP)
+[05:19:33] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §ekousan125_pvp§e(BUI)
+[05:19:38] [Client thread/INFO]: [CHAT] §cMCtinkerer§c(BUI) killed §9MomokaNyanNyan§9(SPY)
+[05:19:38] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SPY) killed §cMCtinkerer§c(BUI)
+[05:19:44] [Client thread/INFO]: [CHAT] §achimu17§a(ACR) killed §9kirar1n§9(SUC)
+[05:19:46] [Client thread/INFO]: [CHAT] §9RoyalNavy§9(ROB) killed §eseiya0818§e(BUI)
+[05:19:52] [Client thread/INFO]: [CHAT] §eSweatpant_B0ner§e(PYR) killed §chayue§c(ACR)
+[05:19:56] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §a6qU_§a(SCP)
+[05:19:57] [Client thread/INFO]: [CHAT] §ana_oto_§a(SPI) killed §9honoyuki§9(WAR)
+[05:20:01] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) shot §ejemmy347§e(ARC)
+[05:20:03] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §aHorst_Frank§a(TRA)
+[05:20:03] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[05:20:04] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §e_gt_1234§e(THO)
+[05:20:07] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §ebickey0704§e(SWA)
+[05:20:09] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) shot §eThobias_xD§e(SCO)
+[05:20:09] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §eyumeraku§e(ARC)
+[05:20:10] [Client thread/INFO]: [CHAT] This is a teleport placed by otmis25, sneak to go through it.
+[05:20:13] [Client thread/INFO]: [CHAT] §aCuckooLasagne§a(CIV) killed §eM6A3E8§e(ARC)
+[05:20:14] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §a6qU_§a(SCP)
+[05:20:14] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §ajunglegreen§a(ACR)
+[05:20:14] [Client thread/INFO]: [CHAT] This is a teleport placed by otmis25, sneak to go through it.
+[05:20:16] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §9honoyuki§9(WAR)
+[05:20:16] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §9MomokaNyanNyan§9(SPY)
+[05:20:22] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §awarata§a(PYR)
+[05:20:27] [Client thread/INFO]: [CHAT] §9gakkun87§9(SPY) killed §cga_to_130§c(VAM)
+[05:20:30] [Client thread/INFO]: [CHAT] §cyakisobacar§c(WIZ) killed §eAquaBlooper§e(VAM) defending Red's Nexus.
+[05:20:31] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §ana_oto_§a(SPI)
+[05:20:33] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §a6qU_§a(SCP)
+[05:20:33] [Client thread/INFO]: [CHAT] §9Dahian§9(SUC) killed §aharuto0829§a(ALC) attacking Green's Nexus.
+[05:20:40] [Client thread/INFO]: [CHAT] TIP: Want to learn more about Annihilation to better enhance your experience? We have a full wiki on the game over on our forums: https://shotbow.net/forum/wiki/annihilation/
+[05:20:51] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §aCuckooLasagne§a(CIV)
+[05:20:52] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SPY) killed §eDqBall3475§e(TRA)
+[05:20:53] [Client thread/INFO]: [CHAT] §eJoancito63§e(SCP) killed §9MomokaNyanNyan§9(SPY)
+[05:20:54] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) shot §ana_oto_§a(SPI)
+[05:20:54] [Client thread/INFO]: [CHAT] §awarata§a(PYR) killed §9honoyuki§9(WAR)
+[05:20:55] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) shot §aRgml_natasou_xxx§a(SCP)
+[05:20:57] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(PYR) killed §eSweatpant_B0ner§e(PYR)
+[05:20:59] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §awarata§a(PYR)
+[05:21:00] [Client thread/INFO]: [CHAT] §c0b1rd§c(SCP) killed §9hikapyon§9(TRA)
+[05:21:06] [Client thread/INFO]: [CHAT] §a6qU_§a(SCP) killed §9Dahian§9(SUC)
+[05:21:06] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §9kirar1n§9(SUC)
+[05:21:13] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §ajunglegreen§a(PYR)
+[05:21:13] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) shot §aRgml_natasou_xxx§a(SCP)
+[05:21:14] [Client thread/INFO]: [CHAT] §eDqBall3475§e(TRA) killed §ckuroyuki_jp§c(VAM)
+[05:21:15] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SPY) killed §c0b1rd§c(SCP)
+[05:21:20] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §9honoyuki§9(WAR)
+[05:21:22] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) shot §ana_oto_§a(SPI)
+[05:21:28] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) shot §awarata§a(PYR)
+[05:21:41] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SPY) killed §cyakisobacar§c(WIZ)
+[05:21:44] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SPY) killed §cMCtinkerer§c(BUI)
+[05:21:46] [Client thread/INFO]: [CHAT] §chayahaya2§c(WAR) killed §eAquaBlooper§e(VAM) defending Red's Nexus.
+[05:21:46] [Client thread/INFO]: [CHAT] §eyumeraku§e(ARC) shot §cGomiya_www§c(MIN)
+[05:21:54] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §ana_oto_§a(SPI)
+[05:21:55] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §eCabalaro§e(BER)
+[05:21:56] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(PYR) killed §a6qU_§a(SCP)
+[05:21:58] [Client thread/INFO]: [CHAT] §eyumeraku§e(ARC) shot §aHorst_Frank§a(TRA)
+[05:21:58] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[05:21:59] [Client thread/INFO]: [CHAT] §cnttdocomodcmx§c(PYR) killed §9MomokaNyanNyan§9(SPY)
+[05:22:05] [Client thread/INFO]: [CHAT] §9hikapyon§9(TRA) killed §awarata§a(PYR)
+[05:22:12] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn: ？
+[05:22:15] [Client thread/INFO]: [CHAT] §eThobias_xD§e(SCO) killed §9hikapyon§9(TRA)
+[05:22:16] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §ana_oto_§a(SPI)
+[05:22:17] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: ｔｙ
+[05:22:19] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §ajunglegreen§a(PYR)
+[05:22:21] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §eLooomi§e(WAR)
+[05:22:21] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §eThobias_xD§e(SCO)
+[05:22:29] [Client thread/INFO]: [CHAT] §c_Kirigaya_Kazuto§c(FAR) killed §eAquaBlooper§e(VAM)
+[05:22:30] [Client thread/INFO]: [CHAT] §9honoyuki§9(WAR) killed §ana_oto_§a(SPI)
+[05:22:35] [Client thread/INFO]: [CHAT] (Team) [Green] siinabfk [WLA]: うお
+[05:22:36] [Client thread/INFO]: [CHAT] §eshaneomac69§e(ENC) killed §awarata§a(PYR)
+[05:22:37] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §9ZomboyChan§9(PYR)
+[05:22:37] [Client thread/INFO]: [CHAT] §9GGpand4§9(SCP) killed §a2018_kitsune§a(PYR)
+[05:22:41] [Client thread/INFO]: [CHAT] TIP: Experience can be gained by mining resource blocks.  The more valuable the ore, the more XP gained!  Use the experience at the enchanting table near your nexus.
+[05:22:46] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §cyakisobacar§c(WIZ)
+[05:22:46] [Client thread/INFO]: [CHAT] §akohei816§a(ACR) killed §eshaneomac69§e(ENC)
+[05:22:48] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) killed §a6qU_§a(SCP)
+[05:22:56] [Client thread/INFO]: [CHAT] §9honoyuki§9(WAR) killed §eok2931§e(SPY)
+[05:22:57] [Client thread/INFO]: [CHAT] §aryutokume§a(VAM) killed §ckuroyuki_jp§c(VAM)
+[05:22:58] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §aCuckooLasagne§a(CIV)
+[05:22:58] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) shot §ana_oto_§a(SPI)
+[05:23:01] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §awarata§a(PYR)
+[05:23:04] [Client thread/INFO]: [CHAT] §9pjt8014§9(ENC) killed §c0b1rd§c(ASN)
+[05:23:04] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §a_taki§a(IMM) attacking Green's Nexus.
+[05:23:12] [Client thread/INFO]: [CHAT] §eAquaBlooper§e(VAM) killed §ctakutakuyuyu§c(ALC)
+[05:23:14] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:23:15] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §a6qU_§a(SCP)
+[05:23:16] [Client thread/INFO]: [CHAT] §ajunglegreen§a(PYR) killed §9honoyuki§9(WAR)
+[05:23:18] [Client thread/INFO]: [CHAT] §ctakutakuyuyu§c(ALC) killed §eAquaBlooper§e(VAM) defending Red's Nexus.
+[05:23:23] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §awarata§a(PYR)
+[05:23:25] [Client thread/INFO]: [CHAT] §ana_oto_§a(SPI) killed §9xKingxVirusx§9(SCO)
+[05:23:28] [Client thread/INFO]: [CHAT] §eLooomi§e(ARC) killed §cga_to_130§c(VAM)
+[05:23:46] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ACR) killed §cManlyTuxedo§c(ACR)
+[05:23:47] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(PYR) shot §ataiki6§a(FAR)
+[05:23:52] [Client thread/INFO]: [CHAT] §aniniboo§a(SPY) killed §cyakisobacar§c(WIZ)
+[05:23:54] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:23:54] [Client thread/INFO]: [CHAT] §cmi_yacat§c(PYR) shot §a6qU_§a(SCP)
+[05:23:55] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:24:07] [Client thread/INFO]: [CHAT] §9pjt8014§9(ENC) killed §eAquaBlooper§e(VAM) defending Blue's Nexus.
+[05:24:08] [Client thread/INFO]: [CHAT] §cMCtinkerer§c(LUM) killed §awarata§a(PYR)
+[05:24:12] [Client thread/INFO]: [CHAT] §cmi_yacat§c(PYR) killed §eseiya0818§e(ENG)
+[05:24:17] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(PYR) killed §a6qU_§a(SCP)
+[05:24:18] [Client thread/INFO]: [CHAT] §cmi_yacat§c(PYR) killed §ekousan125_pvp§e(SWA)
+[05:24:19] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §ataiki6§a(FAR)
+[05:24:23] [Client thread/INFO]: [CHAT] §cmi_yacat§c(PYR) shot §eAquaBlooper§e(VAM)
+[05:24:30] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(PYR) killed §awarata§a(PYR)
+[05:24:30] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §ana_oto_§a(SPI)
+[05:24:42] [Client thread/INFO]: [CHAT] TIP: Enjoying Annihilation? Consider buying premium to get awesome perks plus an XP bonus across all Shotbow game modes!
+[05:24:42] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) shot §c0b1rd§c(ASN)
+[05:24:45] [Client thread/INFO]: [CHAT] §awarata§a(PYR) killed §eAquaBlooper§e(VAM)
+[05:24:45] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[05:24:51] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) killed §ana_oto_§a(SPI)
+[05:24:53] [Client thread/INFO]: [CHAT] §c_Lith§c(SCO) killed §eseiya0818§e(ENG)
+[05:24:53] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §9chuki§9(ACR)
+[05:25:02] [Client thread/INFO]: [CHAT] §c_Lith§c(SCO) killed §eLooomi§e(ARC)
+[05:25:14] [Client thread/INFO]: [CHAT] §csakura_522§c(ENC) killed §eseiya0818§e(ENG)
+[05:25:22] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §ana_oto_§a(SPI)
+[05:25:24] [Client thread/INFO]: [CHAT] §aDeggoGamer§a(ACR) shot §9Xx_kirithan77_xX§9(PYR)
+[05:25:31] [Client thread/INFO]: [CHAT] §akohei816§a(ACR) shot §cMCtinkerer§c(LUM)
+[05:25:33] [Client thread/INFO]: [CHAT] §cnttdocomodcmx§c(PYR) killed §aniniboo§a(SPY)
+[05:25:36] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ACR) killed §cManlyTuxedo§c(ACR)
+[05:25:38] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §cyakisobacar§c(WIZ)
+[05:25:44] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:25:45] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:25:45] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:25:46] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:25:47] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:25:51] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(PYR) killed §ekoma1024§e(ACR)
+[05:25:52] [Client thread/INFO]: [CHAT] §afken32§a(WIZ) killed §9gakkun87§9(SCO) defending Green's Nexus.
+[05:25:53] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §eLooomi§e(WAR)
+[05:25:57] [Client thread/INFO]: [CHAT] §cnttdocomodcmx§c(PYR) shot §aryon4949§a(DAS)
+[05:26:07] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) killed §aotmis25§a(TRA)
+[05:26:11] [Client thread/INFO]: [CHAT] §eyumeraku§e(ARC) shot §aryon4949§a(DAS)
+[05:26:16] [Client thread/INFO]: [CHAT] §achimu17§a(ACR) killed §e_gt_1234§e(THO)
+[05:26:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:26:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:26:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:26:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:26:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 4 has started
+[05:26:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Blaze Powder is now available
+[05:26:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Firwen has spawned
+[05:26:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:26:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:26:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:26:34] [Client thread/INFO]: [CHAT] §cnttdocomodcmx§c(PYR) killed §9kirar1n§9(SUC)
+[05:26:38] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ACR) killed §cManlyTuxedo§c(ACR)
+[05:26:39] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(SCO) killed §ana_oto_§a(SPI)
+[05:26:40] [Client thread/INFO]: [CHAT] §ebickey0704§e(SWA) killed §aryon4949§a(DAS)
+[05:26:41] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) shot §cyakisobacar§c(WIZ)
+[05:26:42] [Client thread/INFO]: [CHAT] TIP: Be creative in your tactics.  Use invisibility potions to bypass enemies, or use wooden blocks to create barriers around your base.
+[05:26:56] [Client thread/INFO]: [CHAT] §9Bj_Rain_Fall§9(ARC) killed §cGomiya_www§c(MIN) defending Blue's Nexus.
+[05:26:59] [Client thread/INFO]: [CHAT] §cmi_yacat§c(PYR) shot §ekoma1024§e(ACR)
+[05:27:05] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(PYR) killed §cMCtinkerer§c(LUM)
+[05:27:08] [Client thread/INFO]: [CHAT] §cmi_yacat§c(PYR) killed §9Xx_kirithan77_xX§9(PYR)
+[05:27:09] [Client thread/INFO]: [CHAT] §9chuki§9(PYR) killed §akohei816§a(ACR)
+[05:27:10] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §aotmis25§a(TRA)
+[05:27:16] [Client thread/INFO]: [CHAT] thriftymom used your portal.
+[05:27:17] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §eyumeraku§e(ARC)
+[05:27:18] [Client thread/INFO]: [CHAT] chimu17 used your portal.
+[05:27:23] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §ebickey0704§e(SWA)
+[05:27:24] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) killed §ekoma1024§e(ACR)
+[05:27:29] [Client thread/INFO]: [CHAT] chimu17 used your portal.
+[05:27:32] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) killed §afken32§a(WIZ)
+[05:27:33] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) killed §aryon4949§a(DAS)
+[05:27:39] [Client thread/INFO]: [CHAT] fken32 used your portal.
+[05:27:39] [Client thread/INFO]: [CHAT] ryon4949 used your portal.
+[05:27:40] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §ekousan125_pvp§e(SWA)
+[05:27:41] [Client thread/INFO]: [CHAT] (Team) [Green] DeggoGamer: tp to mid pls
+[05:27:42] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(PYR) shot §ekoma1024§e(ACR)
+[05:27:46] [Client thread/INFO]: [CHAT] (Team) [Green] otmis25: trying
+[05:27:50] [Client thread/INFO]: [CHAT] §ajunglegreen§a(SWA) killed §eLooomi§e(WAR)
+[05:27:52] [Client thread/INFO]: [CHAT] (Team) [Green] thriftymom [Crux]: in process
+[05:27:52] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §ebickey0704§e(SWA)
+[05:27:53] [Client thread/INFO]: [CHAT] §eRINquinque§e(ACR) shot §9ZomboyChan§9(PYR)
+[05:27:54] [Client thread/INFO]: [CHAT] §aDeggoGamer§a(ACR) killed §9MomokaNyanNyan§9(SCP)
+[05:28:04] [Client thread/INFO]: [CHAT] (Team) [Green] otmis25: got it
+[05:28:06] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §afken32§a(WIZ)
+[05:28:07] [Client thread/INFO]: [CHAT] §eBLACKJP9646§e(ACR) killed §cManlyTuxedo§c(ACR)
+[05:28:11] [Client thread/INFO]: [CHAT] §eJoancito63§e(SCP) killed §aryon4949§a(DAS)
+[05:28:11] [Client thread/INFO]: [CHAT] fken32 used your portal.
+[05:28:12] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §ekoma1024§e(ACR)
+[05:28:14] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) killed §atomotomo0326§a(CIV)
+[05:28:15] [Client thread/INFO]: [CHAT] Horst_Frank used your portal.
+[05:28:15] [Client thread/INFO]: [CHAT] ryon4949 used your portal.
+[05:28:16] [Client thread/INFO]: [CHAT] This is a teleport placed by Horst_Frank, sneak to go through it.
+[05:28:24] [Client thread/INFO]: [CHAT] §cMCtinkerer§c(TRA) killed §eseiya0818§e(ENG)
+[05:28:31] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eAquaBlooper§e(VAM)
+[05:28:34] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §ekousan125_pvp§e(SWA)
+[05:28:43] [Client thread/INFO]: [CHAT] TIP: Enjoying Annihilation? If so, you can try out our fast paced 8v8 Competitive Mode accessible via the Annihilation Lobby using the Diamond Sword!
+[05:28:44] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: 緑なんでダイヤフルいないんですか？
+[05:28:45] [Client thread/INFO]: [CHAT] §athriftymom§a(ACR) killed §eLooomi§e(WAR)
+[05:28:46] [Client thread/INFO]: [CHAT] §asiinabfk§a(ACR) killed §ekoma1024§e(ACR)
+[05:28:49] [Client thread/INFO]: [CHAT] §9fulg0r§9(ENC) killed §eDqBall3475§e(ACR)
+[05:28:54] [Client thread/INFO]: [CHAT] Firwen has been slain and claimed by Blue team
+[05:28:57] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, tomotomo0326.
+[05:28:57] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) shot §eseiya0818§e(ENG)
+[05:28:59] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: なんでだと思う？
+[05:29:01] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[05:29:02] [Client thread/INFO]: [CHAT] §eAquaBlooper§e(VAM) killed §aotmis25§a(TRA)
+[05:29:03] [Client thread/INFO]: [CHAT] §eikoudai0605§e(IMM) killed §aryon4949§a(DAS)
+[05:29:03] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[05:29:04] [Client thread/INFO]: [CHAT] §eCabalaro§e(BLO) killed §aHorst_Frank§a(TRA) defending Yellow's Nexus.
+[05:29:05] [Client thread/INFO]: [CHAT] §ajunglegreen§a(SWA) killed §eAquaBlooper§e(VAM)
+[05:29:07] [Client thread/INFO]: [CHAT] ryon4949 used your portal.
+[05:29:09] [Client thread/INFO]: [CHAT] §eRINquinque§e(ACR) shot §cManlyTuxedo§c(ACR)
+[05:29:10] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: ピッケルないの？
+[05:29:10] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SCP) killed §a6qU_§a(SCP)
+[05:29:13] [Client thread/INFO]: [CHAT] [Yellow] [G] _gt_1234 [5han]: kusa
+[05:29:13] [Client thread/INFO]: [CHAT] Horst_Frank used your portal.
+[05:29:14] [Client thread/INFO]: [CHAT] This is a teleport placed by Horst_Frank, sneak to go through it.
+[05:29:15] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: あーるよ
+[05:29:18] [Client thread/INFO]: [CHAT] §awarata§a(PYR) shot §ekoma1024§e(ACR)
+[05:29:19] [Client thread/INFO]: [CHAT] otmis25 used your portal.
+[05:29:21] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: 自陣にいるからさ
+[05:29:23] [Client thread/INFO]: [CHAT] [Red] Ra_pis [PWSN]: LOL
+[05:29:29] [Client thread/INFO]: [CHAT] [Blue] [P] tora0409 [TORA]: ならすことか心臓に悪すぎ
+[05:29:34] [Client thread/INFO]: [CHAT] §awarata§a(PYR) killed §eDqBall3475§e(ACR)
+[05:29:35] [Client thread/INFO]: [CHAT] §ekoma1024§e(ACR) killed §awarata§a(PYR)
+[05:29:39] [Client thread/INFO]: [CHAT] warata used your portal.
+[05:29:39] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: さっきから奈落に引っ張ってるの鉄フルしかいないから面白くないんだよね～
+[05:29:39] [Client thread/INFO]: [CHAT] §9pjt8014§9(ENC) killed §ana_oto_§a(SPI) defending Blue's Nexus.
+[05:29:39] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §eseiya0818§e(ENG)
+[05:29:49] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) shot §ekoma1024§e(ACR)
+[05:29:52] [Client thread/INFO]: [CHAT] §ajunglegreen§a(SWA) killed §ekousan125_pvp§e(PYR)
+[05:29:52] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: あっそ
+[05:29:59] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) killed §a6qU_§a(SCP)
+[05:30:01] [Client thread/INFO]: [CHAT] §ekoma1024§e(ACR) killed §awarata§a(PYR)
+[05:30:02] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eDqBall3475§e(ACR)
+[05:30:03] [Client thread/INFO]: [CHAT] na_oto_ used your portal.
+[05:30:04] [Client thread/INFO]: [CHAT] warata used your portal.
+[05:30:12] [Client thread/INFO]: [CHAT] §eCabalaro§e(BER) killed §aryon4949§a(DAS)
+[05:30:12] [Client thread/INFO]: [CHAT] [Green] haruto0829: キリト!!!!
+[05:30:14] [Client thread/INFO]: [CHAT] §cmi_yacat§c(PYR) killed §eseiya0818§e(ENG)
+[05:30:15] [Client thread/INFO]: [CHAT] ryon4949 used your portal.
+[05:30:17] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) shot §a6qU_§a(SCP)
+[05:30:17] [Client thread/INFO]: [CHAT] §9Bj_Rain_Fall§9(ARC) killed §ebickey0704§e(SCP)
+[05:30:17] [Client thread/INFO]: [CHAT] §awarata§a(PYR) killed §ekoma1024§e(ACR)
+[05:30:29] [Client thread/INFO]: [CHAT] §aryon4949§a(DAS) killed §eAquaBlooper§e(VAM)
+[05:30:31] [Client thread/INFO]: [CHAT] §ekoma1024§e(ACR) killed §awarata§a(PYR)
+[05:30:35] [Client thread/INFO]: [CHAT] warata used your portal.
+[05:30:36] [Client thread/INFO]: [CHAT] §eseiya0818§e(ENG) killed §aryon4949§a(DAS)
+[05:30:39] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) killed §eLooomi§e(WAR)
+[05:30:39] [Client thread/INFO]: [CHAT] ryon4949 used your portal.
+[05:30:42] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) killed §a6qU_§a(SCP)
+[05:30:43] [Client thread/INFO]: [CHAT] TIP: Please be respectful of your fellow players and keep chat appropriate for all ages!
+[05:30:47] [Client thread/INFO]: [CHAT] §eCabalaro§e(BER) killed §cRa_pis§c(HUN)
+[05:30:49] [Client thread/INFO]: [CHAT] §eRINquinque§e(ACR) killed §ana_oto_§a(SPI)
+[05:30:52] [Client thread/INFO]: [CHAT] §eDqBall3475§e(ACR) killed §aHorst_Frank§a(TRA)
+[05:30:53] [Client thread/INFO]: [CHAT] na_oto_ used your portal.
+[05:30:54] [Client thread/INFO]: [CHAT] §eAquaBlooper§e(VAM) killed §awarata§a(PYR)
+[05:30:55] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) shot §ekousan125_pvp§e(PYR)
+[05:31:04] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:31:05] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(PYR) killed §eikoudai0605§e(IMM)
+[05:31:05] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §aryon4949§a(DAS) defending Yellow's Nexus.
+[05:31:06] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) shot §eDqBall3475§e(ACR)
+[05:31:14] [Client thread/INFO]: [CHAT] warata used your portal.
+[05:31:17] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) shot §e_gt_1234§e(THO)
+[05:31:20] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[05:31:23] [Client thread/INFO]: [CHAT] §9tora0409§9(ALC) killed §a6qU_§a(SCP)
+[05:31:23] [Client thread/INFO]: [CHAT] [Yellow] [G] _gt_1234 [5han]: lol
+[05:31:25] [Client thread/INFO]: [CHAT] §awarata§a(SCP) killed §eDqBall3475§e(ACR)
+[05:31:26] [Client thread/INFO]: [CHAT] [Yellow] [G] _gt_1234 [5han]: bow spamer
+[05:31:31] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(PYR) killed §cCOUNTRY0510§c(SCO)
+[05:31:34] [Client thread/INFO]: [CHAT] Alchemist selected
+[05:31:36] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §ana_oto_§a(SPI)
+[05:31:37] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) shot §aryon4949§a(DAS)
+[05:31:37] [Client thread/INFO]: [CHAT] §eDqBall3475§e(ACR) shot §awarata§a(SCP)
+[05:31:37] [Client thread/INFO]: [CHAT] §achimu17§a(ACR) killed §9gakkun87§9(FAR)
+[05:31:47] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §aryon4949§a(DAS)
+[05:31:48] [Client thread/INFO]: [CHAT] §cwhaqlen§c(MIN) killed §eseiya0818§e(ENG)
+[05:31:51] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: あぶなぁ
+[05:31:56] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[05:32:05] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: ミッドでDフルロストするとこだったよぉ
+[05:32:07] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[05:32:09] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eAquaBlooper§e(VAM)
+[05:32:10] [Client thread/INFO]: [CHAT] §9namakotaro§9(ROB) shot §ekousan125_pvp§e(PYR)
+[05:32:11] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(MER) killed §cMCtinkerer§c(TRA)
+[05:32:14] [Client thread/INFO]: [CHAT] §cshinkun123§c(WAR) killed §eLooomi§e(WAR) attacking Yellow's Nexus.
+[05:32:15] [Client thread/INFO]: [CHAT] §ekoma1024§e(ACR) killed §cshinkun123§c(WAR) defending Yellow's Nexus.
+[05:32:20] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §cwhaqlen§c(MIN)
+[05:32:24] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: ダイヤフル様奈落行きお疲れ様です
+[05:32:33] [Client thread/INFO]: [CHAT] [Yellow] [G] _gt_1234 [5han]: umaiapi-ru sitete kusa
+[05:32:37] [Client thread/INFO]: [CHAT] §aDeggoGamer§a(ACR) shot §eDqBall3475§e(ACR)
+[05:32:40] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §cwhaqlen§c(MIN)
+[05:32:40] [Client thread/INFO]: [CHAT] [Green] 2018_kitsune: ならすこーーーーーーー
+[05:32:41] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §cRa_pis§c(HUN)
+[05:32:41] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(MER) killed §ekoma1024§e(ACR)
+[05:32:44] [Client thread/INFO]: [CHAT] [Green] haruto0829: キリト！！
+[05:32:46] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §csakura_522§c(ACR)
+[05:32:46] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §cGomiya_www§c(MIN) defending Blue's Nexus.
+[05:32:47] [Client thread/INFO]: [CHAT] TIP: Enjoying Annihilation? Consider buying premium to get awesome perks plus an XP bonus across all Shotbow game modes!
+[05:32:47] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) shot §aDeggoGamer§a(ACR)
+[05:32:50] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: ひっかかった時クッソ興奮するくね
+[05:32:53] [Client thread/INFO]: [CHAT] [Green] 2018_kitsune [wkb:]: お前かきりと
+[05:32:54] [Client thread/INFO]: [CHAT] [Yellow] TheFr33zer: LOLOLOLOLOL
+[05:32:55] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §cMCtinkerer§c(TRA)
+[05:32:59] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: そうだよ
+[05:32:59] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §ekousan125_pvp§e(PYR)
+[05:33:01] [Client thread/INFO]: [CHAT] §eRINquinque§e(ACR) shot §cManlyTuxedo§c(ACR)
+[05:33:01] [Client thread/INFO]: [CHAT] [Yellow] TheFr33zer: DUDE FEELS BAD
+[05:33:01] [Client thread/INFO]: [CHAT] §9namakotaro§9(ROB) shot §eLooomi§e(WAR)
+[05:33:05] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eAquaBlooper§e(VAM)
+[05:33:11] [Client thread/INFO]: [CHAT] [Green] 2018_kitsune [wkb:]: 幸運3ろすったやねーか
+[05:33:12] [Client thread/INFO]: [CHAT] [Green] haruto0829: おーー！
+[05:33:15] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: 奈落スコピして楽しいのわわかるけど
+[05:33:17] [Client thread/INFO]: [CHAT] [Green] 2018_kitsune [wkb:]: うらむ
+[05:33:17] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(ALC) killed §cga_to_130§c(SCP)
+[05:33:22] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: ｺﾞﾒﾝﾈ
+[05:33:23] [Client thread/INFO]: [CHAT] [Blue] [P] tora0409 [TORA]: blueだけくぼみあるからたすかった
+[05:33:24] [Client thread/INFO]: [CHAT] §ekoma1024§e(ACR) killed §9Bj_Rain_Fall§9(ARC)
+[05:33:24] [Client thread/INFO]: [CHAT] §9namakotaro§9(ROB) killed §ekoma1024§e(ACR)
+[05:33:24] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: うるさいから黙ってろ
+[05:33:26] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eLooomi§e(WAR)
+[05:33:30] [Client thread/INFO]: [CHAT] [Yellow] [G] _gt_1234 [5han]: sore
+[05:33:32] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: ﾃﾍﾍﾟﾛ
+[05:33:40] [Client thread/INFO]: [CHAT] [Yellow] [G] _gt_1234 [5han]: koitu rp siyo
+[05:33:42] [Client thread/INFO]: [CHAT] §awarata§a(SCP) killed §eCabalaro§e(BER)
+[05:33:45] [Client thread/INFO]: [CHAT] §ana_oto_§a(SPI) killed §9gakkun87§9(WIZ)
+[05:33:50] [Client thread/INFO]: [CHAT] [Green] 2018_kitsune [wkb:]: まっ、いいけど
+[05:33:51] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(MER) killed §ekoma1024§e(ACR)
+[05:33:51] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: そだね チャットスパムや
+[05:33:53] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §awarata§a(SCP)
+[05:33:55] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) shot §ajunglegreen§a(SWA)
+[05:33:57] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) killed §ana_oto_§a(SPI)
+[05:33:58] [Client thread/INFO]: [CHAT] §aDeggoGamer§a(ACR) killed §9hikapyon§9(SCO)
+[05:34:02] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) shot §eTheFr33zer§e(LUM)
+[05:34:03] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ACR) shot §aCuckooLasagne§a(CIV)
+[05:34:08] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) shot §aDeggoGamer§a(ACR)
+[05:34:11] [Client thread/INFO]: [CHAT] [Yellow] TheFr33zer: bruh
+[05:34:13] [Client thread/INFO]: [CHAT] §9gakkun87§9(WIZ) killed §cyakisobacar§c(WIZ) defending Blue's Nexus.
+[05:34:17] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[05:34:20] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ACR) shot §ajunglegreen§a(SWA)
+[05:34:21] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) shot §ana_oto_§a(SPI)
+[05:34:23] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eAquaBlooper§e(VAM)
+[05:34:30] [Client thread/INFO]: [CHAT] §cwhaqlen§c(MIN) killed §e_gt_1234§e(THO)
+[05:34:33] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) shot §a6qU_§a(SCP)
+[05:34:37] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(PYR) killed §cCOUNTRY0510§c(SUC)
+[05:34:42] [Client thread/INFO]: [CHAT] [Yellow] [G] _gt_1234 [5han]: lol lager
+[05:34:47] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §cMatsumot§c(SWA)
+[05:34:47] [Client thread/INFO]: [CHAT] Want to advertise your stream or Youtube channel? Got something to say to the entire network? Get a Shotbow Shout at shout.shotbow.net
+[05:34:51] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) killed §ana_oto_§a(SPI)
+[05:34:52] [Client thread/INFO]: [CHAT] §a6qU_§a(SCP) killed §9Dahian§9(ACR)
+[05:34:59] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ACR) shot §aCuckooLasagne§a(CIV)
+[05:35:04] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ACR) shot §awarata§a(SCP)
+[05:35:06] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(MER) killed §eAquaBlooper§e(VAM)
+[05:35:07] [Client thread/INFO]: [CHAT] §eDqBall3475§e(ACR) killed §cManlyTuxedo§c(ACR)
+[05:35:07] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §cyakisobacar§c(WIZ)
+[05:35:12] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §atikuwa0807§a(TRA)
+[05:35:16] [Client thread/INFO]: [CHAT] [Red] Ra_pis [PWSN]: LOL
+[05:35:18] [Client thread/INFO]: [CHAT] §eRINquinque§e(ACR) killed §9hikapyon§9(SCO)
+[05:35:19] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ACR) killed §ana_oto_§a(SPI)
+[05:35:30] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §eTheFr33zer§e(LUM)
+[05:35:47] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[05:35:52] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[05:35:57] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) shot §aCuckooLasagne§a(CIV)
+[05:36:10] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: みんな
+[05:36:11] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ACR) shot §ana_oto_§a(SPI)
+[05:36:15] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: 奈落スコピに気を付けるぞ
+[05:36:18] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §ekoma1024§e(ACR)
+[05:36:19] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eLooomi§e(WAR)
+[05:36:20] [Client thread/INFO]: [CHAT] §9namakotaro§9(ROB) shot §eDqBall3475§e(ACR)
+[05:36:21] [Client thread/INFO]: [CHAT] (Team) [Green] haruto0829: ok!
+[05:36:23] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[05:36:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:36:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:36:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:36:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:36:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 5 has started
+[05:36:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Nexus bleed every 45 seconds!
+[05:36:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:36:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:36:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:36:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[05:36:26] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[05:36:31] [Client thread/INFO]: [CHAT] §9pjt8014§9(SCO) killed §a6qU_§a(SCP)
+[05:36:34] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §a2018_kitsune§a(SUC)
+[05:36:34] [Client thread/INFO]: [CHAT] §9gakkun87§9(WIZ) killed §ana_oto_§a(SPI)
+[05:36:34] [Client thread/INFO]: [CHAT] (Team) [Green] chimu17: mouyararetayo
+[05:36:35] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ACR) shot §aCuckooLasagne§a(CIV)
+[05:36:39] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: Dフルロストとかシャレになんねぇから
+[05:36:42] [Client thread/INFO]: [CHAT] Firwen has been slain and claimed by Blue team
+[05:36:42] [Client thread/INFO]: [CHAT] §c_Lith§c(SUC) killed §e_gt_1234§e(THO)
+[05:36:44] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: lol
+[05:36:46] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §eLooomi§e(WAR)
+[05:36:48] [Client thread/INFO]: [CHAT] You can vote for The Shotbow Network on Planet Minecraft to help bring new players! Visit vote.shotbow.net to vote!
+[05:36:52] [Client thread/ERROR]: ThrownPotion entity 58838 has no item?!
+[05:36:52] [Client thread/ERROR]: ThrownPotion entity 58838 has no item?!
+[05:36:52] [Client thread/ERROR]: ThrownPotion entity 58838 has no item?!
+[05:36:52] [Client thread/ERROR]: ThrownPotion entity 58838 has no item?!
+[05:36:52] [Client thread/ERROR]: ThrownPotion entity 58838 has no item?!
+[05:36:52] [Client thread/ERROR]: ThrownPotion entity 58838 has no item?!
+[05:36:52] [Client thread/ERROR]: ThrownPotion entity 58838 has no item?!
+[05:36:52] [Client thread/ERROR]: ThrownPotion entity 58838 has no item?!
+[05:36:53] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §cga_to_130§c(THO)
+[05:36:58] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) killed §a6qU_§a(SCP)
+[05:36:58] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §eseiya0818§e(ENG)
+[05:36:59] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §cRa_pis§c(HUN)
+[05:36:59] [Client thread/INFO]: [CHAT] §ana_oto_§a(SPI) killed §9Dahian§9(ACR)
+[05:37:01] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ACR) killed §ana_oto_§a(SPI)
+[05:37:07] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §csakura_522§c(ACR)
+[05:37:21] [Client thread/INFO]: [CHAT] §athriftymom§a(ACR) killed §eseiya0818§e(ENG)
+[05:37:25] [Client thread/ERROR]: ThrownPotion entity 59419 has no item?!
+[05:37:25] [Client thread/ERROR]: ThrownPotion entity 59419 has no item?!
+[05:37:25] [Client thread/ERROR]: ThrownPotion entity 59419 has no item?!
+[05:37:25] [Client thread/ERROR]: ThrownPotion entity 59419 has no item?!
+[05:37:25] [Client thread/ERROR]: ThrownPotion entity 59419 has no item?!
+[05:37:28] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) shot §9gakkun87§9(WIZ)
+[05:37:32] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §e_gt_1234§e(THO)
+[05:37:36] [Client thread/INFO]: [CHAT] Vampire selected
+[05:37:41] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §ekoma1024§e(ACR)
+[05:37:43] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) shot §eseiya0818§e(ENG)
+[05:37:45] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ACR) killed §a6qU_§a(SCP)
+[05:38:01] [Client thread/INFO]: [CHAT] §asiinabfk§a(ACR) killed §eTheFr33zer§e(LUM)
+[05:38:02] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eseiya0818§e(ENG)
+[05:38:09] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) shot §ekoma1024§e(ACR)
+[05:38:19] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §ekousan125_pvp§e(PYR)
+[05:38:29] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §ekoma1024§e(ACR)
+[05:38:31] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §eTheFr33zer§e(LUM)
+[05:38:36] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) shot §cga_to_130§c(ACR)
+[05:38:41] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) shot §eDqBall3475§e(ACR)
+[05:38:45] [Client thread/INFO]: [CHAT] §9pjt8014§9(SCO) killed §ekousan125_pvp§e(PYR)
+[05:38:48] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) killed §aCuckooLasagne§a(CIV)
+[05:38:48] [Client thread/INFO]: [CHAT] TIP: Change your class by entering the nether portal near your nexus.  You can unlock classes by meeting certain criteria or by unlocking them with Shotbow XP.
+[05:38:50] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) killed §aDeggoGamer§a(ACR)
+[05:38:50] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: 誰か落ちたかな？
+[05:38:50] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ACR) killed §a6qU_§a(SCP)
+[05:39:02] [Client thread/INFO]: [CHAT] §9pjt8014§9(SCO) killed §ekousan125_pvp§e(PYR)
+[05:39:03] [Client thread/INFO]: [CHAT] §athriftymom§a(ACR) killed §eyumeraku§e(ARC)
+[05:39:04] [Client thread/INFO]: [CHAT] §ana_oto_§a(SPI) shot §9xKingxVirusx§9(ACR)
+[05:39:04] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) shot §9Dahian§9(ACR)
+[05:39:06] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §cManlyTuxedo§c(ACR)
+[05:39:10] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §e_gt_1234§e(THO)
+[05:39:20] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) killed §ekousan125_pvp§e(PYR)
+[05:39:33] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) killed §9hikapyon§9(VAM) defending Yellow's Nexus.
+[05:39:35] [Client thread/INFO]: [CHAT] §eCabalaro§e(BER) killed §a2018_kitsune§a(SCO)
+[05:39:36] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §cga_to_130§c(ACR)
+[05:39:37] [Client thread/INFO]: [CHAT] §cmi_yacat§c(ACR) killed §eJoancito63§e(SCP)
+[05:39:37] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §cGomiya_www§c(MIN)
+[05:39:41] [Client thread/INFO]: [CHAT] §9namakotaro§9(ROB) shot §ekousan125_pvp§e(PYR)
+[05:39:49] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §cmi_yacat§c(ACR)
+[05:39:59] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §ekousan125_pvp§e(PYR)
+[05:39:59] [Client thread/INFO]: [CHAT] (Team) [Green] 2018_kitsune [wkb:]: def plz
+[05:40:01] [Client thread/INFO]: [CHAT] §aao_udonn§a(PYR) shot §eAquaBlooper§e(VAM) defending Green's Nexus.
+[05:40:01] [Client thread/INFO]: [CHAT] §ejemmy347§e(MIN) killed §aHorst_Frank§a(VAM)
+[05:40:04] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eDqBall3475§e(ACR)
+[05:40:05] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §eok2931§e(SPY)
+[05:40:18] [Client thread/INFO]: [CHAT] §athriftymom§a(ACR) killed §ekoma1024§e(ACR)
+[05:40:22] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §chayahaya2§c(SCO) defending Yellow's Nexus.
+[05:40:22] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[05:40:39] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §ekousan125_pvp§e(PYR)
+[05:40:48] [Client thread/INFO]: [CHAT] TIP: Someone cheating?  Using bad language?  Keep calm, don't hackusate, and use /report <name> ASAP!
+[05:40:51] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §eseiya0818§e(ARC)
+[05:41:05] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §cCOUNTRY0510§c(SUC)
+[05:41:08] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §cI_L_Dokdo§c(HEA)
+[05:41:09] [Client thread/INFO]: [CHAT] §athriftymom§a(ACR) killed §eAquaBlooper§e(VAM)
+[05:41:11] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §chayahaya2§c(SCO)
+[05:41:12] [Client thread/INFO]: [CHAT] §9MomokaNyanNyan§9(SCP) killed §aotmis25§a(TRA)
+[05:41:12] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §ctakutakuyuyu§c(ALC)
+[05:41:17] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cga_to_130§c(ACR)
+[05:41:18] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §c_Kirigaya_Kazuto§c(FAR)
+[05:41:18] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §chayahaya2§c(SCO) attacking Red's Nexus.
+[05:41:19] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §ctakutakuyuyu§c(ALC) attacking Red's Nexus.
+[05:41:20] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:41:21] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:41:22] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:41:23] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §cGomiya_www§c(MIN)
+[05:41:23] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:41:24] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) shot §cwhaqlen§c(ARC)
+[05:41:25] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:41:25] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cCOUNTRY0510§c(MER) attacking Red's Nexus.
+[05:41:25] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §csakura_522§c(ACR) attacking Red's Nexus.
+[05:41:26] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §ctakutakuyuyu§c(ALC) attacking Red's Nexus.
+[05:41:26] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §cdanzanaito_§c(WAR)
+[05:41:26] [Client thread/INFO]: [CHAT] §cdanzanaito_§c(WAR) killed §9Xx_kirithan77_xX§9(SCO)
+[05:41:27] [Client thread/INFO]: [CHAT] §a6qU_§a(SCP) killed §9honoyuki§9(WAR) attacking Blue's Nexus.
+[05:41:30] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §ctakutakuyuyu§c(ALC) attacking Red's Nexus.
+[05:41:31] [Client thread/INFO]: [CHAT] §9kosuke0526§9(ACR) killed §aryutokume§a(VAM) defending Blue's Nexus.
+[05:41:33] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §chayahaya2§c(SCO) attacking Red's Nexus.
+[05:41:33] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §cCOUNTRY0510§c(MER) attacking Red's Nexus.
+[05:41:33] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §cGomiya_www§c(MIN) attacking Red's Nexus.
+[05:41:35] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §csakura_522§c(ACR) attacking Red's Nexus.
+[05:41:37] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §cMatsumot§c(SWA) attacking Red's Nexus.
+[05:41:38] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §cwhaqlen§c(ARC) attacking Red's Nexus.
+[05:41:39] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §cMCtinkerer§c(TRA) attacking Red's Nexus.
+[05:41:41] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §cCOUNTRY0510§c(MER) attacking Red's Nexus.
+[05:41:42] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §cdanzanaito_§c(WAR)
+[05:41:42] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §cGomiya_www§c(MIN) attacking Red's Nexus.
+[05:41:42] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §a6qU_§a(SCP)
+[05:41:44] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) killed §ekoma1024§e(ACR)
+[05:41:44] [Client thread/INFO]: [CHAT] §9namakotaro§9(ROB) shot §ekousan125_pvp§e(PYR)
+[05:41:44] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §chayahaya2§c(SCO) attacking Red's Nexus.
+[05:41:44] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cwhaqlen§c(ARC) attacking Red's Nexus.
+[05:41:46] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §cga_to_130§c(ACR) attacking Red's Nexus.
+[05:41:47] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §ctakutakuyuyu§c(SUC) attacking Red's Nexus.
+[05:41:48] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cCOUNTRY0510§c(MER) attacking Red's Nexus.
+[05:41:49] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §cMCtinkerer§c(TRA) attacking Red's Nexus.
+[05:41:49] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §chayahaya2§c(SCO) attacking Red's Nexus.
+[05:41:49] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §eok2931§e(PYR)
+[05:41:51] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §cGomiya_www§c(MIN) attacking Red's Nexus.
+[05:41:51] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §cwhaqlen§c(ARC) attacking Red's Nexus.
+[05:41:55] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §ctakutakuyuyu§c(SUC) attacking Red's Nexus.
+[05:41:59] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §cdanzanaito_§c(WAR)
+[05:42:00] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §cMCtinkerer§c(TRA) attacking Red's Nexus.
+[05:42:00] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §chayahaya2§c(SCO) attacking Red's Nexus.
+[05:42:01] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:42:02] [Client thread/INFO]: [CHAT] §cManlyTuxedo§c(ACR) killed §eseiya0818§e(ARC)
+[05:42:02] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §cCOUNTRY0510§c(MER) attacking Red's Nexus.
+[05:42:02] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cMatsumot§c(SWA) attacking Red's Nexus.
+[05:42:03] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §ctakutakuyuyu§c(SUC)
+[05:42:04] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:42:04] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §ekousan125_pvp§e(PYR)
+[05:42:05] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §cGomiya_www§c(MIN) attacking Red's Nexus.
+[05:42:05] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §ekoma1024§e(ACR)
+[05:42:07] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[05:42:07] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) shot §cwhaqlen§c(ARC)
+[05:42:09] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §cMCtinkerer§c(TRA) attacking Red's Nexus.
+[05:42:10] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §csakura_522§c(ACR) attacking Red's Nexus.
+[05:42:11] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cCOUNTRY0510§c(MER) attacking Red's Nexus.
+[05:42:12] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §chayahaya2§c(SCO)
+[05:42:12] [Client thread/INFO]: [CHAT] §eRINquinque§e(ACR) shot §cManlyTuxedo§c(ACR)
+[05:42:15] [Client thread/INFO]: [CHAT] §aryutokume§a(VAM) killed §eAquaBlooper§e(VAM) defending Green's Nexus.
+[05:42:16] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ASN) killed §a6qU_§a(SCP)
+[05:42:19] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §ctakutakuyuyu§c(SUC) attacking Red's Nexus.
+[05:42:21] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §cRa_pis§c(VAM) attacking Red's Nexus.
+[05:42:21] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cManlyTuxedo§c(ACR) attacking Red's Nexus.
+[05:42:22] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cCOUNTRY0510§c(MER) attacking Red's Nexus.
+[05:42:23] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §cGomiya_www§c(MIN) attacking Red's Nexus.
+[05:42:25] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §cwhaqlen§c(ARC) attacking Red's Nexus.
+[05:42:25] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §csakura_522§c(ACR) attacking Red's Nexus.
+[05:42:27] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §cRa_pis§c(VAM) attacking Red's Nexus.
+[05:42:27] [Client thread/INFO]: [CHAT] §athriftymom§a(ACR) shot §eGERAMC§e(SCP)
+[05:42:27] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §ctakutakuyuyu§c(SUC) attacking Red's Nexus.
+[05:42:28] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) killed §9MomokaNyanNyan§9(SCP)
+[05:42:33] [Client thread/INFO]: [CHAT] §9kirar1n§9(ENC) killed §eDqBall3475§e(VAM)
+[05:42:35] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cGomiya_www§c(MIN) attacking Red's Nexus.
+[05:42:36] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §cdanzanaito_§c(SWA) attacking Red's Nexus.
+[05:42:37] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §chayahaya2§c(SCO) attacking Red's Nexus.
+[05:42:37] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §cI_L_Dokdo§c(HEA) attacking Red's Nexus.
+[05:42:38] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cwhaqlen§c(ARC) attacking Red's Nexus.
+[05:42:39] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §cCOUNTRY0510§c(MER)
+[05:42:40] [Client thread/INFO]: [CHAT] §9kosuke0526§9(ACR) killed §eTheFr33zer§e(LUM) defending Blue's Nexus.
+[05:42:40] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cga_to_130§c(FAR) attacking Red's Nexus.
+[05:42:41] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §cManlyTuxedo§c(SWA) attacking Red's Nexus.
+[05:42:42] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §ctakutakuyuyu§c(SUC) attacking Red's Nexus.
+[05:42:43] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §cGomiya_www§c(MIN) attacking Red's Nexus.
+[05:42:44] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §9MomokaNyanNyan§9(SCP)
+[05:42:48] [Client thread/INFO]: [CHAT] §a6qU_§a(SCP) killed §eyumeraku§e(ARC)
+[05:42:50] [Client thread/INFO]: [CHAT] TIP: Register on Shotbow.net to earn XP and also buy additional classes!  Classes have unique abilities and open up new strategies. Type /register <email> in a Shotbow Network lobby
+[05:42:50] [Client thread/INFO]: [CHAT] §a6qU_§a(SCP) killed §e_gt_1234§e(THO)
+[05:42:53] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §csakura_522§c(ACR) attacking Red's Nexus.
+[05:42:55] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cMatsumot§c(SWA) attacking Red's Nexus.
+[05:42:56] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:42:57] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cManlyTuxedo§c(SWA) attacking Red's Nexus.
+[05:42:57] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cCOUNTRY0510§c(MER) attacking Red's Nexus.
+[05:42:57] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cdanzanaito_§c(SWA) attacking Red's Nexus.
+[05:42:58] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:42:58] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:42:58] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:42:58] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Red team's
+[05:42:58] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[05:42:58] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by tora0409
+[05:42:58] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:42:58] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:42:58] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:42:58] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:42:59] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §ctakutakuyuyu§c(SUC) attacking Red's Nexus.
+[05:42:59] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:43:00] [Client thread/INFO]: [CHAT] [Yellow] [G] _gt_1234 [5han]: GG
+[05:43:01] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cGomiya_www§c(MIN) attacking Red's Nexus.
+[05:43:01] [Client thread/INFO]: [CHAT] §cwhaqlen§c(ARC) killed §9tora0409§9(ACR) in honour of Red.
+[05:43:02] [Client thread/INFO]: [CHAT] [Blue] [P] ZomboyChan [PuNt]: GG
+[05:43:03] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §cI_L_Dokdo§c(HEA) attacking Red's Nexus.
+[05:43:04] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cwhaqlen§c(ARC) attacking Red's Nexus.
+[05:43:07] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cdanzanaito_§c(SWA)
+[05:43:08] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §csakura_522§c(ACR)
+[05:43:09] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §cMatsumot§c(SWA) attacking Red's Nexus.
+[05:43:10] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §cga_to_130§c(SCP)
+[05:43:14] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §aDeggoGamer§a(ASN)
+[05:43:17] [Client thread/INFO]: [CHAT] [Red] Ra_pis [PWSN]: gg!
+[05:43:20] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §cManlyTuxedo§c(SWA)
+[05:43:20] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §afken32§a(WIZ)
+[05:43:22] [Client thread/INFO]: [CHAT] §9pjt8014§9(SCO) killed §ekousan125_pvp§e(PYR)
+[05:43:25] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: 今のちょっとファームぽかったぞ
+[05:43:26] [Client thread/INFO]: [CHAT] §9pjt8014§9(SCO) killed §eok2931§e(PYR)
+[05:43:32] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:43:34] [Client thread/INFO]: [CHAT] [Blue] [P] tora0409 [TORA]: 張り付きがやばすぎる
+[05:43:35] [Client thread/INFO]: [CHAT] §9_Liys§9(ACR) killed §aCuckooLasagne§a(CIV)
+[05:43:39] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:43:40] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §cCOUNTRY0510§c(MER)
+[05:43:43] [Client thread/INFO]: [CHAT] You can only transform under the cover of darkness!
+[05:43:46] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) killed §ekoma1024§e(ACR)
+[05:43:55] [Client thread/INFO]: [CHAT] §aao_udonn§a(ENC) shot §eAquaBlooper§e(VAM) defending Green's Nexus.
+[05:43:55] [Client thread/INFO]: [CHAT] §eCabalaro§e(BER) killed §aotmis25§a(TRA)
+[05:43:57] [Client thread/INFO]: [CHAT] [Blue] [P] Tetrodotoxin [TTX]: 削りが死にかけたんだよ
+[05:44:01] [Client thread/INFO]: [CHAT] You cannot inflict damage while in bat form!
+[05:44:01] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[05:44:08] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §eok2931§e(PYR)
+[05:44:11] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[05:44:13] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §c_Kirigaya_Kazuto§c(ACR)
+[05:44:15] [Client thread/INFO]: [CHAT] (Team) [Green] 2018_kitsune [wkb:]: inc
+[05:44:22] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §ekoma1024§e(ACR)
+[05:44:23] [Client thread/INFO]: [CHAT] Celariel has been slain and claimed by Blue team
+[05:44:24] [Client thread/INFO]: [CHAT] BloodMage selected
+[05:44:26] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §eok2931§e(PYR)
+[05:44:28] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ASN) killed §a2018_kitsune§a(SCO)
+[05:44:28] [Client thread/INFO]: [CHAT] §athriftymom§a(ACR) killed §eseiya0818§e(ARC)
+[05:44:35] [Client thread/INFO]: [CHAT] §eTheFr33zer§e(LUM) killed §aryutokume§a(VAM) defending Yellow's Nexus.
+[05:44:42] [Client thread/INFO]: [CHAT] [Yellow] TheFr33zer: LOL
+[05:44:43] [Client thread/INFO]: [CHAT] §athriftymom§a(ACR) killed §eGERAMC§e(SCP)
+[05:44:46] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[05:44:50] [Client thread/INFO]: [CHAT] Encounter a bug and need to report it? Fill out the form here: http://shotbow.net/forum/p/bugs/
+[05:44:51] [Client thread/INFO]: [CHAT] (Team) [Green] [S] ryutokume: inc
+[05:44:51] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't break that block here.
+[05:44:57] [Client thread/INFO]: [CHAT] MomokaNyanNyan flüstert dir zu: shit hacker
+[05:45:06] [Client thread/INFO]: [CHAT] §aDeggoGamer§a(IMM) killed §eAquaBlooper§e(VAM) defending Green's Nexus.
+[05:45:07] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §cnttdocomodcmx§c(PYR)
+[05:45:09] [Client thread/INFO]: [CHAT] §eCabalaro§e(BER) killed §aryutokume§a(VAM)
+[05:45:11] [Client thread/INFO]: [CHAT] [Blue] [P] tora0409 [TORA]: どきょうがあるな
+[05:45:11] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §ekoma1024§e(ACR)
+[05:45:18] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §eok2931§e(PYR)
+[05:45:36] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: なんか金床消えてんだけど
+[05:45:36] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §ekousan125_pvp§e(PYR)
+[05:45:39] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §eok2931§e(PYR)
+[05:45:42] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §ekoma1024§e(ACR)
+[05:45:46] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: だれだよ
+[05:45:47] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[05:45:47] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) shot §a6qU_§a(VAM) defending Blue's Nexus.
+[05:45:48] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: とった奴
+[05:45:51] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §ekoma1024§e(ACR)
+[05:45:53] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §eok2931§e(PYR)
+[05:45:53] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, kousan125_pvp.
+[05:45:55] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §eGERAMC§e(SCP)
+[05:45:59] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §atikuwa0807§a(SWA)
+[05:45:59] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §eGERAMC§e(SCP) attacking Yellow's Nexus.
+[05:46:00] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §eok2931§e(PYR)
+[05:46:02] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) shot §eAquaBlooper§e(VAM) defending Blue's Nexus.
+[05:46:04] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §eok2931§e(PYR)
+[05:46:06] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §ekoma1024§e(WAR)
+[05:46:06] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) killed §eikoudai0605§e(IMM)
+[05:46:07] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §eAquaBlooper§e(VAM) attacking Yellow's Nexus.
+[05:46:10] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §eTheFr33zer§e(LUM)
+[05:46:11] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §ekoma1024§e(WAR)
+[05:46:12] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §eAquaBlooper§e(VAM) attacking Yellow's Nexus.
+[05:46:13] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §eikoudai0605§e(IMM) attacking Yellow's Nexus.
+[05:46:14] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §eTheFr33zer§e(LUM) attacking Yellow's Nexus.
+[05:46:18] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §ekoma1024§e(WAR) attacking Yellow's Nexus.
+[05:46:18] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §eBLACKJP9646§e(ACR)
+[05:46:20] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §eikoudai0605§e(IMM) attacking Yellow's Nexus.
+[05:46:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:46:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:46:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:46:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Yellow team's
+[05:46:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[05:46:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by Tetrodotoxin
+[05:46:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:46:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:46:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:46:24] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:46:24] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §eBLACKJP9646§e(ACR)
+[05:46:25] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §eok2931§e(PYR) attacking Yellow's Nexus.
+[05:46:27] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §eikoudai0605§e(IMM) attacking Yellow's Nexus.
+[05:46:28] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §ekoma1024§e(WAR)
+[05:46:28] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §eTheFr33zer§e(LUM) attacking Yellow's Nexus.
+[05:46:30] [Client thread/INFO]: [CHAT] (Team) [Green] 2018_kitsune [wkb:]: incccccc rash
+[05:46:32] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, GERAMC.
+[05:46:34] [Client thread/INFO]: [CHAT] (Team) [Green] 2018_kitsune [wkb:]: all defffffff
+[05:46:35] [Client thread/INFO]: [CHAT] [Yellow] TheFr33zer: damn
+[05:46:39] [Client thread/INFO]: [CHAT] §aDeggoGamer§a(IMM) killed §9GGpand4§9(SCP)
+[05:46:40] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: おｋ
+[05:46:43] [Client thread/INFO]: [CHAT] (Team) [Green] 2018_kitsune [wkb:]: come nexrs
+[05:46:44] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) killed §ana_oto_§a(SPI) in honour of Yellow.
+[05:46:50] [Client thread/INFO]: [CHAT] TIP: Destroy the opposing team by using a pickaxe inside the enemy nexus. 
+[05:46:58] [Client thread/INFO]: [CHAT] (Team) [Green] 2018_kitsune [wkb:]: これclanラッシュだわ
+[05:47:00] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: エンチャンターで防衛しよ
+[05:47:04] [Client thread/INFO]: [CHAT] §a6qU_§a(THO) killed §eyumeraku§e(ARC)
+[05:47:05] [Client thread/INFO]: [CHAT] §eCabalaro§e(BER) killed §ana_oto_§a(SPI) in honour of Yellow.
+[05:47:06] [Client thread/INFO]: [CHAT] §e_gt_1234§e(THO) killed §a6qU_§a(THO) in honour of Yellow.
+[05:47:08] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §aotmis25§a(TRA) in honour of Yellow.
+[05:47:11] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: 青の人数的にそうやろ
+[05:47:17] [Client thread/INFO]: [CHAT] §eRINquinque§e(ACR) shot §9Dahian§9(ACR) in honour of Yellow.
+[05:47:22] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §ana_oto_§a(SPI) in honour of Yellow.
+[05:47:25] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §a6qU_§a(THO) in honour of Yellow.
+[05:47:30] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: いざとなりゃ
+[05:47:32] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §aotmis25§a(TRA) in honour of Yellow.
+[05:47:34] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: 奈落スコピだ
+[05:47:37] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §ebickey0704§e(SWA)
+[05:47:40] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) shot §ana_oto_§a(SPI)
+[05:47:40] [Client thread/INFO]: [CHAT] §a6qU_§a(THO) killed §e_gt_1234§e(THO)
+[05:47:41] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) shot §eRINquinque§e(ACR)
+[05:47:46] [Client thread/INFO]: [CHAT] (Team) [Green] DeggoGamer: blue inc
+[05:47:46] [Client thread/ERROR]: ThrownPotion entity 70333 has no item?!
+[05:47:46] [Client thread/ERROR]: ThrownPotion entity 70333 has no item?!
+[05:47:46] [Client thread/ERROR]: ThrownPotion entity 70333 has no item?!
+[05:47:46] [Client thread/ERROR]: ThrownPotion entity 70333 has no item?!
+[05:47:46] [Client thread/INFO]: [CHAT] (Team) [Green] ao_udonn [Impp]: きた？
+[05:47:46] [Client thread/ERROR]: ThrownPotion entity 70333 has no item?!
+[05:47:46] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) shot §a6qU_§a(THO)
+[05:47:46] [Client thread/ERROR]: ThrownPotion entity 70333 has no item?!
+[05:47:55] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §aotmis25§a(TRA) in honour of Yellow.
+[05:47:57] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §a6qU_§a(THO)
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:03] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:04] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:04] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:04] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:04] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:04] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:04] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:04] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:04] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §a2018_kitsune§a(SCO)
+[05:48:04] [Client thread/ERROR]: ThrownPotion entity 70554 has no item?!
+[05:48:06] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §ana_oto_§a(SPI)
+[05:48:08] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §aDeggoGamer§a(IMM)
+[05:48:09] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §a6qU_§a(THO)
+[05:48:09] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §aryutokume§a(WAR)
+[05:48:11] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §aHorst_Frank§a(BLO)
+[05:48:14] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §aotmis25§a(MER) attacking Green's Nexus.
+[05:48:14] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §atikuwa0807§a(SWA) attacking Green's Nexus.
+[05:48:15] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §aryutokume§a(WAR) attacking Green's Nexus.
+[05:48:16] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §ana_oto_§a(SPI) attacking Green's Nexus.
+[05:48:19] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §a6qU_§a(THO) attacking Green's Nexus.
+[05:48:20] [Client thread/INFO]: [CHAT] §9namakotaro§9(ACR) killed §a2018_kitsune§a(WAR)
+[05:48:20] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §a_taki§a(IMM) attacking Green's Nexus.
+[05:48:20] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §afken32§a(WIZ) attacking Green's Nexus.
+[05:48:20] [Client thread/INFO]: [CHAT] §9kirar1n§9(SUC) killed §ana_oto_§a(SPI) attacking Green's Nexus.
+[05:48:22] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §aHorst_Frank§a(BLO) attacking Green's Nexus.
+[05:48:23] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §aCuckooLasagne§a(CIV) attacking Green's Nexus.
+[05:48:23] [Client thread/INFO]: [CHAT] §9Tetrodotoxin§9(ACR) killed §aryutokume§a(WAR) attacking Green's Nexus.
+[05:48:24] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §a2018_kitsune§a(WAR) attacking Green's Nexus.
+[05:48:24] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §aotmis25§a(MER) attacking Green's Nexus.
+[05:48:26] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §athriftymom§a(ACR) attacking Green's Nexus.
+[05:48:26] [Client thread/INFO]: [CHAT] §a6qU_§a(THO) killed §9kirar1n§9(SUC) defending Green's Nexus.
+[05:48:28] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §a6qU_§a(THO) attacking Green's Nexus.
+[05:48:28] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §atikuwa0807§a(SWA)
+[05:48:29] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §aHorst_Frank§a(BLO) attacking Green's Nexus.
+[05:48:30] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §a_taki§a(IMM) attacking Green's Nexus.
+[05:48:32] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §ana_oto_§a(SPI) attacking Green's Nexus.
+[05:48:33] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §a2018_kitsune§a(WAR) attacking Green's Nexus.
+[05:48:35] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §aryutokume§a(WAR) attacking Green's Nexus.
+[05:48:36] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) killed §asiinabfk§a(SWA)
+[05:48:37] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §athriftymom§a(ACR)
+[05:48:38] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §afken32§a(WIZ) attacking Green's Nexus.
+[05:48:40] [Client thread/INFO]: [CHAT] §9GGpand4§9(SCP) killed §aDeggoGamer§a(ARC) attacking Green's Nexus.
+[05:48:40] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §athriftymom§a(ACR)
+[05:48:41] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §aHorst_Frank§a(BLO) attacking Green's Nexus.
+[05:48:42] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §a_taki§a(IMM) attacking Green's Nexus.
+[05:48:43] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) killed §a2018_kitsune§a(WAR) attacking Green's Nexus.
+[05:48:43] [Client thread/INFO]: [CHAT] §ana_oto_§a(SPI) killed §9tora0409§9(ACR) defending Green's Nexus.
+[05:48:44] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) killed §aryutokume§a(WAR) attacking Green's Nexus.
+[05:48:45] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §a_taki§a(IMM)
+[05:48:45] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §ana_oto_§a(SPI) attacking Green's Nexus.
+[05:48:47] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §atikuwa0807§a(SWA)
+[05:48:47] [Client thread/INFO]: [CHAT] §9namakotaro§9(ACR) killed §aHorst_Frank§a(BLO) attacking Green's Nexus.
+[05:48:47] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §aCuckooLasagne§a(CIV)
+[05:48:49] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §a_taki§a(IMM)
+[05:48:50] [Client thread/INFO]: [CHAT] §9ZomboyChan§9(ACR) killed §aryutokume§a(WAR) attacking Green's Nexus.
+[05:48:51] [Client thread/INFO]: [CHAT] TIP: Want to learn more about Annihilation to better enhance your experience? We have a full wiki on the game over on our forums: https://shotbow.net/forum/wiki/annihilation/
+[05:48:52] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §a_taki§a(IMM)
+[05:48:53] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) killed §aao_udonn§a(ENC) attacking Green's Nexus.
+[05:48:53] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §aHorst_Frank§a(BLO)
+[05:48:55] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) shot §a2018_kitsune§a(WAR) attacking Green's Nexus.
+[05:48:55] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §aCuckooLasagne§a(CIV) attacking Green's Nexus.
+[05:48:56] [Client thread/INFO]: [CHAT] §9Re1lly_§9(BER) killed §aryutokume§a(WAR) attacking Green's Nexus.
+[05:48:56] [Client thread/INFO]: [CHAT] §9fulg0r§9(SUC) killed §afken32§a(WIZ) attacking Green's Nexus.
+[05:48:58] [Client thread/INFO]: [CHAT] §aotmis25§a(MER) killed §9namakotaro§9(ACR) defending Green's Nexus.
+[05:48:59] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §atikuwa0807§a(SWA) attacking Green's Nexus.
+[05:48:59] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) killed §aCuckooLasagne§a(CIV)
+[05:49:01] [Client thread/INFO]: [CHAT] §aotmis25§a(MER) killed §9fulg0r§9(SUC) defending Green's Nexus.
+[05:49:01] [Client thread/INFO]: [CHAT] §9Xx_kirithan77_xX§9(SCO) killed §a_taki§a(IMM)
+[05:49:02] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §aCuckooLasagne§a(CIV)
+[05:49:03] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) killed §atikuwa0807§a(SWA)
+[05:49:03] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §aDeggoGamer§a(ARC) attacking Green's Nexus.
+[05:49:04] [Client thread/INFO]: [CHAT] §aDeggoGamer§a(ARC) killed §9Tetrodotoxin§9(ACR) defending Green's Nexus.
+[05:49:05] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §a6qU_§a(THO) attacking Green's Nexus.
+[05:49:05] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) killed §aCuckooLasagne§a(CIV)
+[05:49:06] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) killed §athriftymom§a(ACR)
+[05:49:09] [Client thread/INFO]: [CHAT] §9xKingxVirusx§9(ASN) killed §ana_oto_§a(SPI)
+[05:49:12] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) killed §a2018_kitsune§a(WAR) attacking Green's Nexus.
+[05:49:13] [Client thread/INFO]: [CHAT] 3rd team to be eliminated.
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Green team's
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by chokochoko4649
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The game is over,
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Blue team wins!
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The server is restarting
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ in 60 seconds
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:13] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[05:49:14] [Client thread/INFO]: [CHAT] [Blue] pjt8014: GG
+[05:49:15] [Client thread/INFO]: [CHAT] §9chuki§9(ACR) shot §a6qU_§a(THO) attacking Green's Nexus.
+[05:49:15] [Client thread/INFO]: [CHAT] +90 Shotbow Xp
+[05:49:15] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) killed §aCuckooLasagne§a(CIV)
+[05:49:15] [Client thread/INFO]: [CHAT] Rate this map by clicking: [5] [4] [3] [2] [1]
+[05:49:15] [Client thread/INFO]: [CHAT] [Blue] GGpand4 [wkb:]: GG
+[05:49:16] [Client thread/INFO]: [CHAT] [Blue] [P] Tetrodotoxin [TTX]: GG
+[05:49:16] [Client thread/INFO]: [CHAT] [Blue] [P] MomokaNyanNyan [elf9]: GG
+[05:49:16] [Client thread/INFO]: [CHAT] [Blue] [P] Re1lly_: FF
+[05:49:17] [Client thread/INFO]: [CHAT] §9HGnily§9(ACR) killed §aHorst_Frank§a(BLO) attacking Green's Nexus.
+[05:49:18] [Client thread/INFO]: [CHAT] [Blue] [P] ZomboyChan [PuNt]: GG!
+[05:49:18] [Client thread/INFO]: [CHAT] §9_Liys§9(SUC) killed §atikuwa0807§a(SWA)
+[05:49:18] [Client thread/INFO]: [CHAT] [Blue] xKingxVirusx:  gg
+[05:49:18] [Client thread/INFO]: [CHAT] The server is restarting in 60 seconds
+[05:49:18] [Client thread/INFO]: [CHAT] [Blue] [P] Re1lly_: GG
+[05:49:19] [Client thread/INFO]: [CHAT] [Blue] [P] fulg0r [wkb:]: gg
+[05:49:19] [Client thread/INFO]: [CHAT] [Blue] gakkun87: gg
+[05:49:20] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §a2018_kitsune§a(WAR)
+[05:49:21] [Client thread/INFO]: [CHAT] §9tora0409§9(ACR) killed §eseiya0818§e(ENG)
+[05:49:23] [Client thread/INFO]: [CHAT] The server is restarting in 55 seconds
+[05:49:23] [Client thread/INFO]: [CHAT] [Blue] [E] hikapyon: gg
+[05:49:23] [Client thread/INFO]: [CHAT] §9Dahian§9(ACR) killed §afken32§a(WIZ)
+[05:49:24] [Client thread/INFO]: [CHAT] [Blue] HGnily [NGYS]: GG
+[05:49:26] [Client thread/INFO]: [CHAT] [Blue] chokochoko4649: gg
+[05:49:26] [Client thread/INFO]: [CHAT] [Blue] [P] tora0409 [TORA]: GGGGG
+[05:49:27] [Client thread/INFO]: [CHAT] [Green] Horst_Frank: puh!
+[05:49:27] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §aryutokume§a(SWA) attacking Green's Nexus.
+[05:49:28] [Client thread/INFO]: [CHAT] §9chokochoko4649§9(BER) killed §aotmis25§a(MER) attacking Green's Nexus.
+[05:49:28] [Client thread/INFO]: [CHAT] The server is restarting in 50 seconds
+[05:49:28] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: 最後ちょっとミニファームしたやろ
+[05:49:31] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §9namakotaro§9(ACR) in honour of Yellow.
+[05:49:33] [Client thread/INFO]: [CHAT] The server is restarting in 45 seconds
+[05:49:34] [Client thread/INFO]: [CHAT] [Green] 2018_kitsune [wkb:]: それな
+[05:49:37] [Client thread/INFO]: [CHAT] §achimu17§a(THO) killed §9Dahian§9(ACR) in honour of Green.
+[05:49:38] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §9honoyuki§9(WAR) in honour of Yellow.
+[05:49:38] [Client thread/INFO]: [CHAT] The server is restarting in 40 seconds
+[05:49:38] [Client thread/INFO]: [CHAT] §9N1A_o§9(PYR) killed §achimu17§a(THO) attacking Green's Nexus.
+[05:49:39] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, MomokaNyanNyan.
+[05:49:39] [Client thread/INFO]: [CHAT] [Blue] [P] Tetrodotoxin [TTX]: 削りが死んだんだよボケ
+[05:49:41] [Client thread/INFO]: [CHAT] §eLooomi§e(WAR) killed §9Re1lly_§9(BER) in honour of Yellow.
+[05:49:42] [Client thread/INFO]: [CHAT] [Green] ao_udonn [Impp]: ｒｐすんぞ！
+[05:49:43] [Client thread/INFO]: [CHAT] [Blue] [P] tora0409 [TORA]: 削りやくがしんだからだよ
+[05:49:43] [Client thread/INFO]: [CHAT] The server is restarting in 35 seconds
+[05:49:44] [Client thread/INFO]: [CHAT] (Team) [Green] chimu17: gg
+[05:49:46] [Client thread/WARN]: Unable to start LAN server detection: Can't assign requested address
+[05:49:48] [Client thread/INFO]: Stopping!
+[05:49:48] [Client thread/INFO]: SoundSystem shutting down...
+[05:49:49] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:25:32] [Client thread/INFO]: Setting user: Horst_Frank
+[13:25:34] [Client thread/WARN]: Skipping bad option: lastServer:
+[13:25:34] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:25:34] [Client thread/INFO]: Reloading ResourceManager: Default
+[13:25:35] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:25:35] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[13:25:35] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:25:35] [Thread-5/INFO]: OpenAL initialized.
+[13:25:35] [Sound Lib

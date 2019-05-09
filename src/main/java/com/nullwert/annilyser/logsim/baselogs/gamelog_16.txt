@@ -1,0 +1,1016 @@
+ent thread/INFO]: [CHAT] TIP: Gold ingots can be used to purchase potion materials and some basic weapons.  Purchase these at the shop located at your base.
+[19:27:25] [Client thread/INFO]: [CHAT] Lumberjack selected
+[19:27:36] [Client thread/INFO]: [CHAT] [Lobby] MiraiAkari: KaguyaLuna hi
+[19:27:40] [Client thread/INFO]: [CHAT] [Lobby] KaguyaLuna [Grsn]: MiraiAkari hi
+[19:27:50] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[19:27:51] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[19:27:51] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[19:27:54] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[19:27:55] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[19:27:55] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[19:27:56] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[19:27:57] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[19:27:57] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[19:27:58] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't PvP here.
+[19:29:11] [Client thread/INFO]: [CHAT] kingdom selected, loading...
+[19:29:13] [Client thread/INFO]: [CHAT] TIP: Want to learn more about Annihilation to better enhance your experience? We have a full wiki on the game over on our forums: https://shotbow.net/forum/wiki/annihilation/
+[19:29:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:29:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:29:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:29:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:29:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The game has started!
+[19:29:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The nexus is invincible
+[19:29:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:29:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:29:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:29:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:31:00] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9CulturalMarxist§9(ARC)
+[19:31:02] [Client thread/INFO]: [CHAT] §eGogBoo§e(SPY) killed §aXxkevinxX_§a(ACR)
+[19:31:03] [Client thread/INFO]: [CHAT] §cLmao_Your_Trash§c(SCO) killed §9diamond_dolphin9§9(MIN)
+[19:31:09] [Client thread/INFO]: [CHAT] §eGogBoo§e(SPY) killed §cmhurtub10§c(ACR)
+[19:31:13] [Client thread/INFO]: [CHAT] Looking to get some easy XP?  Follow @ShotbowNetwork on twitter.  XP codes are given away for free XP regularly.
+[19:31:24] [Client thread/INFO]: [CHAT] §9CulturalMarxist§9(ARC) killed §aEast_Bank_0219§a(PYR)
+[19:31:25] [Client thread/INFO]: [CHAT] §eGogBoo§e(SPY) killed §cThe_Kwill§c(NIN)
+[19:31:32] [Client thread/INFO]: [CHAT] §9B0B__the_Builder§9(DAS) killed §aaimerokota128§a(WAR)
+[19:31:38] [Client thread/INFO]: [CHAT] §cAgent_PvP§c(ACR) killed §aOnly_Reflex§a(MIN)
+[19:31:42] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(MIN) killed §9fulg0r§9(SUC)
+[19:32:01] [Client thread/INFO]: [CHAT] §9B0B__the_Builder§9(DAS) killed §aEast_Bank_0219§a(PYR)
+[19:32:04] [Client thread/INFO]: [CHAT] §cLmao_Your_Trash§c(SCO) killed §eTxpir§e(SCO)
+[19:32:05] [Client thread/INFO]: [CHAT] §9B0B__the_Builder§9(DAS) killed §aaimerokota128§a(WAR)
+[19:32:25] [Client thread/INFO]: [CHAT] §cmhurtub10§c(ACR) killed §9B0B__the_Builder§9(DAS)
+[19:32:30] [Client thread/INFO]: [CHAT] §eGogBoo§e(SPY) killed §9ThatTachGuy§9(CIV)
+[19:32:37] [Client thread/INFO]: [CHAT] §eGogBoo§e(SPY) killed §9Itz_Legolas§9(MIN)
+[19:32:38] [Client thread/INFO]: [CHAT] §a2qvG§a(SCO) killed §cThe_Kwill§c(NIN)
+[19:32:45] [Client thread/INFO]: [CHAT] [Green] KURO_DOG [KRSW]: _haru06 i fan
+[19:32:49] [Client thread/INFO]: [CHAT] §cmhurtub10§c(ACR) killed §a2qvG§a(SCO)
+[19:33:10] [Client thread/INFO]: [CHAT] §9B0B__the_Builder§9(DAS) killed §aKURO_DOG§a(SCO)
+[19:33:13] [Client thread/INFO]: [CHAT] Like getting your news in quick picture format?  Follow us on Instagram @shotbowofficial
+[19:33:14] [Client thread/INFO]: [CHAT] §9B0B__the_Builder§9(DAS) killed §aEast_Bank_0219§a(PYR)
+[19:33:17] [Client thread/INFO]: [CHAT] [Lobby] L_M_S_G: which team
+[19:33:20] [Client thread/INFO]: [CHAT] §9B0B__the_Builder§9(DAS) killed §aaimerokota128§a(ARC)
+[19:33:20] [Client thread/INFO]: [CHAT] §cmhurtub10§c(ACR) killed §aunder77§a(MIN)
+[19:33:28] [Client thread/INFO]: [CHAT] [Yellow] Txpir:  ste
+[19:33:31] [Client thread/INFO]: [CHAT] [Red] ImScout_XD [MHA]: xD
+[19:33:38] [Client thread/INFO]: [CHAT] §aRumakla§a(MIN) killed §cAgent_PvP§c(ACR)
+[19:33:42] [Client thread/INFO]: [CHAT] §a2qvG§a(SCO) killed §eTxpir§e(SCO)
+[19:33:45] [Client thread/INFO]: [CHAT] [Lobby] 4_Fools: green team
+[19:33:45] [Client thread/INFO]: [CHAT] §cThe_Kwill§c(NIN) shot §aGrizzl3y§a(ARC)
+[19:33:51] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[19:33:51] [Client thread/INFO]: [CHAT] §9CulturalMarxist§9(ROB) shot §eGogBoo§e(SPY)
+[19:34:05] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9fulg0r§9(SUC)
+[19:34:09] [Client thread/INFO]: [CHAT] §cImScout_XD§c(SCO) killed §a2qvG§a(SCO)
+[19:34:15] [Client thread/INFO]: [CHAT] §cNoSkill_§c(SCO) killed §aRumakla§a(MIN) attacking Green's Nexus.
+[19:34:15] [Client thread/INFO]: [CHAT] (Team) [Green] wildcatkate: a
+[19:34:19] [Client thread/INFO]: [CHAT] (Team) [Green] Horst_Frank: ive 10 xp .. who wants to ench something?
+[19:34:33] [Client thread/INFO]: [CHAT] §9B0B__the_Builder§9(DAS) killed §awildcatkate§a(WIZ)
+[19:34:37] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: to iron
+[19:34:57] [Client thread/INFO]: [CHAT] §cImScout_XD§c(SCO) killed §eGogBoo§e(SPY)
+[19:35:11] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[19:35:12] [Client thread/INFO]: [CHAT] §aPumpUpProd§a(ACR) killed §cThe_Kwill§c(NIN)
+[19:35:14] [Client thread/INFO]: [CHAT] TIP: Create your own private room in the Shotbow Teamspeak.  Connect to ts.shotbow.net!
+[19:35:16] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §cGrumpyKaiman§c(WIZ)
+[19:35:30] [Client thread/INFO]: [CHAT] §eTxpir§e(SCO) killed §cClowBear§c(SCO)
+[19:35:37] [Client thread/INFO]: [CHAT] §eTxpir§e(SCO) killed §cImScout_XD§c(SCO)
+[19:35:38] [Client thread/INFO]: [CHAT] §a2qvG§a(SCO) killed §eGogBoo§e(SPY)
+[19:35:42] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9CulturalMarxist§9(ROB)
+[19:35:46] [Client thread/INFO]: [CHAT] §eBobu0827§e(SUC) killed §cAgent_PvP§c(ACR)
+[19:36:07] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9sakisan338§9(SCO)
+[19:36:11] [Client thread/INFO]: [CHAT] §a2qvG§a(SCO) killed §eTxpir§e(SCO)
+[19:36:18] [Client thread/INFO]: [CHAT] Lumberjack selected
+[19:36:19] [Client thread/INFO]: [CHAT] [Green] 2qvG: noob
+[19:36:36] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) killed §cGrumpyKaiman§c(WIZ)
+[19:36:40] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(WAR) killed §eBobu0827§e(SUC)
+[19:36:43] [Client thread/INFO]: [CHAT] §cmhurtub10§c(ACR) killed §aL_M_S_G§a(CIV)
+[19:36:52] [Client thread/INFO]: [CHAT] §cClowBear§c(SCO) killed §eGogBoo§e(SPY)
+[19:36:56] [Client thread/INFO]: [CHAT] §aPumpUpProd§a(ACR) killed §cClowBear§c(SCO)
+[19:37:14] [Client thread/INFO]: [CHAT] §awildcatkate§a(WIZ) killed §cAgent_PvP§c(ACR)
+[19:37:14] [Client thread/INFO]: [CHAT] TIP: Experience can be gained by mining resource blocks.  The more valuable the ore, the more XP gained!  Use the experience at the enchanting table near your nexus.
+[19:37:15] [Client thread/INFO]: [CHAT] §eMontIosGames§e(MIN) killed §cRecedings§c(SCO)
+[19:37:18] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) shot §cThe_Kwill§c(NIN)
+[19:37:25] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9ThatTachGuy§9(CIV)
+[19:37:28] [Client thread/INFO]: [CHAT] §eMontIosGames§e(MIN) killed §a2qvG§a(SCO)
+[19:37:28] [Client thread/INFO]: [CHAT] §c_ItsAnni_§c(WAR) killed §aL_M_S_G§a(CIV)
+[19:37:49] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, CulturalMarxist.
+[19:37:52] [Client thread/INFO]: [CHAT] §a2qvG§a(SCO) killed §9sakisan338§9(SCO)
+[19:38:03] [Client thread/INFO]: [CHAT] §eMontIosGames§e(MIN) killed §9Itz_Legolas§9(WAR)
+[19:38:05] [Client thread/INFO]: [CHAT] §c_ItsAnni_§c(WAR) killed §aL_M_S_G§a(CIV)
+[19:38:18] [Client thread/INFO]: [CHAT] §cClowBear§c(SCO) killed §aPumpUpProd§a(ACR)
+[19:38:21] [Client thread/INFO]: [CHAT] §c_ItsAnni_§c(WAR) killed §aorangekyanite§a(SNI)
+[19:38:22] [Client thread/INFO]: [CHAT] §aL_M_S_G§a(CIV) killed §c_ItsAnni_§c(WAR)
+[19:38:30] [Client thread/INFO]: [CHAT] §9nao0410§9(SCO) killed §eTxpir§e(SCO)
+[19:38:35] [Client thread/INFO]: [CHAT] [Red] [S] Lmao_Your_Trash (Sub): hi
+[19:38:40] [Client thread/INFO]: [CHAT] §a4_Fools§a(ARC) shot §cGrumpyKaiman§c(WIZ)
+[19:38:47] [Client thread/INFO]: [CHAT] §cshizimilk§c(ROB) killed §awildcatkate§a(WIZ)
+[19:38:49] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: lm
+[19:38:52] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §9ninja_fine§9(MIN)
+[19:38:53] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ENC) killed §a2qvG§a(SCO)
+[19:38:57] [Client thread/INFO]: [CHAT] §enell0725§e(CIV) killed §9nao0410§9(SCO)
+[19:38:59] [Client thread/INFO]: [CHAT] (Team) [Green] L_M_S_G: ya
+[19:39:04] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: im at the iron mine
+[19:39:14] [Client thread/INFO]: [CHAT] TIP: To break blocks in Annihilation, you require the appropriate tool. For example, Wool requires Shears, Stones require a Pickaxe, Leaves require a Sword, etc.
+[19:39:14] [Client thread/INFO]: [CHAT] [THANK YOU]  Thanks to Porkchop_1259 for their recent purchase to support Shotbow! 
+[19:39:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:39:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:39:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:39:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:39:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 2 has started
+[19:39:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The nexus has lost its invincibility
+[19:39:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:39:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:39:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:39:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:39:23] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §9Itz_Legolas§9(WAR)
+[19:39:26] [Client thread/INFO]: [CHAT] §egumozzz§e(CIV) killed §9dackpack§9(MIN)
+[19:39:32] [Client thread/INFO]: [CHAT] §eDoosii§e(CIV) killed §cRecedings§c(SCO) defending Yellow's Nexus.
+[19:39:33] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9XxCupCakeODoomxX§9(MIN)
+[19:39:55] [Client thread/INFO]: [CHAT] Transporter selected
+[19:40:00] [Client thread/INFO]: [CHAT] §a2qvG§a(SCO) killed §9sakisan338§9(SCO)
+[19:40:01] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ENC) killed §egumozzz§e(CIV) defending Blue's Nexus.
+[19:40:08] [Client thread/INFO]: [CHAT] (Team) [Green] wildcatkate: a
+[19:40:20] [Client thread/INFO]: [CHAT] §efoo726§e(MIN) killed §9nao0410§9(SCO)
+[19:40:33] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) killed §cThe_Kwill§c(NIN)
+[19:40:43] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) killed §cNoSkill_§c(SCO) defending Green's Nexus.
+[19:40:43] [Client thread/INFO]: [CHAT] §awildcatkate§a(WIZ) killed §9Naito_0415§9(SCO)
+[19:40:44] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: we should try to get 30 xp and enchante
+[19:40:52] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) shot §cmhurtub10§c(ACR)
+[19:40:59] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §9Laurenllama§9(ARC)
+[19:41:01] [Client thread/INFO]: [CHAT] §awildcatkate§a(WIZ) killed §9XxCupCakeODoomxX§9(MIN)
+[19:41:05] [Client thread/INFO]: [CHAT] §eGogBoo§e(SPY) killed §cshizimilk§c(ROB) attacking Red's Nexus.
+[19:41:07] [Client thread/INFO]: [CHAT] §efoo726§e(MIN) killed §cRecedings§c(SCO) defending Yellow's Nexus.
+[19:41:09] [Client thread/INFO]: [CHAT] §9nao0410§9(SCO) killed §aaimerokota128§a(ARC)
+[19:41:11] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ENC) killed §eGogBoo§e(SPY)
+[19:41:12] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9ninja_fine§9(MIN)
+[19:41:14] [Client thread/INFO]: [CHAT] TIP: Be creative in your tactics.  Use invisibility potions to bypass enemies, or use wooden blocks to create barriers around your base.
+[19:41:21] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9nao0410§9(SCO)
+[19:41:23] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:41:25] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:41:27] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:41:29] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:41:34] [Client thread/INFO]: [CHAT] §eNilsReturnsYT§e(ARC) killed §9dackpack§9(MIN) defending Yellow's Nexus.
+[19:41:43] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(MIN) killed §aEast_Bank_0219§a(PYR)
+[19:41:45] [Client thread/INFO]: [CHAT] §cClowBear§c(SCO) killed §eNilsReturnsYT§e(ARC) attacking Yellow's Nexus.
+[19:41:49] [Client thread/INFO]: [CHAT] §a2qvG§a(SCO) killed §9ninja_fine§9(MIN)
+[19:42:00] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §a2qvG§a(SCO)
+[19:42:02] [Client thread/INFO]: [CHAT] §cMITUYA_CIDER§c(ACR) shot §eGogBoo§e(SPY)
+[19:42:05] [Client thread/INFO]: [CHAT] §eGorka02§e(CIV) killed §cClowBear§c(SCO)
+[19:42:14] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: lets go to the gold mine for more xp
+[19:42:17] [Client thread/INFO]: [CHAT] §e_haru06§e(ACR) killed §cshizimilk§c(IMM) attacking Red's Nexus.
+[19:42:26] [Client thread/INFO]: [CHAT] (Team) [Green] [P] _DeathDefies_: red inc
+[19:42:31] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:42:32] [Client thread/INFO]: [CHAT] (Team) [Green] [P] _DeathDefies_ [CWAR]: north side
+[19:42:34] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:42:37] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §cGrumpyKaiman§c(WIZ)
+[19:42:39] [Client thread/INFO]: [CHAT] (Team) [Green] [P] _DeathDefies_ [CWAR]: thx
+[19:42:39] [Client thread/INFO]: [CHAT] §e_haru06§e(ACR) killed §cNoSkill_§c(SCO)
+[19:42:41] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[19:42:43] [Client thread/INFO]: [CHAT] §aPumpUpProd§a(ACR) killed §cLmao_Your_Trash§c(SCO)
+[19:42:56] [Client thread/INFO]: [CHAT] §cRecedings§c(ACR) killed §eGogBoo§e(ACR)
+[19:43:03] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aPumpUpProd§a(ACR)
+[19:43:05] [Client thread/INFO]: [CHAT] §9nao0410§9(SCO) killed §awildcatkate§a(WIZ)
+[19:43:11] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9Itz_Legolas§9(WAR)
+[19:43:14] [Client thread/INFO]: [CHAT] You can vote for The Shotbow Network on Planet Minecraft to help bring new players! Visit vote.shotbow.net to vote!
+[19:43:31] [Client thread/INFO]: [CHAT] §e_haru06§e(ACR) killed §cNoSkill_§c(SCO) attacking Red's Nexus.
+[19:43:36] [Client thread/INFO]: [CHAT] §9Laurenllama§9(ARC) shot §apanda4ever123§a(SPI)
+[19:43:47] [Client thread/INFO]: [CHAT] §cRecedings§c(ACR) killed §efoo726§e(ENC)
+[19:43:48] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9ninja_fine§9(HUN)
+[19:43:58] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9sakisan338§9(SCO)
+[19:44:05] [Client thread/INFO]: [CHAT] §eGogBoo§e(ACR) shot §cMITUYA_CIDER§c(ACR)
+[19:44:14] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: lm meet up at the castle
+[19:44:14] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(WAR) killed §aEast_Bank_0219§a(PYR)
+[19:44:15] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §9Itz_Legolas§9(WAR)
+[19:44:20] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: need food
+[19:44:25] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:44:34] [Client thread/INFO]: [CHAT] (Team) [Green] [P] PumpUpProd [VAIN]: TP UP
+[19:44:38] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:44:39] [Client thread/INFO]: [CHAT] §9Root_31§9(ACR) killed §apanda4ever123§a(SPI)
+[19:44:40] [Client thread/INFO]: [CHAT] §9nao0410§9(SCO) killed §aaimerokota128§a(ARC)
+[19:44:41] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:44:44] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:44:46] [Client thread/INFO]: [CHAT] [Green] 2qvG: 青ハックいるｗｗ
+[19:44:51] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(ACR) killed §cLLordHaveMercy§c(SCO)
+[19:44:53] [Client thread/INFO]: [CHAT] §eNilsReturnsYT§e(ARC) killed §9Naito_0415§9(SCO)
+[19:44:59] [Client thread/INFO]: [CHAT] §9ThatGuyN1CK§9(CIV) killed §aMprierome§a(ARC)
+[19:45:05] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(ACR) shot §cmhurtub10§c(ACR)
+[19:45:08] [Client thread/INFO]: [CHAT] §e_haru06§e(ACR) shot §cThe_Kwill§c(NIN)
+[19:45:10] [Client thread/INFO]: [CHAT] §a2qvG§a(SCO) killed §9sakisan338§9(SCO)
+[19:45:14] [Client thread/INFO]: [CHAT] TIP: Someone cheating?  Using bad language?  Keep calm, don't hackusate, and use /report <name> ASAP!
+[19:45:16] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §9Laurenllama§9(ARC)
+[19:45:23] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:45:25] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:45:36] [Client thread/INFO]: [CHAT] §ahima_k§a(ASN) killed §9Laurenllama§9(ARC)
+[19:45:46] [Client thread/INFO]: [CHAT] §9Laurenllama§9(ARC) killed §ahima_k§a(ASN)
+[19:45:48] [Client thread/INFO]: [CHAT] (Team) [Green] [P] _DeathDefies_ [CWAR]: blue inc north side
+[19:45:50] [Client thread/INFO]: [CHAT] (Team) [Green] orangekyanite [CoBG]: inc
+[19:45:51] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §efoo726§e(ENC)
+[19:45:57] [Client thread/INFO]: [CHAT] Horst_Frank used your portal.
+[19:45:58] [Client thread/INFO]: [CHAT] This is a teleport placed by Horst_Frank, sneak to go through it.
+[19:45:59] [Client thread/INFO]: [CHAT] PumpUpProd used your portal.
+[19:46:00] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(MIN) killed §awildcatkate§a(WIZ)
+[19:46:09] [Client thread/INFO]: [CHAT] [Lobby] [S] xjNK_: ! NoSkill_ discord
+[19:46:10] [Client thread/INFO]: [CHAT] §9nao0410§9(SCO) killed §aorangekyanite§a(SNI)
+[19:46:12] [Client thread/INFO]: [CHAT] §a2qvG§a(SCO) killed §9Itz_Legolas§9(WAR)
+[19:46:13] [Client thread/INFO]: [CHAT] §9Laurenllama§9(ARC) shot §aEast_Bank_0219§a(PYR)
+[19:46:24] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) shot §9nao0410§9(SCO)
+[19:46:32] [Client thread/INFO]: [CHAT] §eMontIosGames§e(MIN) killed §cNoSkill_§c(SCO) defending Yellow's Nexus.
+[19:46:33] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) shot §9ThatGuyN1CK§9(CIV)
+[19:46:35] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) shot §eMinecrafter_82§e(ACR)
+[19:46:47] [Client thread/INFO]: [CHAT] §ahima_k§a(WAR) killed §9Laurenllama§9(ARC)
+[19:46:53] [Client thread/INFO]: [CHAT] §eGogBoo§e(ACR) killed §cThe_Anni_PvP§c(SCO)
+[19:46:54] [Client thread/INFO]: [CHAT] §ahima_k§a(WAR) killed §9GANGMEMBERILAN§9(SCO)
+[19:47:01] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(WAR) killed §ahima_k§a(WAR)
+[19:47:03] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:47:04] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:47:06] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:47:06] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §eMinecrafter_82§e(ACR)
+[19:47:10] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[19:47:11] [Client thread/INFO]: [CHAT] Only_Reflex used your portal.
+[19:47:14] [Client thread/INFO]: [CHAT] Want to advertise your stream or Youtube channel? Got something to say to the entire network? Get a Shotbow Shout at shout.shotbow.net
+[19:47:14] [Client thread/INFO]: [CHAT] §ahima_k§a(WAR) killed §cThe_Kwill§c(NIN)
+[19:47:16] [Client thread/INFO]: [CHAT] §9Root_31§9(ACR) killed §aorangekyanite§a(SNI)
+[19:47:21] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §eMinecrafter_82§e(ACR)
+[19:47:33] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §eMinecrafter_82§e(ACR)
+[19:47:36] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[19:47:37] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) shot §eGorka02§e(CIV)
+[19:47:37] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §cmhurtub10§c(ACR)
+[19:47:46] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, dackpack.
+[19:47:50] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[19:47:51] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: need a anvil ...
+[19:47:53] [Client thread/INFO]: [CHAT] §eBastitus§e(MIN) killed §cxjNK_§c(VAM)
+[19:47:54] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §9nao0410§9(SCO)
+[19:47:56] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §efoo726§e(ENC) attacking Yellow's Nexus.
+[19:47:57] [Client thread/INFO]: [CHAT] §eGorka02§e(CIV) killed §cClowBear§c(SCO) defending Yellow's Nexus.
+[19:48:02] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §cThe_Anni_PvP§c(SCO)
+[19:48:12] [Client thread/INFO]: [CHAT] §ahima_k§a(ACR) killed §9Laurenllama§9(ARC)
+[19:48:21] [Client thread/INFO]: [CHAT] §ahima_k§a(ACR) killed §9Laurenllama§9(ARC)
+[19:48:21] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(LUM) killed §awildcatkate§a(WIZ) defending Blue's Nexus.
+[19:48:25] [Client thread/INFO]: [CHAT] [Blue] GANGMEMBERILAN [HUF]:  The_Anni_PvP
+[19:48:27] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) shot §9Naito_0415§9(SCO)
+[19:48:27] [Client thread/INFO]: [CHAT] §cshizimilk§c(IMM) killed §eMinecrafter_82§e(ACR)
+[19:48:28] [Client thread/INFO]: [CHAT] [Red] [P] The_Anni_PvP: ?
+[19:48:29] [Client thread/INFO]: [CHAT] §ahima_k§a(ACR) killed §9Laurenllama§9(ARC)
+[19:48:30] [Client thread/INFO]: [CHAT] [Blue] GANGMEMBERILAN [HUF]: im eu to
+[19:48:37] [Client thread/INFO]: [CHAT] [Blue] GANGMEMBERILAN [HUF]: played with u in the past
+[19:48:37] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: lm
+[19:48:37] [Client thread/INFO]: [CHAT] [Red] [P] The_Anni_PvP:  okee
+[19:48:39] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: here
+[19:48:39] [Client thread/INFO]: [CHAT] §eGorka02§e(CIV) killed §cxjNK_§c(VAM)
+[19:48:41] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, Naito_0415.
+[19:48:42] [Client thread/INFO]: [CHAT] §9Laurenllama§9(ARC) killed §ahima_k§a(ACR)
+[19:48:42] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(ACR) killed §awildcatkate§a(WIZ)
+[19:48:42] [Client thread/INFO]: [CHAT] [Red] [P] _ItsAnni_ [ANSQ]: ught people stealing nicks
+[19:48:42] [Client thread/INFO]: [CHAT] [Red] [P] The_Anni_PvP: ?
+[19:48:43] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §eGorka02§e(CIV)
+[19:48:46] [Client thread/INFO]: [CHAT] §e_haru06§e(ACR) shot §aEast_Bank_0219§a(PYR)
+[19:48:51] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §eMinecrafter_82§e(ACR)
+[19:48:53] [Client thread/INFO]: [CHAT] hima_k used your portal.
+[19:48:53] [Client thread/INFO]: [CHAT] East_Bank_0219 used your portal.
+[19:48:55] [Client thread/INFO]: [CHAT] wildcatkate used your portal.
+[19:48:59] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §eGorka02§e(CIV)
+[19:49:01] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) killed §cNoSkill_§c(SCO)
+[19:49:01] [Client thread/INFO]: [CHAT] §aL_M_S_G§a(CIV) killed §cThe_Kwill§c(NIN)
+[19:49:02] [Client thread/INFO]: [CHAT] orangekyanite used your portal.
+[19:49:03] [Client thread/INFO]: [CHAT] [Blue] GANGMEMBERILAN [HUF]: ik ben _lightninqq, 2v2z, simplefrenzy, gangmemberilan, _frequencyy,...
+[19:49:09] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(ACR) killed §ahima_k§a(ACR)
+[19:49:10] [Client thread/INFO]: [CHAT] [Red] [P] The_Anni_PvP: owhhhh
+[19:49:12] [Client thread/INFO]: [CHAT] (Team) [Green] [P] PumpUpProd [VAIN]: TP UP
+[19:49:12] [Client thread/INFO]: [CHAT] [Red] [P] The_Anni_PvP: hey:D
+[19:49:14] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(ACR) killed §aEast_Bank_0219§a(PYR)
+[19:49:14] [Client thread/INFO]: [CHAT] TIP: Team work is paramount to Annihilation.  Share resources, store extra armor/weapons at your base for fallen teammates, and move as a unified group.
+[19:49:15] [Client thread/INFO]: [CHAT] [Blue] GANGMEMBERILAN [HUF]: hi
+[19:49:16] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §eGorka02§e(CIV)
+[19:49:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:49:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:49:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:49:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:49:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 3 has started
+[19:49:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Diamonds have spawned in the middle
+[19:49:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Witches have also spawned
+[19:49:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:49:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:49:17] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:49:17] [Client thread/INFO]: [CHAT] §eDoosii§e(CIV) killed §cshizimilk§c(IMM)
+[19:49:21] [Client thread/INFO]: [CHAT] [Blue] GANGMEMBERILAN [HUF]: hoe gaat het
+[19:49:28] [Client thread/INFO]: [CHAT] [Red] [P] The_Anni_PvP: goed en met jou?
+[19:49:30] [Client thread/INFO]: [CHAT] §ahima_k§a(ACR) killed §9XxCupCakeODoomxX§9(LUM)
+[19:49:33] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[19:49:34] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[19:49:36] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(LUM) killed §ahima_k§a(ACR)
+[19:49:37] [Client thread/INFO]: [CHAT] §eSushi_Ronin§e(MER) killed §cNoSkill_§c(SCO)
+[19:49:38] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[19:49:38] [Client thread/INFO]: [CHAT] [Blue] GANGMEMBERILAN [HUF]: goed bijna school
+[19:49:42] [Client thread/INFO]: [CHAT] §eGogBoo§e(ACR) killed §cClowBear§c(SCO)
+[19:49:42] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §eMinecrafter_82§e(ACR)
+[19:49:43] [Client thread/INFO]: [CHAT] (Team) [Green] panda4ever123: t
+[19:49:45] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) killed §cxjNK_§c(VAM) defending Green's Nexus.
+[19:49:47] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: panda is neo
+[19:49:47] [Client thread/INFO]: [CHAT] §eNilsReturnsYT§e(ARC) shot §9GANGMEMBERILAN§9(SCO)
+[19:49:47] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(ACR) killed §awildcatkate§a(WIZ)
+[19:49:49] [Client thread/INFO]: [CHAT] [Red] [P] The_Anni_PvP: >.
+[19:49:54] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(ACR) killed §9Ishisho53§9(ACR)
+[19:49:55] [Client thread/INFO]: [CHAT] [Blue] GANGMEMBERILAN [HUF]: >.<
+[19:49:57] [Client thread/INFO]: [CHAT] §cThe_Anni_PvP§c(SCO) killed §9Mind_Hunter§9(IMM) attacking Blue's Nexus.
+[19:49:58] [Client thread/INFO]: [CHAT] §ahima_k§a(ACR) killed §9sakisan338§9(SCO)
+[19:50:05] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) shot §c_ItsAnni_§c(VAM)
+[19:50:06] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §ahima_k§a(ACR)
+[19:50:06] [Client thread/INFO]: [CHAT] 4_Fools used your portal.
+[19:50:08] [Client thread/INFO]: [CHAT] §e_haru06§e(ACR) killed §9Ishisho53§9(ACR)
+[19:50:09] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §cThe_Anni_PvP§c(SCO)
+[19:50:14] [Client thread/INFO]: [CHAT] §eSushi_Ronin§e(MER) killed §cpsi_nomouthemoji§c(MER)
+[19:50:16] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §eTxpir§e(SCO)
+[19:50:16] [Client thread/INFO]: [CHAT] [Blue] GANGMEMBERILAN [HUF]: sri het moest
+[19:50:17] [Client thread/INFO]: [CHAT] panda4ever123 used your portal.
+[19:50:18] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §eMinecrafter_82§e(SCO)
+[19:50:18] [Client thread/INFO]: [CHAT] PumpUpProd used your portal.
+[19:50:20] [Client thread/INFO]: [CHAT] (Team) [Green] [S] Only_Reflex: do we have a base at mid and a tp
+[19:50:20] [Client thread/INFO]: [CHAT] [Red] [P] The_Anni_PvP: why
+[19:50:21] [Client thread/INFO]: [CHAT] L_M_S_G used your portal.
+[19:50:21] [Client thread/INFO]: [CHAT] [Red] [P] The_Anni_PvP: gvd
+[19:50:22] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §9GANGMEMBERILAN§9(SCO)
+[19:50:27] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §eTxpir§e(SCO)
+[19:50:28] [Client thread/INFO]: [CHAT] PumpUpProd used your portal.
+[19:50:31] [Client thread/INFO]: [CHAT] §e_haru06§e(ACR) killed §9Ishisho53§9(ACR)
+[19:50:34] [Client thread/INFO]: [CHAT] Only_Reflex used your portal.
+[19:50:37] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) killed §9GANGMEMBERILAN§9(SCO)
+[19:50:44] [Client thread/INFO]: [CHAT] §eMontIosGames§e(ACR) killed §9Itz_Legolas§9(WAR)
+[19:50:46] [Client thread/INFO]: [CHAT] §cNoSkill_§c(SCO) killed §9Root_31§9(ACR)
+[19:50:48] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §eMonHunBaka§e(ACR)
+[19:50:49] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) killed §ahima_k§a(ACR) defending Blue's Nexus.
+[19:50:50] [Client thread/INFO]: [CHAT] §e_haru06§e(ACR) shot §9Ishisho53§9(ACR)
+[19:50:52] [Client thread/INFO]: [CHAT] _DeathDefies_ used your portal.
+[19:51:03] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §e_haru06§e(ACR)
+[19:51:05] [Client thread/INFO]: [CHAT] §eBastitus§e(MIN) killed §cLLordHaveMercy§c(SCO)
+[19:51:07] [Client thread/INFO]: [CHAT] §cRecedings§c(ACR) shot §eSushi_Ronin§e(MER)
+[19:51:10] [Client thread/INFO]: [CHAT] §aL_M_S_G§a(CIV) killed §9GANGMEMBERILAN§9(SCO)
+[19:51:10] [Client thread/INFO]: [CHAT] [Red] NoSkill_: ouh shit im actually really sorry
+[19:51:12] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §eMinecrafter_82§e(SCO)
+[19:51:14] [Client thread/INFO]: [CHAT] Check our Christmas Cosmetics - Candy Canes, Christmas Trees, Elves and Snowman Balloons! bitly.com/shotbow-cosmetics
+[19:51:17] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §aL_M_S_G§a(CIV)
+[19:51:19] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: lm
+[19:51:20] [Client thread/INFO]: [CHAT] §atimmypirater§a(ACR) killed §9ThatTachGuy§9(ARC)
+[19:51:25] [Client thread/INFO]: [CHAT] (Team) [Green] L_M_S_G: ya
+[19:51:29] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §e_haru06§e(ACR)
+[19:51:30] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(ACR) killed §cThe_Anni_PvP§c(SCO)
+[19:51:33] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §enell0725§e(CIV)
+[19:51:39] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: go thru the teleporter in the shed
+[19:51:39] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §ahima_k§a(ACR)
+[19:51:42] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9nao0410§9(SCO)
+[19:51:46] [Client thread/INFO]: [CHAT] (Team) [Green] L_M_S_G: I died
+[19:51:47] [Client thread/INFO]: [CHAT] §cClowBear§c(SCO) killed §aMprierome§a(ARC)
+[19:51:47] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) shot §eMinecrafter_82§e(SCO)
+[19:51:47] [Client thread/INFO]: [CHAT] PumpUpProd used your portal.
+[19:51:48] [Client thread/INFO]: [CHAT] §aOnly_Reflex§a(ACR) killed §cshizimilk§c(ARC)
+[19:51:48] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §eSushi_Ronin§e(MER)
+[19:51:49] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: o
+[19:51:49] [Client thread/INFO]: [CHAT] (Team) [Green] panda4ever123: anyone hace pant
+[19:51:51] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(WAR) killed §cxjNK_§c(VAM) defending Blue's Nexus.
+[19:51:57] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) killed §9GANGMEMBERILAN§9(SCO)
+[19:52:03] [Client thread/INFO]: [CHAT] (Team) [Green] panda4ever123: anyone hace pants
+[19:52:04] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) killed §ahima_k§a(ACR) defending Blue's Nexus.
+[19:52:05] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §eSushi_Ronin§e(MER)
+[19:52:08] [Client thread/INFO]: [CHAT] §eNilsReturnsYT§e(ARC) shot §cThe_Kwill§c(NIN)
+[19:52:11] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9nao0410§9(SCO)
+[19:52:13] [Client thread/INFO]: [CHAT] (Team) [Green] [P] PumpUpProd [VAIN]: we need an iron block
+[19:52:14] [Client thread/INFO]: [CHAT] §e_haru06§e(ACR) killed §cKaguyaLuna§c(ACR)
+[19:52:14] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9GANGMEMBERILAN§9(SCO)
+[19:52:21] [Client thread/INFO]: [CHAT] (Team) [Green] [P] PumpUpProd [VAIN]: so we can launch into their nexus
+[19:52:23] [Client thread/INFO]: [CHAT] (Team) [Green] Horst_Frank: we need an ironblock
+[19:52:23] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) killed §9Laurenllama§9(ARC)
+[19:52:27] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(WAR) killed §ahima_k§a(ACR) defending Blue's Nexus.
+[19:52:29] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[19:52:32] [Client thread/INFO]: [CHAT] §eDoosii§e(CIV) killed §cThe_Anni_PvP§c(SCO)
+[19:52:32] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9GANGMEMBERILAN§9(SCO)
+[19:52:33] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) shot §e_haru06§e(ACR)
+[19:52:33] [Client thread/INFO]: [CHAT] (Team) [Green] [P] PumpUpProd [VAIN]: who has iron
+[19:52:40] [Client thread/INFO]: [CHAT] §atimmypirater§a(ACR) killed §9nao0410§9(ACR)
+[19:52:47] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §awildcatkate§a(WIZ)
+[19:52:49] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9GANGMEMBERILAN§9(SCO)
+[19:52:52] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §a4_Fools§a(ARC)
+[19:52:56] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9Ishisho53§9(ACR)
+[19:52:58] [Client thread/INFO]: [CHAT] §e_haru06§e(ACR) killed §cHUZINAMI_KEIZOKU§c(ACR)
+[19:52:58] [Client thread/INFO]: [CHAT] 4_Fools used your portal.
+[19:53:03] [Client thread/INFO]: [CHAT] §eBastitus§e(WAR) killed §c_ItsAnni_§c(VAM) defending Yellow's Nexus.
+[19:53:05] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) shot §9GANGMEMBERILAN§9(SCO)
+[19:53:07] [Client thread/INFO]: [CHAT] (Team) [Green] [P] PumpUpProd [VAIN]: ima put is closer
+[19:53:07] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9nao0410§9(ACR)
+[19:53:08] [Client thread/INFO]: [CHAT] timmypirater used your portal.
+[19:53:08] [Client thread/INFO]: [CHAT] wildcatkate used your portal.
+[19:53:13] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §a4_Fools§a(ARC)
+[19:53:13] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9Ishisho53§9(ACR)
+[19:53:14] [Client thread/INFO]: [CHAT] TIP: Did you know you can vote on which maps get added/removed from Annihilation? Check out the Annihilation subforum at http://shotbow.net/forum/forums/annihilation/
+[19:53:18] [Client thread/INFO]: [CHAT] 4_Fools used your portal.
+[19:53:18] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[19:53:19] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(BLO) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[19:53:19] [Client thread/INFO]: [CHAT] §aOnly_Reflex§a(ACR) shot §cAgent_PvP§c(ACR)
+[19:53:21] [Client thread/INFO]: [CHAT] §ahima_k§a(ACR) killed §9Mind_Hunter§9(IMM) attacking Blue's Nexus.
+[19:53:21] [Client thread/INFO]: [CHAT] §awildcatkate§a(WIZ) killed §9GANGMEMBERILAN§9(SCO)
+[19:53:24] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[19:53:25] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §eSushi_Ronin§e(MER)
+[19:53:25] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) killed §9sakisan338§9(SCO)
+[19:53:28] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §awildcatkate§a(WIZ)
+[19:53:29] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §eTxpir§e(SCO)
+[19:53:30] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9Ishisho53§9(ACR)
+[19:53:30] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §ahima_k§a(ACR)
+[19:53:37] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9nao0410§9(ACR)
+[19:53:39] [Client thread/INFO]: [CHAT] §eNilsReturnsYT§e(ARC) shot §cxjNK_§c(VAM)
+[19:53:43] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9GANGMEMBERILAN§9(SCO)
+[19:53:51] [Client thread/INFO]: [CHAT] (Team) [Green] [P] PumpUpProd [VAIN]: TP UP
+[19:53:52] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9nao0410§9(ACR)
+[19:53:59] [Client thread/INFO]: [CHAT] (Team) [Green] [P] PumpUpProd [VAIN]: no
+[19:54:01] [Client thread/INFO]: [CHAT] §a4_Fools§a(ARC) shot §9Ishisho53§9(ACR)
+[19:54:02] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) shot §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[19:54:02] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[19:54:08] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) killed §cshizimilk§c(ARC)
+[19:54:08] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9GANGMEMBERILAN§9(SCO)
+[19:54:11] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) killed §cThe_Anni_PvP§c(SCO)
+[19:54:12] [Client thread/INFO]: [CHAT] §cRecedings§c(DEF) killed §eMinecrafter_82§e(SCO) defending Red's Nexus.
+[19:54:14] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9nao0410§9(ACR)
+[19:54:19] [Client thread/INFO]: [CHAT] §eSushi_Ronin§e(MER) killed §9ninja_fine§9(ARC)
+[19:54:19] [Client thread/INFO]: [CHAT] §a4_Fools§a(ARC) killed §9Ishisho53§9(ACR)
+[19:54:22] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) killed §9GANGMEMBERILAN§9(SCO)
+[19:54:36] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) shot §9GANGMEMBERILAN§9(SCO)
+[19:54:39] [Client thread/INFO]: [CHAT] (Team) [Green] [P] PumpUpProd [VAIN]: the red guy destroyed it
+[19:54:42] [Client thread/INFO]: [CHAT] §cClowBear§c(SCO) killed §eGorka02§e(CIV)
+[19:54:44] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) killed §9Ishisho53§9(ACR)
+[19:54:51] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) killed §9GANGMEMBERILAN§9(SCO)
+[19:54:51] [Client thread/INFO]: [CHAT] §aOnly_Reflex§a(ACR) killed §cAgent_PvP§c(ACR)
+[19:54:52] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) killed §9nao0410§9(ACR)
+[19:55:07] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[19:55:08] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aEast_Bank_0219§a(TRA) defending Blue's Nexus.
+[19:55:09] [Client thread/INFO]: [CHAT] §ahima_k§a(ACR) killed §9Laurenllama§9(ARC)
+[19:55:11] [Client thread/INFO]: [CHAT] §ahima_k§a(ACR) killed §9ninja_fine§9(ARC)
+[19:55:12] [Client thread/INFO]: [CHAT] §cThe_Anni_PvP§c(SCO) killed §aMprierome§a(ARC)
+[19:55:14] [Client thread/INFO]: [CHAT] TIP: Change your class by entering the nether portal near your nexus.  You can unlock classes by meeting certain criteria or by unlocking them with Shotbow XP.
+[19:55:16] [Client thread/INFO]: [CHAT] §ahima_k§a(ACR) killed §9sakisan338§9(SCO)
+[19:55:18] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[19:55:19] [Client thread/INFO]: [CHAT] §9Laurenllama§9(ARC) killed §ahima_k§a(ACR)
+[19:55:23] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9nao0410§9(ACR)
+[19:55:25] [Client thread/INFO]: [CHAT] §eMontIosGames§e(ACR) killed §cLLordHaveMercy§c(SCO)
+[19:55:28] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9Ishisho53§9(ACR)
+[19:55:30] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) shot §eSushi_Ronin§e(MER)
+[19:55:32] [Client thread/INFO]: [CHAT] This is a teleport placed by East_Bank_0219, sneak to go through it.
+[19:55:34] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(WAR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[19:55:36] [Client thread/INFO]: [CHAT] This is a teleport placed by East_Bank_0219, sneak to go through it.
+[19:55:38] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(TRA) killed §9Itz_Legolas§9(WAR) attacking Blue's Nexus.
+[19:55:39] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9GANGMEMBERILAN§9(SCO)
+[19:55:39] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aEast_Bank_0219§a(TRA) defending Blue's Nexus.
+[19:55:39] [Client thread/INFO]: [CHAT] This is a teleport placed by East_Bank_0219, sneak to go through it.
+[19:55:40] [Client thread/INFO]: [CHAT] §cClowBear§c(SCO) killed §eNilsReturnsYT§e(ARC)
+[19:55:40] [Client thread/INFO]: [CHAT] §aOnly_Reflex§a(ACR) killed §cThe_Anni_PvP§c(SCO)
+[19:55:41] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[19:55:51] [Client thread/INFO]: [CHAT] This is a teleport placed by East_Bank_0219, sneak to go through it.
+[19:55:54] [Client thread/INFO]: [CHAT] (Team) [Green] East_Bank_0219 [mist]: tp up to blue
+[19:55:54] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[19:55:57] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:55:59] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9nao0410§9(ACR)
+[19:55:59] [Client thread/INFO]: [CHAT] §cshizimilk§c(ARC) shot §awildcatkate§a(WIZ)
+[19:56:00] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:56:01] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §ahima_k§a(ACR) defending Blue's Nexus.
+[19:56:02] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9GANGMEMBERILAN§9(SCO)
+[19:56:02] [Client thread/INFO]: [CHAT] (Team) [Green] East_Bank_0219 [mist]: go blue
+[19:56:06] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:56:07] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:56:09] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:56:11] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[19:56:11] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:56:11] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) killed §aHorst_Frank§a(TRA) defending Blue's Nexus.
+[19:56:14] [Client thread/INFO]: [CHAT] §atimmypirater§a(ACR) killed §9Ishisho53§9(ACR)
+[19:56:20] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §aOnly_Reflex§a(ACR)
+[19:56:23] [Client thread/INFO]: [CHAT] §eGogBoo§e(ACR) killed §cThe_Anni_PvP§c(SCO)
+[19:56:24] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) shot §9Laurenllama§9(ARC)
+[19:56:25] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[19:56:26] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §9ThatTachGuy§9(ARC) attacking Blue's Nexus.
+[19:56:26] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(WAR) killed §aEast_Bank_0219§a(TRA) defending Blue's Nexus.
+[19:56:28] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) shot §9nao0410§9(ACR)
+[19:56:32] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9GANGMEMBERILAN§9(SCO)
+[19:56:35] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(WAR) killed §ahima_k§a(PYR) defending Blue's Nexus.
+[19:56:35] [Client thread/INFO]: [CHAT] This is a teleport placed by East_Bank_0219, sneak to go through it.
+[19:56:36] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) shot §9Itz_Legolas§9(WAR) attacking Blue's Nexus.
+[19:56:36] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §9ninja_fine§9(ARC) attacking Blue's Nexus.
+[19:56:36] [Client thread/INFO]: [CHAT] §atimmypirater§a(ACR) killed §9Ishisho53§9(ACR)
+[19:56:43] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cThe_Kwill§c(NIN)
+[19:56:49] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:56:51] [Client thread/INFO]: [CHAT] [Red] NoSkill_: come here you
+[19:56:51] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[19:56:54] [Client thread/INFO]: [CHAT] §ahima_k§a(PYR) killed §9Mind_Hunter§9(IMM)
+[19:56:54] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §aHorst_Frank§a(TRA) defending Blue's Nexus.
+[19:57:00] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §ahima_k§a(PYR)
+[19:57:02] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:57:03] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:57:04] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(WAR) killed §aEast_Bank_0219§a(TRA) defending Blue's Nexus.
+[19:57:04] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:57:04] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §9GANGMEMBERILAN§9(SCO)
+[19:57:06] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:57:06] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:57:07] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:57:09] [Client thread/INFO]: [CHAT] BloodMage selected
+[19:57:10] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:57:11] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §aPumpUpProd§a(TRA)
+[19:57:15] [Client thread/INFO]: [CHAT] TIP: Interested in building a map for Annihilation? Post a build submission to our forums! https://shotbow.net/forum/forums/buildsubmission/
+[19:57:19] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[19:57:19] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) killed §9GANGMEMBERILAN§9(SCO) attacking Blue's Nexus.
+[19:57:20] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(TRA) killed §9Ishisho53§9(ACR) attacking Blue's Nexus.
+[19:57:22] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(TRA) killed §9ThatTachGuy§9(ARC) attacking Blue's Nexus.
+[19:57:26] [Client thread/INFO]: [CHAT] §ahima_k§a(PYR) killed §9ninja_fine§9(ARC) attacking Blue's Nexus.
+[19:57:27] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:57:27] [Client thread/INFO]: [CHAT] §ahima_k§a(PYR) killed §9sakisan338§9(SCO) attacking Blue's Nexus.
+[19:57:27] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §ahima_k§a(PYR) defending Blue's Nexus.
+[19:57:28] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[19:57:29] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(WAR) killed §aEast_Bank_0219§a(TRA) defending Blue's Nexus.
+[19:57:31] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(TRA) killed §9Laurenllama§9(ARC) attacking Blue's Nexus.
+[19:57:37] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[19:57:46] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:57:46] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) shot §9Itz_Legolas§9(WAR) attacking Blue's Nexus.
+[19:57:47] [Client thread/INFO]: [CHAT] §cxjNK_§c(ACR) killed §9GANGMEMBERILAN§9(SCO)
+[19:57:47] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[19:57:48] [Client thread/INFO]: [CHAT] §ahima_k§a(PYR) killed §9ninja_fine§9(ARC) attacking Blue's Nexus.
+[19:57:48] [Client thread/INFO]: [CHAT] §ahima_k§a(PYR) killed §9Ishisho53§9(ACR) attacking Blue's Nexus.
+[19:57:48] [Client thread/INFO]: [CHAT] §ahima_k§a(PYR) killed §9ThatTachGuy§9(ARC) attacking Blue's Nexus.
+[19:57:49] [Client thread/INFO]: [CHAT] §cmhurtub10§c(ACR) killed §eNilsReturnsYT§e(ARC)
+[19:57:50] [Client thread/INFO]: [CHAT] §9Laurenllama§9(ARC) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[19:57:52] [Client thread/INFO]: [CHAT] §9Laurenllama§9(ARC) killed §aMprierome§a(ARC) defending Blue's Nexus.
+[19:57:54] [Client thread/INFO]: [CHAT] [Red] NoSkill_: why so rude invis guy
+[19:57:55] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(TRA) killed §9nao0410§9(ACR) attacking Blue's Nexus.
+[19:57:55] [Client thread/INFO]: [CHAT] §cshizimilk§c(ARC) shot §awildcatkate§a(WIZ)
+[19:57:55] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §ahima_k§a(PYR) defending Blue's Nexus.
+[19:57:55] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §aEast_Bank_0219§a(TRA) defending Blue's Nexus.
+[19:57:59] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(TRA) killed §9sakisan338§9(SCO) attacking Blue's Nexus.
+[19:58:03] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §ahima_k§a(PYR) attacking Green's Nexus.
+[19:58:05] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §aEast_Bank_0219§a(TRA) attacking Green's Nexus.
+[19:58:08] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) killed §9Itz_Legolas§9(WAR)
+[19:58:08] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §awildcatkate§a(WIZ) attacking Green's Nexus.
+[19:58:10] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aaimerokota128§a(ARC) defending Blue's Nexus.
+[19:58:13] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cThe_Kwill§c(NIN)
+[19:58:22] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) killed §9Laurenllama§9(ARC)
+[19:58:22] [Client thread/INFO]: [CHAT] [Red] Recedings [ummi]:  stay woke
+[19:58:24] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cAgent_PvP§c(ACR)
+[19:58:25] [Client thread/INFO]: [CHAT] §cxjNK_§c(ACR) killed §9nao0410§9(ACR)
+[19:58:27] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[19:58:28] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) killed §9Itz_Legolas§9(WAR)
+[19:58:31] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) shot §9GANGMEMBERILAN§9(SCO)
+[19:58:34] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) shot §9ThatTachGuy§9(ARC)
+[19:58:35] [Client thread/INFO]: [CHAT] [Red] NoSkill_: is it a ghost?
+[19:58:35] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[19:58:38] [Client thread/INFO]: [CHAT] §ahima_k§a(PYR) killed §9ninja_fine§9(ARC) attacking Blue's Nexus.
+[19:58:42] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:58:43] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:58:43] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §ahima_k§a(PYR) defending Blue's Nexus.
+[19:58:43] [Client thread/INFO]: [CHAT] §ahima_k§a(PYR) killed §9XxCupCakeODoomxX§9(WAR) attacking Blue's Nexus.
+[19:58:44] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:58:44] [Client thread/INFO]: [CHAT] §9Laurenllama§9(ARC) killed §a4_Fools§a(ARC) defending Blue's Nexus.
+[19:58:53] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) shot §9Mind_Hunter§9(IMM)
+[19:58:53] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §aMprierome§a(ARC) defending Blue's Nexus.
+[19:58:56] [Client thread/INFO]: [CHAT] [Red] The_Kwill: nice hax
+[19:58:58] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) shot §9nao0410§9(ACR)
+[19:58:58] [Client thread/INFO]: [CHAT] (Team) [Green] wildcatkate: find the tp
+[19:59:00] [Client thread/INFO]: [CHAT] (Team) [Green] wildcatkate: ples
+[19:59:05] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) shot §aPumpUpProd§a(TRA)
+[19:59:11] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ENC) shot §9nao0410§9(ACR)
+[19:59:12] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[19:59:14] [Client thread/INFO]: [CHAT] §eNilsReturnsYT§e(ARC) shot §cLLordHaveMercy§c(SCO)
+[19:59:15] [Client thread/INFO]: [CHAT] TIP: Enjoying Annihilation? If so, you can try out our fast paced 8v8 Competitive Mode accessible via the Annihilation Lobby using the Diamond Sword!
+[19:59:16] [Client thread/INFO]: [CHAT] §cClowBear§c(SCO) killed §eNilsReturnsYT§e(ARC)
+[19:59:18] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:59:18] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:59:18] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:59:18] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:59:18] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 4 has started
+[19:59:18] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Blaze Powder is now available
+[19:59:18] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The Wither has spawned
+[19:59:18] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:59:18] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:59:18] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[19:59:22] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: lm
+[19:59:22] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:59:23] [Client thread/INFO]: [CHAT] §9squidity_fishy§9(ICE) shot §a_DeathDefies_§a(ENC)
+[19:59:26] [Client thread/INFO]: [CHAT] §ahima_k§a(PYR) killed §9ninja_fine§9(ARC) attacking Blue's Nexus.
+[19:59:27] [Client thread/INFO]: [CHAT] §ahima_k§a(PYR) killed §9ThatTachGuy§9(ARC) attacking Blue's Nexus.
+[19:59:27] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[19:59:27] [Client thread/INFO]: [CHAT] (Team) [Green] L_M_S_G: ya
+[19:59:29] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) shot §9sakisan338§9(SCO) attacking Blue's Nexus.
+[19:59:31] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[19:59:31] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: in here
+[19:59:32] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §ahima_k§a(PYR) defending Blue's Nexus.
+[19:59:33] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[19:59:34] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: shift on there
+[19:59:35] [Client thread/INFO]: [CHAT] (Team) [Green] wildcatkate: attack under
+[19:59:41] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:59:46] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[19:59:47] [Client thread/INFO]: [CHAT] §aHorst_Frank§a(BLO) killed §9Itz_Legolas§9(WAR) attacking Blue's Nexus.
+[19:59:47] [Client thread/INFO]: [CHAT] +18 Shotbow Xp
+[19:59:52] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §awildcatkate§a(WIZ)
+[19:59:52] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) killed §9Laurenllama§9(ARC) attacking Blue's Nexus.
+[19:59:53] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[19:59:54] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) killed §9ninja_fine§9(ARC) attacking Blue's Nexus.
+[19:59:56] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ARC) killed §cThe_Anni_PvP§c(SCO) defending Green's Nexus.
+[19:59:58] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §ahima_k§a(PYR) defending Blue's Nexus.
+[19:59:58] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:59:59] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[19:59:59] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: jump
+[20:00:00] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:04] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §aEast_Bank_0219§a(PYR) attacking Green's Nexus.
+[20:00:07] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9ThatTachGuy§9(ARC) attacking Blue's Nexus.
+[20:00:08] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §a_DeathDefies_§a(ARC)
+[20:00:08] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) shot §9Itz_Legolas§9(WAR) attacking Blue's Nexus.
+[20:00:08] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:00:11] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9Laurenllama§9(ARC) attacking Blue's Nexus.
+[20:00:13] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:14] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §ahima_k§a(PYR)
+[20:00:15] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §apanda4ever123§a(SPI) defending Blue's Nexus.
+[20:00:17] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) shot §9sakisan338§9(SCO) attacking Blue's Nexus.
+[20:00:20] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:21] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:22] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:22] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:00:23] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:24] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:25] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:26] [Client thread/INFO]: [CHAT] This transporter is blocked, you are unable to go through it
+[20:00:26] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:26] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: neos coming to us
+[20:00:26] [Client thread/INFO]: [CHAT] This transporter is blocked, you are unable to go through it
+[20:00:26] [Client thread/INFO]: [CHAT] This transporter is blocked, you are unable to go through it
+[20:00:26] [Client thread/INFO]: [CHAT] This transporter is blocked, you are unable to go through it
+[20:00:27] [Client thread/INFO]: [CHAT] This transporter is blocked, you are unable to go through it
+[20:00:27] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:28] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:00:28] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:28] [Client thread/INFO]: [CHAT] This transporter is blocked, you are unable to go through it
+[20:00:29] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:29] [Client thread/INFO]: [CHAT] This transporter is blocked, you are unable to go through it
+[20:00:29] [Client thread/INFO]: [CHAT] This transporter is blocked, you are unable to go through it
+[20:00:29] [Client thread/INFO]: [CHAT] This transporter is blocked, you are unable to go through it
+[20:00:29] [Client thread/INFO]: [CHAT] This transporter is blocked, you are unable to go through it
+[20:00:30] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:31] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:32] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:33] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:34] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:34] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) shot §aorangekyanite§a(SNI)
+[20:00:35] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:36] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:37] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:38] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:39] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:00:39] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:39] [Client thread/INFO]: [CHAT] §cRecedings§c(DEF) killed §eMinecrafter_82§e(SCO) defending Red's Nexus.
+[20:00:40] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:41] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:42] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:43] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:43] [Client thread/INFO]: [CHAT] (Team) [Green] hima_k: DEF PLZ
+[20:00:43] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:00:44] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:00:50] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §aaimerokota128§a(MER)
+[20:00:51] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §apanda4ever123§a(SPI) defending Blue's Nexus.
+[20:00:53] [Client thread/INFO]: [CHAT] §cxjNK_§c(ACR) shot §a_DeathDefies_§a(ARC)
+[20:00:55] [Client thread/INFO]: [CHAT] §cxjNK_§c(ACR) shot §aEast_Bank_0219§a(PYR)
+[20:00:55] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:00:57] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[20:00:58] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §awildcatkate§a(WIZ)
+[20:00:59] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) killed §ahima_k§a(IMM)
+[20:01:00] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) killed §9squidity_fishy§9(ICE)
+[20:01:06] [Client thread/INFO]: [CHAT] §eMinecrafter_82§e(SCO) killed §aOnly_Reflex§a(ACR)
+[20:01:12] [Client thread/INFO]: [CHAT] §9Laurenllama§9(ARC) shot §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:01:13] [Client thread/INFO]: [CHAT] §cRecedings§c(DEF) killed §eGogBoo§e(ACR)
+[20:01:15] [Client thread/INFO]: [CHAT] TIP: Defend your nexus!  If your nexus is destroyed, you will be unable to respawn and your team will lose the match.
+[20:01:21] [Client thread/INFO]: [CHAT] §cThe_Anni_PvP§c(SCO) killed §ahima_k§a(IMM)
+[20:01:23] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:01:26] [Client thread/INFO]: [CHAT] (Team) [Green] panda4ever123: lm
+[20:01:32] [Client thread/INFO]: [CHAT] (Team) [Green] panda4ever123: its me iso
+[20:01:37] [Client thread/INFO]: [CHAT] (Team) [Green] panda4ever123: neo
+[20:01:38] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:01:44] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cegorukraina§c(SCO)
+[20:01:50] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:01:51] [Client thread/INFO]: [CHAT] §cxjNK_§c(ACR) killed §awildcatkate§a(WIZ)
+[20:01:52] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cClowBear§c(SCO)
+[20:02:04] [Client thread/INFO]: [CHAT] Warrior selected
+[20:02:08] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:02:15] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) shot §9Itz_Legolas§9(MIN)
+[20:02:17] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:02:17] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(ACR) shot §cClowBear§c(SCO)
+[20:02:19] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) shot §aEast_Bank_0219§a(PYR)
+[20:02:29] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:02:31] [Client thread/INFO]: [CHAT] §aL_M_S_G§a(CIV) killed §9Itz_Legolas§9(MIN)
+[20:02:33] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) killed §aHorst_Frank§a(WAR) defending Blue's Nexus.
+[20:02:35] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ARC) shot §cxjNK_§c(ACR)
+[20:02:36] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:02:37] [Client thread/INFO]: [CHAT] [Red] NoSkill_: yaaaas
+[20:02:40] [Client thread/INFO]: [CHAT] [Red] NoSkill_: AJHAHA finally
+[20:02:42] [Client thread/INFO]: [CHAT] hima_k repaired your nexus with the Handyman class!
+[20:02:42] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:02:44] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §ahima_k§a(HAN) defending Blue's Nexus.
+[20:02:44] [Client thread/INFO]: [CHAT] §aL_M_S_G§a(CIV) killed §9Itz_Legolas§9(MIN)
+[20:02:49] [Client thread/INFO]: [CHAT] BloodMage selected
+[20:02:51] [Client thread/INFO]: [CHAT] §eBastitus§e(WAR) shot §cshizimilk§c(ARC)
+[20:02:57] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cegorukraina§c(SCO)
+[20:02:58] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §ahima_k§a(HAN) defending Blue's Nexus.
+[20:03:00] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:03:02] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:03:03] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:03:09] [Client thread/INFO]: [CHAT] §9Itz_Legolas§9(MIN) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[20:03:11] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aL_M_S_G§a(CIV)
+[20:03:11] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:03:15] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §ahima_k§a(HAN) defending Blue's Nexus.
+[20:03:16] [Client thread/INFO]: [CHAT] TIP: Register on Shotbow.net to earn XP and also buy additional classes!  Classes have unique abilities and open up new strategies. Type /register <email> in a Shotbow Network lobby
+[20:03:18] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:03:25] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §aMprierome§a(ARC) defending Blue's Nexus.
+[20:03:25] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §apanda4ever123§a(SPI)
+[20:03:25] [Client thread/INFO]: [CHAT] §aHorst_Frank§a(BLO) killed §9Laurenllama§9(ARC) attacking Blue's Nexus.
+[20:03:25] [Client thread/INFO]: [CHAT] +18 Shotbow Xp
+[20:03:27] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[20:03:28] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:03:31] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:03:31] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:03:33] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:03:34] [Client thread/INFO]: [CHAT] §eBastitus§e(WAR) killed §cegorukraina§c(SCO)
+[20:03:35] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §a4_Fools§a(ARC)
+[20:03:36] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:03:36] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:03:37] [Client thread/INFO]: [CHAT] §atimmypirater§a(ACR) killed §cClowBear§c(SCO)
+[20:03:39] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §ahima_k§a(HAN) defending Blue's Nexus.
+[20:03:39] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:03:41] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §aaimerokota128§a(MER) defending Blue's Nexus.
+[20:03:44] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §apanda4ever123§a(SPI) defending Blue's Nexus.
+[20:03:45] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) killed §aHorst_Frank§a(BLO)
+[20:03:48] [Client thread/INFO]: [CHAT] §cRecedings§c(DEF) killed §eDoosii§e(SPI)
+[20:03:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:03:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:03:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:03:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Yellow team's
+[20:03:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[20:03:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by MiraiAkari
+[20:03:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:03:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:03:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:03:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:03:51] [Client thread/INFO]: [CHAT] [Red] KaguyaLuna [Grsn]: GG
+[20:03:52] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:03:52] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:03:54] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §aPumpUpProd§a(TRA)
+[20:03:55] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) killed §ahima_k§a(HAN) defending Blue's Nexus.
+[20:03:55] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cshizimilk§c(IMM) in honour of Yellow.
+[20:03:57] [Client thread/INFO]: [CHAT] [Red] Recedings [ummi]:  GG
+[20:03:58] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:03:59] [Client thread/INFO]: [CHAT] [Red] MiraiAkari [Grsn]: GG
+[20:04:00] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §eDoosii§e(SPI)
+[20:04:06] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §eGorka02§e(CIV)
+[20:04:07] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §aOnly_Reflex§a(ACR) in honour of Yellow.
+[20:04:07] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §a4_Fools§a(ARC) defending Blue's Nexus.
+[20:04:07] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9Upburst§9(IMM) attacking Blue's Nexus.
+[20:04:09] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(IMM) killed §apanda4ever123§a(SPI) defending Blue's Nexus.
+[20:04:11] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:04:14] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aHorst_Frank§a(BLO)
+[20:04:14] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) shot §9Laurenllama§9(ARC)
+[20:04:14] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:04:16] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:04:16] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:04:17] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §eTxpir§e(SCO)
+[20:04:17] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:04:19] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cegorukraina§c(SCO) in honour of Yellow.
+[20:04:19] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:04:21] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(IMM) killed §ahima_k§a(MIN) defending Blue's Nexus.
+[20:04:23] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) shot §9Mind_Hunter§9(IMM) attacking Blue's Nexus.
+[20:04:25] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:04:29] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) shot §aMprierome§a(ARC) defending Blue's Nexus.
+[20:04:34] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:04:35] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:04:35] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §aOnly_Reflex§a(ACR) defending Blue's Nexus.
+[20:04:37] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9Mind_Hunter§9(SUC)
+[20:04:38] [Client thread/INFO]: [CHAT] §9Upburst§9(ICE) killed §ahima_k§a(MIN) defending Blue's Nexus.
+[20:04:40] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:04:41] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:04:43] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:04:43] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §apanda4ever123§a(SPI)
+[20:04:51] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:04:54] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §ahima_k§a(MIN) defending Blue's Nexus.
+[20:04:54] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) killed §ahima_k§a(MIN) defending Blue's Nexus.
+[20:05:01] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:05:01] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aMprierome§a(ARC)
+[20:05:06] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:05:09] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §ahima_k§a(MIN) defending Blue's Nexus.
+[20:05:10] [Client thread/INFO]: [CHAT] §cThe_Anni_PvP§c(SCO) killed §eMinecrafter_82§e(SCO)
+[20:05:11] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[20:05:14] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aaimerokota128§a(ARC)
+[20:05:16] [Client thread/INFO]: [CHAT] You can vote for The Shotbow Network on Planet Minecraft to help bring new players! Visit vote.shotbow.net to vote!
+[20:05:22] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:05:22] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §a_DeathDefies_§a(ARC) in honour of Yellow.
+[20:05:24] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §ahima_k§a(MIN) defending Blue's Nexus.
+[20:05:28] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9GANGMEMBERILAN§9(SCO) attacking Blue's Nexus.
+[20:05:29] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:05:29] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:05:30] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) shot §apanda4ever123§a(SPI) defending Blue's Nexus.
+[20:05:32] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cshizimilk§c(IMM) in honour of Yellow.
+[20:05:32] [Client thread/INFO]: [CHAT] §eBastitus§e(WAR) killed §cegorukraina§c(SCO) in honour of Yellow.
+[20:05:34] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, xjNK_.
+[20:05:36] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aMprierome§a(ARC)
+[20:05:40] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §a_DeathDefies_§a(ARC) defending Blue's Nexus.
+[20:05:41] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:05:41] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:05:44] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:05:45] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:05:46] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aaimerokota128§a(ARC)
+[20:05:46] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9ninja_fine§9(ARC) attacking Blue's Nexus.
+[20:05:47] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:05:47] [Client thread/INFO]: [CHAT] §eBastitus§e(WAR) shot §cThe_Kwill§c(NIN) in honour of Yellow.
+[20:05:49] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:05:50] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §ahima_k§a(MIN) defending Blue's Nexus.
+[20:05:53] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:05:55] [Client thread/INFO]: [CHAT] §9nao0410§9(ACR) killed §aMprierome§a(ARC)
+[20:05:55] [Client thread/INFO]: [CHAT] §eMonHunBaka§e(ACR) killed §cNoSkill_§c(SUC) in honour of Yellow.
+[20:05:56] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: lm
+[20:05:57] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[20:06:00] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: meet at center
+[20:06:00] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §a_DeathDefies_§a(ARC)
+[20:06:01] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:06:04] [Client thread/INFO]: [CHAT] §eBastitus§e(WAR) killed §cegorukraina§c(SCO) in honour of Yellow.
+[20:06:04] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:06:06] [Client thread/INFO]: [CHAT] §cThe_Anni_PvP§c(SCO) killed §enell0725§e(CIV)
+[20:06:06] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:06:07] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §ahima_k§a(MIN) defending Blue's Nexus.
+[20:06:10] [Client thread/INFO]: [CHAT] §aaimerokota128§a(ARC) killed §9GANGMEMBERILAN§9(SCO)
+[20:06:10] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aaimerokota128§a(ARC)
+[20:06:11] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9ninja_fine§9(ARC) attacking Blue's Nexus.
+[20:06:11] [Client thread/INFO]: [CHAT] §eBastitus§e(WAR) shot §cshizimilk§c(IMM) in honour of Yellow.
+[20:06:12] [Client thread/INFO]: [CHAT] [Red] NoSkill_: im going now thats why i gave them to you
+[20:06:14] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[20:06:17] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:06:22] [Client thread/INFO]: [CHAT] §9nao0410§9(WAR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:06:24] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §ahima_k§a(MIN) defending Blue's Nexus.
+[20:06:26] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:06:26] [Client thread/INFO]: [CHAT] §9nao0410§9(WAR) killed §aMprierome§a(ARC) defending Blue's Nexus.
+[20:06:29] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ARC) shot §9Mind_Hunter§9(SUC) attacking Blue's Nexus.
+[20:06:34] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §a_DeathDefies_§a(ARC) defending Blue's Nexus.
+[20:06:39] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:06:39] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[20:06:40] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §ahima_k§a(MIN) defending Blue's Nexus.
+[20:06:47] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:06:50] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:06:50] [Client thread/INFO]: [CHAT] (Team) [Green] panda4ever123: LM
+[20:06:52] [Client thread/INFO]: [CHAT] §9GANGMEMBERILAN§9(SCO) killed §aMprierome§a(ARC)
+[20:06:53] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:06:54] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §eMontIosGames§e(ACR)
+[20:06:56] [Client thread/INFO]: [CHAT] [Red] KaguyaLuna [Grsn]: RIP
+[20:06:57] [Client thread/INFO]: [CHAT] [Yellow] MontIosGames: GG
+[20:06:59] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ARC) killed §9ThatTachGuy§9(ARC)
+[20:07:01] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[20:07:10] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:07:12] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:07:13] [Client thread/INFO]: [CHAT] (Team) [Green] panda4ever123: LM ITS ME
+[20:07:15] [Client thread/INFO]: [CHAT] §9nao0410§9(WAR) killed §aMprierome§a(ARC) defending Blue's Nexus.
+[20:07:16] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:07:16] [Client thread/INFO]: [CHAT] Encounter a bug and need to report it? Fill out the form here: http://shotbow.net/forum/p/bugs/
+[20:07:17] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aHorst_Frank§a(BLO) defending Blue's Nexus.
+[20:07:18] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cegorukraina§c(SCO) in honour of Yellow.
+[20:07:36] [Client thread/INFO]: [CHAT] Transporter selected
+[20:07:36] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:07:36] [Client thread/INFO]: [CHAT] §9nao0410§9(WAR) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:07:38] [Client thread/INFO]: [CHAT] §e_haru06§e(SCO) killed §cshizimilk§c(IMM) in honour of Yellow.
+[20:07:38] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ARC) shot §9Laurenllama§9(ARC)
+[20:07:47] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9Mind_Hunter§9(SUC) attacking Blue's Nexus.
+[20:07:48] [Client thread/INFO]: [CHAT] §a4_Fools§a(ARC) shot §cThe_Kwill§c(NIN)
+[20:07:50] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:07:50] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:07:54] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ARC) killed §9Laurenllama§9(ARC)
+[20:08:01] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[20:08:03] [Client thread/INFO]: [CHAT] §9squidity_fishy§9(ICE) shot §a_DeathDefies_§a(ARC)
+[20:08:03] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:08:04] [Client thread/INFO]: [CHAT] §aaimerokota128§a(WAR) killed §9GANGMEMBERILAN§9(SCO)
+[20:08:07] [Client thread/INFO]: [CHAT] §9nao0410§9(WAR) killed §aMprierome§a(ARC) defending Blue's Nexus.
+[20:08:11] [Client thread/INFO]: [CHAT] §9nao0410§9(WAR) killed §aEast_Bank_0219§a(PYR) defending Blue's Nexus.
+[20:08:11] [Client thread/INFO]: [CHAT] §aEast_Bank_0219§a(PYR) killed §9Mind_Hunter§9(SUC) attacking Blue's Nexus.
+[20:08:12] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §aHorst_Frank§a(TRA)
+[20:08:13] [Client thread/INFO]: [CHAT] _DeathDefies_ used your portal.
+[20:08:19] [Client thread/INFO]: [CHAT] (Team) [Green] Horst_Frank: backup tp is up
+[20:08:29] [Client thread/INFO]: [CHAT] §cpsi_nomouthemoji§c(MIN) killed §a4_Fools§a(ARC)
+[20:08:32] [Client thread/INFO]: [CHAT] PumpUpProd used your portal.
+[20:08:38] [Client thread/INFO]: [CHAT] East_Bank_0219 used your portal.
+[20:08:40] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) killed §a_DeathDefies_§a(ARC)
+[20:08:42] [Client thread/INFO]: [CHAT] (Team) [Green] [P] PumpUpProd [VAIN]: ok normal tps up
+[20:08:44] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:08:55] [Client thread/INFO]: [CHAT] Only_Reflex used your portal.
+[20:08:56] [Client thread/INFO]: [CHAT] This is a teleport placed by PumpUpProd, sneak to go through it.
+[20:08:59] [Client thread/INFO]: [CHAT] §9ThatTachGuy§9(ARC) killed §aPumpUpProd§a(TRA) defending Blue's Nexus.
+[20:08:59] [Client thread/INFO]: [CHAT] §aaimerokota128§a(WAR) killed §9Ishisho53§9(ACR) attacking Blue's Nexus.
+[20:09:00] [Client thread/INFO]: [CHAT] §apanda4ever123§a(SPI) killed §9Itz_Legolas§9(MIN)
+[20:09:01] [Client thread/INFO]: [CHAT] [Yellow] MonHunBaka [OLO:]: lol
+[20:09:03] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §aEast_Bank_0219§a(PYR)
+[20:09:03] [Client thread/INFO]: [CHAT] 2nd team to be eliminated.
+[20:09:03] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:09:03] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:09:03] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:09:04] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Green team's
+[20:09:04] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[20:09:04] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by egorukraina
+[20:09:04] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:09:04] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:09:04] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:09:04] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:09:04] [Client thread/INFO]: [CHAT] +60 Shotbow Xp
+[20:09:07] [Client thread/INFO]: [CHAT] §9Laurenllama§9(ARC) killed §aHorst_Frank§a(TRA) defending Blue's Nexus.
+[20:09:08] [Client thread/INFO]: [CHAT] [Red] Recedings [ummi]:  GG
+[20:09:11] [Client thread/INFO]: [CHAT] (Team) [Green] Horst_Frank: hahaha
+[20:09:14] [Client thread/INFO]: [CHAT] §a_DeathDefies_§a(ARC) shot §9Itz_Legolas§9(MIN) in honour of Green.
+[20:09:16] [Client thread/INFO]: [CHAT] (Team) [Green] Horst_Frank: but gg
+[20:09:17] [Client thread/INFO]: [CHAT] TIP: Interested in building a map for Annihilation? Post a build submission to our forums! https://shotbow.net/forum/forums/buildsubmission/
+[20:09:18] [Client thread/INFO]: [CHAT] Your portal has been destroyed!
+[20:09:18] [Client thread/INFO]: [CHAT] §cMiraiAkari§c(ACR) shot §9Mind_Hunter§9(SUC)
+[20:09:18] [Client thread/INFO]: [CHAT] §cegorukraina§c(SCO) killed §aOnly_Reflex§a(ASN)
+[20:09:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[20:09:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[20:09:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[20:09:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[20:09:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 5 has started
+[20:09:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Nexus bleed every 45 seconds!
+[20:09:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[20:09:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[20:09:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[20:09:19] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[20:09:19] [Client thread/INFO]: [CHAT] §9sakisan338§9(SCO) killed §cshizimilk§c(IMM)
+[20:09:25] [Client thread/INFO]: [CHAT] §aMprierome§a(ARC) killed §cegorukraina§c(SCO) in honour of Green.
+[20:09:30] [Client thread/INFO]: [CHAT] [Yellow] MonHunBaka [OLO:]: GG
+[20:09:31] [Client thread/INFO]: [CHAT] §9nao0410§9(WAR) shot §a_DeathDefies_§a(ARC) defending Blue's Nexus.
+[20:09:37] [Client thread/INFO]: [CHAT] §9XxCupCakeODoomxX§9(WAR) killed §aPumpUpProd§a(TRA)
+[20:09:48] [Client thread/INFO]: [CHAT] §9Mind_Hunter§9(SUC) killed §ahima_k§a(VAM) defending Blue's Nexus.
+[20:09:55] [Client thread/INFO]: [CHAT] §9Ishisho53§9(ACR) killed §cLLordHaveMercy§c(VAM)
+[20:10:08] [Client thread/INFO]: [CHAT] [Red] Recedings [ummi]:  whos the invis at our base
+[20:10:20] [Client thread/INFO]: [CHAT] §cKaguyaLuna§c(ACR) killed §9ThatTachGuy§9(ARC) attacking Blue's Nexus.
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Blue team's
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by MiraiAkari
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The game is over,
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Red team wins!
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The server is restarting
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ in 60 seconds
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:20] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[20:10:22] [Client thread/INFO]: [CHAT] Rate this map by clicking: [5] [4] [3] [2] [1]
+[20:10:24] [Client thread/INFO]: [CHAT] [Red] Recedings [ummi]:  gg
+[20:10:25] [Client thread/INFO]: [CHAT] The server is restarting in 60 seconds
+[20:10:27] [Client thread/INFO]: [CHAT] §cThe_Anni_PvP§c(SCO) killed §9ThatTachGuy§9(ARC) attacking Blue's Nexus.
+[20:10:30] [Client thread/INFO]: [CHAT] The server is restarting in 55 seconds
+[20:10:32] [Client thread/INFO]: [CHAT] §cClowBear§c(SCO) killed §atimmypirater§a(ACR)
+[20:10:34] [Client thread/INFO]: [CHAT] §aorangekyanite§a(SNI) shot §9squidity_fishy§9(ICE) in honour of Green.
+[20:10:35] [Client thread/INFO]: [CHAT] §cThe_Anni_PvP§c(SCO) killed §9Mind_Hunter§9(SUC) attacking Blue's Nexus.
+[20:10:35] [Client thread/INFO]: [CHAT] The server is restarting in 50 seconds
+[20:10:40] [Client thread/INFO]: [CHAT] The Wither has been slain and claimed by Green team
+[20:10:40] [Client thread/INFO]: [CHAT] +75 Shotbow Xp
+[20:10:40] [Client thread/INFO]: [CHAT] The server is restarting in 45 seconds
+[20:10:43] [Client thread/INFO]: [CHAT] §cThe_Anni_PvP§c(SCO) killed §9sakisan338§9(SCO) attacking Blue's Nexus.
+[20:10:45] [Client thread/INFO]: [CHAT] The server is restarting in 40 seconds
+[20:10:45] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, Laurenllama.
+[20:10:50] [Client thread/INFO]: [CHAT] The server is restarting in 35 seconds
+[20:10:51] [Client thread/INFO]: [CHAT] [Red] MiraiAkari [Grsn]: GG
+[20:10:53] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: pick the bow of the ether
+[20:10:55] [Client thread/INFO]: [CHAT] The server is restarting in 30 seconds
+[20:10:57] [Client thread/INFO]: [CHAT] §cegorukraina§c(SCO) killed §9XxCupCakeODoomxX§9(WAR) attacking Blue's Nexus.
+[20:11:00] [Client thread/INFO]: [CHAT] [Red] KaguyaLuna [Grsn]: GG
+[20:11:00] [Client thread/INFO]: [CHAT] The server is restarting in 25 seconds
+[20:11:02] [Client thread/INFO]: [CHAT] (Team) [Green] L_M_S_G: jow
+[20:11:04] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §aMprierome§a(ARC) in honour of Blue.
+[20:11:05] [Client thread/INFO]: [CHAT] (Team) [Green] L_M_S_G: how
+[20:11:05] [Client thread/INFO]: [CHAT] The server is restarting in 20 seconds
+[20:11:06] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §cegorukraina§c(SCO) in honour of Blue.
+[20:11:06] [Client thread/INFO]: [CHAT] §9nao0410§9(WAR) killed §aorangekyanite§a(SNI) in honour of Blue.
+[20:11:08] [Client thread/INFO]: [CHAT] §9nao0410§9(WAR) killed §cThe_Anni_PvP§c(SCO) in honour of Blue.
+[20:11:10] [Client thread/INFO]: [CHAT] The server is restarting in 15 seconds
+[20:11:11] [Client thread/INFO]: [CHAT] (Team) [Green] 4_Fools: thenether star
+[20:11:15] [Client thread/INFO]: [CHAT] The server is restarting in 10 seconds
+[20:11:17] [Client thread/INFO]: [CHAT] Want to advertise your stream or Youtube channel? Got something to say to the entire network? Get a Shotbow Shout at shout.shotbow.net
+[20:11:20] [Client thread/INFO]: [CHAT] The server is restarting in 5 seconds
+[20:11:24] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, MiraiAkari.
+[20:11:24] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, KaguyaLuna.
+[20:11:25] [Client thread/INFO]: [CHAT] §cThe_Kwill§c(NIN) killed §9ninja_fine§9(ARC) attacking Blue's Nexus.
+[20:11:25] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, _haru06.
+[20:11:25] [Client thread/INFO]: [CHAT] §9ninja_fine§9(ARC) shot §cThe_Kwill§c(NIN) in honour of Blue.
+[20:11:26] [Client thread/INFO]: [CHAT]       
+[20:11:26] [Client thread/INFO]: [CHAT]       
+[20:11:26] [Client thread/INFO]: [CHAT]       
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT]       
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT]       
+[20:11:26] [Client thread/INFO]: [CHAT]       
+[20:11:26] [Client thread/INFO]: [CHAT] 
+[20:11:26] [Client thread/INFO]: [CHAT]       
+[20:11:26] [Client thread/INFO]: [CHAT]       
+[20:11:26] [Client thread/INFO]: [CHAT]        
+[20:11:26] [Client thread/INFO]: [CHAT]      

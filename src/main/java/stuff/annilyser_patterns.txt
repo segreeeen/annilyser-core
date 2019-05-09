@@ -1,0 +1,166 @@
+
+/*
+
+Lines to find:
+
+[20:49:37] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The game has started!
+
+[21:29:38] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 5 has started
+[20:59:36] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 2 has started
+[21:19:37] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 4 has started
+[21:09:38] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 3 has started
+
+[21:36:08] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Green team's
+[21:36:08] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[21:36:08] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by imm_ura_riku
+
+[21:34:50] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Red team's
+[21:34:50] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[21:34:50] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by imm_ura_riku
+
+[21:30:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Yellow team's
+[21:30:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[21:30:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by Lubeso
+
+
+[21:36:08] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The game is over,
+[21:36:08] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Blue team wins!
+
+[21:36:08] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The server is restarting
+[21:36:08] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ in 60 seconds
+
+[20:51:22] [Client thread/INFO]: [CHAT] §9kaim_mona§9(SUC) killed §cGabriela_R§c(MIN)
+[20:51:42] [Client thread/INFO]: [CHAT] §cDiegoUser§c(SCO) killed §9bobka7§9(ACR)
+[20:56:01] [Client thread/INFO]: [CHAT] §aJuggernqut§a(SUC) killed §9ap1_§9(SWA)
+[21:01:39] [Client thread/INFO]: [CHAT] §eCitrus07§e(TIN) killed §aWatchfully§a(SCO)
+[21:18:38] [Client thread/INFO]: [CHAT] §aandres00§a(SNI) shot §eMcnetherfighter§e(CIV)
+
+[21:34:21] [Client thread/INFO]: [CHAT] §9MrTheLucasX9§9(SCO) killed §c___Mika___§c(DEF) attackingNexus Red's Nexus.
+[21:34:26] [Client thread/INFO]: [CHAT] §c_4rc§c(THO) killed §asaruniki§a(ARC) attackingNexus Green's Nexus.
+[21:33:41] [Client thread/INFO]: [CHAT] §aoruk_§a(DEF) killed §c_xXShadowCraftXx§c(PYR) defending Green's Nexus.
+
+[21:57:01] [Client thread/INFO]: [CHAT] §eInfectCode§e(PYR) killed §cxjNK§c(SCO) in honour of Yellow.
+
+
+[21:06:44] [Client thread/INFO]: [CHAT] [Lobby] NaiZz: join white ez 300 nexus hp
+[21:21:45] [Client thread/INFO]: [CHAT] [Red] ImFercho_ [YMCA]: well ty :)
+[21:21:30] [Client thread/INFO]: [CHAT] [Blue] [P] kaim_mona: i eat......
+
+
+*/
+
+
+
+
+$pat_time_h = "[0-2][0-9]";
+$pat_time_m = "[0-5][0-9]";
+$pat_time_s = "[0-5][0-9]";
+$pat_localtime = '\[('.$pat_time_h.':'.$pat_time_m.':'.$pat_time_s.')\]';
+
+$pat_logkind = '\[Client thread\/INFO\]:';
+$pat_channle = '\[CHAT\]';
+
+$pat_namecolor = "§(9|a|c|e)";
+$pat_namemc = "[a-zA-Z0-9_-]*";
+$pat_nameclass = "\([A-Z][A-Z][A-Z]\)";
+$pat_namelog = "".$pat_namecolor."(".$pat_namemc.")".$pat_namecolor;
+$pat_namelog_wclass = $pat_namelog."(".$pat_nameclass.")";
+
+$pat_dkind = "(killed|shot)";
+$pat_teamcolor = "(Blue|Red|Green|Yellow)";
+$pat_chatsource = "(Blue|Red|Green|Yellow|Lobby)";
+$pat_attackrole = "(defending|attackingNexus)";
+
+
+$pat_serverinfo_border = "▒▒▒▒▒▒▒▒▒▒";
+
+$pat_phases = "(2|3|4|5)"; 
+$pat_phases_marker = "(The game|Phase ".$pat_phases.") has started"; 
+$pat_phases_thestart = "The game has started!";
+$pat_phases_theend = "team wins!"; 
+
+
+$pat_linestart = $pat_localtime." ".$pat_logkind." ".$pat_channle." ";
+
+
+
+$PAT_map = $pat_linestart."(.*) selected, loading...";
+$PAT_fullphases = $pat_linestart.$pat_serverinfo_border." ".$pat_phases_marker;
+
+$PAT_startofgame = $pat_linestart.$pat_serverinfo_border." ".$pat_phases_thestart;
+$PAT_endofgame = $pat_linestart.$pat_serverinfo_border." ".$pat_teamcolor." ".$pat_phases_theend;
+
+$PAT_kill = $pat_linestart.$pat_namelog_wclass." ".$pat_dkind." ".$pat_namelog_wclass."( ".$pat_attackrole." ".$pat_teamcolor.")?";
+
+$PAT_nexus = $pat_linestart.$pat_serverinfo_border." (?:(?:".$pat_teamcolor." team's)|(?:by (".$pat_namemc.")))";
+
+
+
+
+
+
+
+// echo($PAT_kill);
+
+//-----------------------------
+
+
+
+//-----------------------------
+
+$color['c'] = "red";
+$color['a'] = "green";
+$color['9'] = "blue";
+$color['e'] = "yellow";
+
+$htmlcolor['red'] = "#c30";
+$htmlcolor['green'] = "#090";
+$htmlcolor['blue'] = "#36f";
+$htmlcolor['yellow'] = "#fc0";
+
+
+
+
+//-----------------------------
+
+$class['ACR'] = 'Acrobat';
+$class['ALC'] = 'Alchemist';
+$class['ARC'] = 'Archer';
+$class['ASN'] = 'Assassin';
+$class['BAR'] = 'Bard';
+$class['BER'] = 'Berserker';
+$class['BLO'] = 'Bloodmage';
+$class['BUI'] = 'Builder';
+$class['CIV'] = 'Civilian';
+$class['DAS'] = 'Dasher';
+$class['DEF'] = 'Defender';
+$class['ENC'] = 'Enchanter';
+$class['ENG'] = 'Engineer';
+$class['FAR'] = 'Farmer';
+$class['HAN'] = 'Handyman';
+$class['HEA'] = 'Healer';
+$class['HUN'] = 'Hunter';
+$class['ICE'] = 'Iceman';
+$class['IMM'] = 'Immobilizer';
+$class['LUM'] = 'Lumberjack';
+$class['MER'] = 'Mercenary';
+$class['MIN'] = 'Miner';
+$class['NIN'] = 'Ninja';
+$class['PYR'] = 'Pyro';
+$class['RIF'] = 'Rift Walker';
+$class['ROB'] = 'Robin Hood';
+$class['SCP'] = 'Scorpio';
+$class['SCO'] = 'Scout';
+$class['SNI'] = 'Sniper';
+$class['SPI'] = 'Spider';
+$class['SPY'] = 'Spy';
+$class['SUC'] = 'Succubus';
+$class['SWA'] = 'Swapper';
+$class['THO'] = 'Thor';
+$class['TIN'] = 'Tinkerer';
+$class['TRA'] = 'Transporter';
+$class['VAM'] = 'Vampire';
+$class['WAR'] = 'Warrior';
+$class['WIZ'] = 'Wizard ';
+
+

@@ -1,0 +1,677 @@
+CHAT] Welcome back Horst_Frank. You are currently the rank of Silver-II and need 2188 points until you reach the next rank of Silver-III!
+[23:31:50] [Client thread/INFO]: [CHAT] Silver-III will unlock the following rewards:
+[23:31:50] [Client thread/INFO]: [CHAT] Annihilation Class: Healer
+[23:31:50] [Client thread/INFO]: [CHAT] 
+[23:31:50] [Client thread/INFO]: [CHAT] Earn points towards your next rank by gaining Shotbow XP while playing Annihilation!
+[23:31:53] [Client thread/INFO]: [CHAT] [Lobby] 192846 [T0P]: ./hub red
+[23:31:57] [Client thread/INFO]: [CHAT] [Red] HoboViking [R0SE]:  321
+[23:32:01] [Client thread/INFO]: [CHAT] [Lobby] [P] BOOOOOOOOOSTIO [LNS]: does this map have iron blocks in middle
+[23:32:07] [Client thread/INFO]: [CHAT] This team is full, join another team. Premium members can join full teams
+[23:32:15] [Client thread/INFO]: [CHAT] [Lobby] 192846 [T0P]: ./hub red
+[23:32:16] [Client thread/INFO]: [CHAT] TIP: Want to learn more about Annihilation to better enhance your experience? We have a full wiki on the game over on our forums: https://shotbow.net/forum/wiki/annihilation/
+[23:32:24] [Client thread/INFO]: [CHAT] [Red] HoboViking [R0SE]:  in?
+[23:32:25] [Client thread/INFO]: [CHAT] [Lobby] 192846 [T0P]: ./hub red
+[23:32:26] [Client thread/INFO]: [CHAT] [Red] [P] Snurkle [GENE]: /join another team
+[23:32:27] [Client thread/INFO]: [CHAT] andorra3.9.2 selected, loading...
+[23:32:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:32:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:32:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:32:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:32:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The game has started!
+[23:32:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The nexus is invincible
+[23:32:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:32:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:32:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:32:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:32:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[23:32:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[23:32:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[23:32:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[23:32:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ You have joined the
+[23:32:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Green team
+[23:32:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[23:32:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[23:32:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[23:32:48] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[23:33:06] [Client thread/INFO]: [CHAT] Miner selected
+[23:33:41] [Client thread/INFO]: [CHAT] §cnonta121§c(SCO) killed §9iTrixPlay§9(CIV)
+[23:33:55] [Client thread/INFO]: [CHAT] §cJTGangsterLP6§c(SCO) killed §asamuraiccj§a(BLO)
+[23:34:16] [Client thread/INFO]: [CHAT] TIP: Get social! Follow us on Twitter to stay up-to-date with all things Shotbow. You may even come across some XP codes over @ShotbowNetwork!
+[23:34:22] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:34:25] [Client thread/INFO]: [CHAT] §auduki0518§a(SUC) killed §cbox_takahiro§c(THO)
+[23:34:46] [Client thread/INFO]: [CHAT] §akurayami8383§a(SCO) killed §cbox_takahiro§c(THO)
+[23:34:56] [Client thread/INFO]: [CHAT] Miner selected
+[23:35:03] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §emi_lily§e(MIN)
+[23:35:16] [Client thread/INFO]: [CHAT] §auduki0518§a(SUC) killed §cbox_takahiro§c(THO)
+[23:35:17] [Client thread/INFO]: [CHAT] §cNaiZz§c(ENC) killed §auduki0518§a(SUC)
+[23:35:20] [Client thread/INFO]: [CHAT] §cNaiZz§c(ENC) killed §akurayami8383§a(SCO)
+[23:35:29] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:35:57] [Client thread/INFO]: [CHAT] §emi_lily§e(MIN) killed §cnonta121§c(SCO)
+[23:36:16] [Client thread/INFO]: [CHAT] TIP: Defend your nexus!  If your nexus is destroyed, you will be unable to respawn and your team will lose the match.
+[23:36:24] [Client thread/INFO]: [CHAT] §akurayami8383§a(SCO) killed §emi_lily§e(MIN)
+[23:36:28] [Client thread/INFO]: [CHAT] §cnonta121§c(SCO) killed §9xSmook§9(SUC)
+[23:37:27] [Client thread/INFO]: [CHAT] [Lobby] [S] HarvestingEpic: SKRRRRT
+[23:37:43] [Client thread/INFO]: [CHAT] §9xSmook§9(SUC) killed §cwasachaina9813§c(SUC)
+[23:37:52] [Client thread/INFO]: [CHAT] §cNoMercyZabro§c(MIN) killed §9xSmook§9(SUC)
+[23:38:00] [Client thread/INFO]: [CHAT] §9MivNaii§9(ALC) killed §eBrotherDuk§e(SNI)
+[23:38:15] [Client thread/INFO]: [CHAT] §asoyunasuricata§a(MIN) killed §cbox_takahiro§c(THO)
+[23:38:16] [Client thread/INFO]: [CHAT] TIP: Register on Shotbow.net to earn XP and also buy additional classes!  Classes have unique abilities and open up new strategies. Type /register <email> in a Shotbow Network lobby
+[23:38:24] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:38:24] [Client thread/INFO]: [CHAT] §auduki0518§a(SUC) killed §ethriftymom§e(ENC) attacking Yellow's Nexus.
+[23:38:36] [Client thread/INFO]: [CHAT] §9xSmook§9(SUC) killed §cwasachaina9813§c(SUC)
+[23:38:47] [Client thread/INFO]: [CHAT] §c_____RinaBot§c(SCO) killed §9AitronJB§9(MIN)
+[23:38:50] [Client thread/INFO]: [CHAT] §9TheMonster_MC§9(SPI) killed §akiritogame02§a(ACR)
+[23:39:04] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:39:14] [Client thread/INFO]: [CHAT] §eBrotherDuk§e(SNI) shot §aHAKUTO13§a(CIV)
+[23:39:16] [Client thread/INFO]: [CHAT] §cwasachaina9813§c(SUC) killed §9xSmook§9(SUC)
+[23:39:21] [Client thread/INFO]: [CHAT] §akiritogame02§a(ACR) killed §9TheMonster_MC§9(SPI)
+[23:39:26] [Client thread/INFO]: [CHAT] §9Alijato§9(SCO) killed §akiritogame02§a(ACR)
+[23:39:59] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §9Turbo1990gt§9(PYR)
+[23:40:12] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §9motoyuu§9(CIV)
+[23:40:16] [Client thread/INFO]: [CHAT] TIP: Interested in building a map for Annihilation? Post a build submission to our forums! https://shotbow.net/forum/forums/buildsubmission/
+[23:40:21] [Client thread/INFO]: [CHAT] §emi_lily§e(SCO) killed §aHAKUTO13§a(CIV)
+[23:40:23] [Client thread/INFO]: [CHAT] [Lobby] [P] Anthobot [APS]: Ugh
+[23:40:23] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(ENC) killed §9xSmook§9(SUC)
+[23:40:31] [Client thread/INFO]: [CHAT] [Lobby] [P] Anthobot [APS]: I just want to play a damn game with no team stackers
+[23:40:37] [Client thread/INFO]: [CHAT] [Red] [P] BOOOOOOOOOSTIO [LNS]:  then dont play at this hour
+[23:40:39] [Client thread/INFO]: [CHAT] [Blue] [S] HarvestingEpic [$]: join blue :>
+[23:40:42] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) shot §9TheMonster_MC§9(SPI)
+[23:40:45] [Client thread/INFO]: [CHAT] §9Alijato§9(SCO) killed §cnonta121§c(SCO)
+[23:40:58] [Client thread/INFO]: [CHAT] §akurayami8383§a(SCO) killed §eBen92122CA§e(PYR) attacking Yellow's Nexus.
+[23:41:00] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: Is it just me or does this game feel emptier than usual?
+[23:41:02] [Client thread/INFO]: [CHAT] §aHAKUTO13§a(CIV) killed §eBrotherDuk§e(SNI)
+[23:41:05] [Client thread/INFO]: [CHAT] §echihiroto§e(ARC) killed §akurayami8383§a(SCO) defending Yellow's Nexus.
+[23:41:11] [Client thread/INFO]: [CHAT] §auduki0518§a(SUC) killed §ethriftymom§e(ENC)
+[23:41:15] [Client thread/INFO]: [CHAT] §eBen92122CA§e(PYR) killed §auduki0518§a(SUC) defending Yellow's Nexus.
+[23:41:26] [Client thread/INFO]: [CHAT] §emi_lily§e(SCO) killed §aHAKUTO13§a(CIV)
+[23:41:31] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:41:36] [Client thread/INFO]: [CHAT] §9xSmook§9(SUC) killed §cbox_takahiro§c(MIN)
+[23:41:37] [Client thread/INFO]: [CHAT] §9rohanikov§9(MIN) killed §ekohei816§e(SCO)
+[23:41:41] [Client thread/INFO]: [CHAT] [Blue] rohanikov:  dont even try
+[23:41:44] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §9Alijato§9(SCO)
+[23:41:47] [Client thread/INFO]: [CHAT] §cNoMercyZabro§c(ENC) killed §9xSmook§9(SUC)
+[23:41:59] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:42:06] [Client thread/INFO]: [CHAT] [Lobby] SraPatata [00]: team?
+[23:42:11] [Client thread/INFO]: [CHAT] [Blue] [S] HarvestingEpic [$]: blue
+[23:42:14] [Client thread/INFO]: [CHAT] [Blue] xSmook [Mook]:  te crei figura
+[23:42:16] [Client thread/INFO]: [CHAT] TIP: Caught someone cheating or behaving inappropriately? Use /report to notify our staff team.
+[23:42:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:42:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:42:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:42:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:42:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 2 has started
+[23:42:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The nexus has lost its invincibility
+[23:42:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:42:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:42:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:42:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:42:39] [Client thread/INFO]: [CHAT] [Red] NoMercyZabro: le day color cuico qlo
+[23:42:42] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(MIN) killed §ekohei816§e(SCO) defending Blue's Nexus.
+[23:42:56] [Client thread/INFO]: [CHAT] §cHoboViking§c(ENC) killed §aOrdinaryCoffee§a(ARC)
+[23:43:02] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:43:03] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:43:07] [Client thread/INFO]: [CHAT] [Lobby] GodJvliiian: new voting
+[23:43:07] [Client thread/INFO]: [CHAT] §ebrandon171766§e(MIN) killed §aHAKUTO13§a(CIV) defending Yellow's Nexus.
+[23:43:08] [Client thread/INFO]: [CHAT] [Lobby] GodJvliiian [LNS]: gogo
+[23:43:10] [Client thread/INFO]: [CHAT] §auduki0518§a(SUC) killed §c___Mika___§c(SCO)
+[23:43:10] [Client thread/INFO]: [CHAT] (Team) [Green] roarry: t
+[23:43:11] [Client thread/INFO]: [CHAT] [Red] HoboViking [R0SE]:  what maps?
+[23:43:14] [Client thread/INFO]: [CHAT] [Lobby] GodJvliiian [LNS]: canyon
+[23:43:16] [Client thread/INFO]: [CHAT] [Red] [P] BOOOOOOOOOSTIO [LNS]:  hobo no
+[23:43:16] [Client thread/INFO]: [CHAT] [Lobby] GodJvliiian [LNS]: ehm
+[23:43:17] [Client thread/INFO]: [CHAT] [Red] [P] BOOOOOOOOOSTIO [LNS]:  NO
+[23:43:17] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:43:21] [Client thread/INFO]: [CHAT] [Lobby] GodJvliiian [LNS]: i ll check
+[23:43:24] [Client thread/INFO]: [CHAT] §cSnurkle§c(ENC) killed §9HarvestingEpic§9(SWA)
+[23:43:39] [Client thread/INFO]: [CHAT] [Lobby] GodJvliiian: Hamlet
+[23:43:41] [Client thread/INFO]: [CHAT] §9TheMonster_MC§9(SPI) killed §emi_lily§e(SCO)
+[23:43:41] [Client thread/INFO]: [CHAT] [Lobby] GodJvliiian [LNS]: Canyon
+[23:43:48] [Client thread/INFO]: [CHAT] Private Stand purchased
+[23:43:49] [Client thread/INFO]: [CHAT] Glass Bottle purchased
+[23:43:49] [Client thread/INFO]: [CHAT] §c___Mika___§c(SCO) killed §akiritogame02§a(ACR)
+[23:43:49] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(MIN) killed §ekohei816§e(SCO)
+[23:43:49] [Client thread/INFO]: [CHAT] §cDJNightLock§c(SCO) killed §9MivNaii§9(ALC)
+[23:43:49] [Client thread/INFO]: [CHAT] Nether Wart purchased
+[23:43:51] [Client thread/INFO]: [CHAT] Fermented Spider Eye purchased
+[23:43:52] [Client thread/INFO]: [CHAT] Gold Carrot purchased
+[23:43:57] [Client thread/INFO]: [CHAT] §c___Mika___§c(SCO) killed §akurayami8383§a(SCO)
+[23:44:11] [Client thread/INFO]: [CHAT] Redstone purchased
+[23:44:12] [Client thread/INFO]: [CHAT] §9Jaime_11§9(ASN) killed §ekill9310§e(ACR)
+[23:44:16] [Client thread/INFO]: [CHAT] TIP: Enjoying Annihilation? Consider buying premium to get awesome perks plus an XP bonus across all Shotbow game modes!
+[23:44:25] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[23:44:25] [Client thread/INFO]: [CHAT] [24.6] You may not place your personal brewing stand within a 40 blocks radius from the nexus!
+[23:44:31] [Client thread/INFO]: [CHAT] §ebrandon171766§e(MIN) killed §9Alijato§9(SCO)
+[23:44:32] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:44:34] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:44:36] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:44:37] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:44:39] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:44:39] [Client thread/INFO]: [CHAT] [28.3] You may not place your personal brewing stand within a 40 blocks radius from the nexus!
+[23:44:40] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:44:42] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:44:45] [Client thread/INFO]: [CHAT] §ethriftymom§e(ENC) killed §aHAKUTO13§a(CIV) defending Yellow's Nexus.
+[23:44:53] [Client thread/INFO]: [CHAT] This is your personal brewing stand.
+[23:45:17] [Client thread/INFO]: [CHAT] (Team) [Green] roarry: t
+[23:45:19] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(HAN) killed §aHAKUTO13§a(CIV)
+[23:45:27] [Client thread/INFO]: [CHAT] §cDJNightLock§c(SCO) killed §9SraPatata§9(BUI)
+[23:45:29] [Client thread/INFO]: [CHAT] §9iTrixPlay§9(CIV) killed §c___Mika___§c(SCO)
+[23:45:29] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(HAN) killed §akiritogame02§a(ACR)
+[23:45:31] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §auduki0518§a(SUC)
+[23:45:32] [Client thread/INFO]: [CHAT] §cDJNightLock§c(SCO) killed §9Alijato§9(SCO) attacking Blue's Nexus.
+[23:45:37] [Client thread/INFO]: [CHAT] (Team) [Green] HAKUTO13: come on
+[23:45:46] [Client thread/INFO]: [CHAT] §cnonta121§c(SCO) killed §akurayami8383§a(SCO)
+[23:45:46] [Client thread/INFO]: [CHAT] §cDJNightLock§c(SCO) killed §9iTrixPlay§9(CIV) attacking Blue's Nexus.
+[23:45:47] [Client thread/INFO]: [CHAT] §9SraPatata§9(BUI) killed §cwasachaina9813§c(SUC) defending Blue's Nexus.
+[23:45:49] [Client thread/INFO]: [CHAT] §cDJNightLock§c(SCO) killed §9SraPatata§9(BUI) attacking Blue's Nexus.
+[23:46:04] [Client thread/INFO]: [CHAT] §echihiroto§e(ARC) killed §c_____RinaBot§c(SCO) defending Yellow's Nexus.
+[23:46:11] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §ethriftymom§e(ACR)
+[23:46:13] [Client thread/INFO]: [CHAT] [Red] [P] _____RinaBot [04]: ty blue :D
+[23:46:16] [Client thread/INFO]: [CHAT] TIP: To break blocks in Annihilation, you require the appropriate tool. For example, Wool requires Shears, Stones require a Pickaxe, Leaves require a Sword, etc.
+[23:46:23] [Client thread/INFO]: [CHAT] §ebrandon171766§e(MIN) killed §9Fam_CH1§9(ACR)
+[23:46:29] [Client thread/INFO]: [CHAT] §a_xXsoulXx_§a(ACR) killed §9SraPatata§9(BUI) attacking Blue's Nexus.
+[23:46:30] [Client thread/INFO]: [CHAT] §cSnurkle§c(ACR) killed §9Alijato§9(SCO)
+[23:46:31] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:46:32] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:46:33] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:46:34] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:46:35] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:46:35] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:46:36] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:46:37] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:46:46] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:46:46] [Client thread/INFO]: [CHAT] §cNaiZz§c(ACR) killed §ekill9310§e(ACR)
+[23:46:47] [Client thread/INFO]: [CHAT] §echihiroto§e(ARC) killed §aHAKUTO13§a(CIV)
+[23:46:58] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) shot §a_xXsoulXx_§a(ACR)
+[23:47:02] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §9Jaime_11§9(ASN)
+[23:47:06] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §9AitronJB§9(ALC)
+[23:47:08] [Client thread/INFO]: [CHAT] §akiritogame02§a(ACR) killed §eBrotherDuk§e(VAM)
+[23:47:09] [Client thread/INFO]: [CHAT] §afujimak§a(ACR) killed §echihiroto§e(ARC)
+[23:47:18] [Client thread/INFO]: [CHAT] (Team) [Green] HAKUTO13: だれか一緒に黄色倒しにいこーー「できれば最初の装備の人」
+[23:47:21] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §eEggocommander§e(THO)
+[23:47:23] [Client thread/INFO]: [CHAT] §9rohanikov§9(ENC) killed §ekill9310§e(ACR)
+[23:47:37] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: もうきいろにいます
+[23:47:47] [Client thread/INFO]: [CHAT] (Team) [Green] HAKUTO13: ok
+[23:47:50] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: 鉄装備だけど
+[23:47:54] [Client thread/INFO]: [CHAT] §ebrandon171766§e(ENC) killed §c___Mika___§c(SCO) defending Yellow's Nexus.
+[23:47:56] [Client thread/INFO]: [CHAT] §eJillydrone§e(TRA) killed §cBOOOOOOOOOSTIO§c(HAN) defending Yellow's Nexus.
+[23:47:59] [Client thread/INFO]: [CHAT] §ebrandon171766§e(ENC) killed §c_____RinaBot§c(SCO) defending Yellow's Nexus.
+[23:48:01] [Client thread/INFO]: [CHAT] §cDJNightLock§c(SCO) killed §9Fam_CH1§9(ACR) attacking Blue's Nexus.
+[23:48:03] [Client thread/INFO]: [CHAT] §9iTrixPlay§9(CIV) killed §cDJNightLock§c(SCO) defending Blue's Nexus.
+[23:48:10] [Client thread/INFO]: [CHAT] §9MivNaii§9(ALC) killed §ekill9310§e(ACR) defending Blue's Nexus.
+[23:48:15] [Client thread/INFO]: [CHAT] (Team) [Green] HAKUTO13: ただ死んでもいいから大人数で攻めたいだけWW
+[23:48:16] [Client thread/INFO]: [CHAT] TIP: Change your class by entering the nether portal near your nexus.  You can unlock classes by meeting certain criteria or by unlocking them with Shotbow XP.
+[23:48:17] [Client thread/INFO]: [CHAT] §afujimak§a(ACR) killed §eEggocommander§e(THO)
+[23:48:23] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §cwasachaina9813§c(ACR)
+[23:48:24] [Client thread/INFO]: [CHAT] (Team) [Green] HAKUTO13: そしたら壊せるから
+[23:48:26] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: okok
+[23:48:33] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: Any idea where I can find gold?
+[23:48:38] [Client thread/INFO]: [CHAT] (Team) [Green] HAKUTO13: 相手は、強くならないまま
+[23:48:39] [Client thread/INFO]: [CHAT] §eBen92122CA§e(PYR) killed §9AitronJB§9(ALC)
+[23:49:01] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §9Alijato§9(SCO)
+[23:49:15] [Client thread/INFO]: [CHAT] §ekill9310§e(ACR) shot §9Fam_CH1§9(ACR)
+[23:49:22] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §9Alijato§9(SCO)
+[23:49:31] [Client thread/INFO]: [CHAT] §cDJNightLock§c(SCO) killed §9Jaime_11§9(ASN)
+[23:49:33] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:49:34] [Client thread/INFO]: [CHAT] §c_____RinaBot§c(SCO) killed §9TheMonster_MC§9(SPI)
+[23:49:34] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:49:34] [Client thread/INFO]: [CHAT] §ethriftymom§e(ACR) killed §aHAKUTO13§a(CIV)
+[23:49:39] [Client thread/INFO]: [CHAT] §cDJNightLock§c(SCO) killed §ekill9310§e(ACR)
+[23:49:42] [Client thread/INFO]: [CHAT] §c___Mika___§c(SCO) killed §akurayami8383§a(BAR)
+[23:49:47] [Client thread/INFO]: [CHAT] §9Waterbroc7§9(MIN) killed §eEggocommander§e(THO)
+[23:49:52] [Client thread/INFO]: [CHAT] Being hit has revealed you, you are no longer invisible.
+[23:49:52] [Client thread/INFO]: [CHAT] §9iTrixPlay§9(CIV) shot §c3Lv§c(SCO)
+[23:49:55] [Client thread/INFO]: [CHAT] §cDaddyDrake§c(IMM) killed §aHorst_Frank§a(MIN) defending Red's Nexus.
+[23:49:56] [Client thread/INFO]: [CHAT] §cTheKingOfAll_§c(SPY) shot §auduki0518§a(SWA)
+[23:50:00] [Client thread/INFO]: [CHAT] §9Jaime_11§9(ASN) killed §cnonta121§c(SCO)
+[23:50:02] [Client thread/INFO]: [CHAT] [Red] HoboViking [R0SE]:  OrdinaryCoffee fuck off pls
+[23:50:05] [Client thread/INFO]: [CHAT] §ekill9310§e(ACR) killed §9Alijato§9(SCO)
+[23:50:08] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §ekill9310§e(ACR)
+[23:50:16] [Client thread/INFO]: [CHAT] TIP: Experience can be gained by mining resource blocks.  The more valuable the ore, the more XP gained!  Use the experience at the enchanting table near your nexus.
+[23:50:32] [Client thread/INFO]: [CHAT] §aOrdinaryCoffee§a(ARC) shot §cHoboViking§c(ENC)
+[23:50:36] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: 2kaikezureta
+[23:50:44] [Client thread/INFO]: [CHAT] §9rohanikov§9(ENC) shot §eEggocommander§e(THO)
+[23:50:53] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: ただなかなか固い
+[23:50:55] [Client thread/INFO]: [CHAT] §aHAKUTO13§a(CIV) killed §emi_lily§e(SCO)
+[23:51:07] [Client thread/INFO]: [CHAT] (Team) [Green] OrdinaryCoffee: nexus!
+[23:51:11] [Client thread/INFO]: [CHAT] §emi_lily§e(SCO) killed §aHAKUTO13§a(CIV)
+[23:51:15] [Client thread/INFO]: [CHAT] §cSnurkle§c(ACR) killed §akurayami8383§a(BAR)
+[23:51:28] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §ekill9310§e(ACR)
+[23:51:29] [Client thread/INFO]: [CHAT] §cTheKingOfAll_§c(SPY) shot §auduki0518§a(SUC)
+[23:51:34] [Client thread/INFO]: [CHAT] §9rohanikov§9(WAR) killed §eEggocommander§e(THO)
+[23:51:56] [Client thread/INFO]: [CHAT] §akiritogame02§a(ACR) killed §cDJNightLock§c(SCO)
+[23:51:57] [Client thread/INFO]: [CHAT] §ekill9310§e(ACR) killed §9Turbo1990gt§9(PYR)
+[23:52:03] [Client thread/INFO]: [CHAT] §9motoyuu§9(CIV) killed §ekill9310§e(ACR)
+[23:52:04] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §9motoyuu§9(CIV)
+[23:52:06] [Client thread/INFO]: [CHAT] §aOrdinaryCoffee§a(ARC) shot §cHoboViking§c(SUC)
+[23:52:09] [Client thread/INFO]: [CHAT] §afujimak§a(ACR) killed §emi_lily§e(SCO)
+[23:52:16] [Client thread/INFO]: [CHAT] TIP: Want to advertise your stream or channel? Want to address the network? Get a Shout at shout.shotbow.net!
+[23:52:18] [Client thread/INFO]: [CHAT] §9Waterbroc7§9(ACR) killed §eEggocommander§e(THO)
+[23:52:19] [Client thread/INFO]: [CHAT] §ebrandon171766§e(SCO) killed §c3Lv§c(SCO)
+[23:52:20] [Client thread/INFO]: [CHAT] §9rohanikov§9(WAR) shot §c___Mika___§c(SCO)
+[23:52:29] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §ekill9310§e(ACR)
+[23:52:31] [Client thread/INFO]: [CHAT] (Team) [Green] roarry: t
+[23:52:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:52:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:52:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:52:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:52:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 3 has started
+[23:52:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Diamonds have spawned in the middle
+[23:52:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Witches have also spawned
+[23:52:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:52:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:52:32] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[23:52:36] [Client thread/INFO]: [CHAT] Breaking a block has revealed you, you are no longer invisible.
+[23:52:36] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:52:37] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:52:38] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:52:40] [Client thread/INFO]: [CHAT] §eJillydrone§e(TRA) killed §aHorst_Frank§a(MIN) defending Yellow's Nexus.
+[23:52:44] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:52:44] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §cwasachaina9813§c(SWA) defending Blue's Nexus.
+[23:52:49] [Client thread/INFO]: [CHAT] §ebrandon171766§e(SCO) killed §cnonta121§c(SCO)
+[23:52:54] [Client thread/INFO]: [CHAT] §ekill9310§e(ACR) killed §9Alijato§9(SCO)
+[23:52:58] [Client thread/INFO]: [CHAT] §emi_lily§e(SCO) killed §aHAKUTO13§a(CIV)
+[23:53:01] [Client thread/INFO]: [CHAT] §aOrdinaryCoffee§a(ARC) shot §cHoboViking§c(SUC)
+[23:53:04] [Client thread/INFO]: [CHAT] §ebrandon171766§e(SCO) killed §afujimak§a(ACR)
+[23:53:05] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §9TheMonster_MC§9(SPI)
+[23:53:09] [Client thread/INFO]: [CHAT] §ekill9310§e(ACR) killed §9Alijato§9(SCO)
+[23:53:09] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) shot §9Jaime_11§9(ASN)
+[23:53:13] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: majika--
+[23:53:14] [Client thread/INFO]: [CHAT] §aBraiti§a(THO) shot §cSnurkle§c(ACR) defending Green's Nexus.
+[23:53:15] [Client thread/INFO]: [CHAT] §9Alijato§9(SCO) killed §ekill9310§e(ACR)
+[23:53:23] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:53:33] [Client thread/INFO]: [CHAT] §9rohanikov§9(WAR) killed §c___Mika___§c(SCO)
+[23:53:38] [Client thread/INFO]: [CHAT] §9rohanikov§9(WAR) shot §cBOOOOOOOOOSTIO§c(ASN)
+[23:53:38] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §9TheMonster_MC§9(SPI)
+[23:53:54] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §9Alijato§9(SCO)
+[23:54:00] [Client thread/INFO]: [CHAT] §eJillydrone§e(TRA) killed §c_____RinaBot§c(SCO) defending Yellow's Nexus.
+[23:54:11] [Client thread/INFO]: [CHAT] §ebrandon171766§e(SCO) killed §aHAKUTO13§a(CIV) defending Yellow's Nexus.
+[23:54:16] [Client thread/INFO]: [CHAT] TIP: Gold ingots can be used to purchase potion materials and some basic weapons.  Purchase these at the shop located at your base.
+[23:54:19] [Client thread/INFO]: [CHAT] §ekill9310§e(ACR) killed §9Alijato§9(SCO)
+[23:54:20] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) shot §ekill9310§e(ACR)
+[23:54:36] [Client thread/INFO]: [CHAT] §cTheKingOfAll_§c(SPY) shot §akurayami8383§a(ARC)
+[23:54:41] [Client thread/INFO]: [CHAT] §cTheKingOfAll_§c(SPY) shot §auduki0518§a(ARC)
+[23:54:48] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §9Alijato§9(SCO)
+[23:54:51] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §ekill9310§e(ACR)
+[23:54:59] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §aHAKUTO13§a(CIV)
+[23:55:06] [Client thread/INFO]: [CHAT] §ethriftymom§e(ACR) killed §cDJNightLock§c(SCO)
+[23:55:09] [Client thread/INFO]: [CHAT] §cSnurkle§c(ACR) killed §akurayami8383§a(ARC)
+[23:55:19] [Client thread/INFO]: [CHAT] §cSnurkle§c(ACR) killed §auduki0518§a(ARC)
+[23:55:27] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) killed §aHAKUTO13§a(CIV)
+[23:55:28] [Client thread/INFO]: [CHAT] §9MivNaii§9(ALC) killed §ekill9310§e(ACR)
+[23:55:31] [Client thread/INFO]: [CHAT] §9Alijato§9(SCO) killed §eEggocommander§e(THO)
+[23:55:42] [Client thread/INFO]: [CHAT] §akiritogame02§a(ACR) killed §cnonta121§c(SCO)
+[23:56:02] [Client thread/INFO]: [CHAT] §c___Mika___§c(SCO) shot §9Turbo1990gt§9(PYR)
+[23:56:14] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) killed §9Alijato§9(SCO)
+[23:56:15] [Client thread/INFO]: [CHAT] [Blue] Turbo1990gt: wow ___Mika___ what did I ever do to you?
+[23:56:16] [Client thread/INFO]: [CHAT] TIP: Be creative in your tactics.  Use invisibility potions to bypass enemies, or use wooden blocks to create barriers around your base.
+[23:56:21] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §ekill9310§e(ACR)
+[23:56:21] [Client thread/INFO]: [CHAT] Breaking a block has revealed you, you are no longer invisible.
+[23:56:21] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:56:23] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[23:56:24] [Client thread/INFO]: [CHAT] §9iTrixPlay§9(CIV) killed §aHorst_Frank§a(MIN) defending Blue's Nexus.
+[23:56:29] [Client thread/INFO]: [CHAT] [Red] [P] BOOOOOOOOOSTIO [LNS]:  u said he is thicc
+[23:56:31] [Client thread/INFO]: [CHAT] §9iTrixPlay§9(CIV) killed §eEggocommander§e(THO)
+[23:56:34] [Client thread/INFO]: [CHAT] [Blue] Turbo1990gt: nope
+[23:56:35] [Client thread/INFO]: [CHAT] §cTheKingOfAll_§c(SPY) shot §auduki0518§a(ARC)
+[23:56:36] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) killed §akurayami8383§a(ARC)
+[23:56:40] [Client thread/INFO]: [CHAT] [Red] [P] BOOOOOOOOOSTIO [LNS]:  WELL THEN STOP LYING
+[23:56:43] [Client thread/INFO]: [CHAT] [Red] [P] ___Mika___: Ur a enemy
+[23:56:46] [Client thread/INFO]: [CHAT] [Blue] Turbo1990gt: ;-;
+[23:56:49] [Client thread/INFO]: [CHAT] [Red] [P] BOOOOOOOOOSTIO [LNS]:  -he is thicc tho-
+[23:56:50] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §emi_lily§e(ACR)
+[23:57:01] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) shot §9Alijato§9(SCO)
+[23:57:10] [Client thread/INFO]: [CHAT] §9MivNaii§9(ARC) killed §ekill9310§e(ACR) defending Blue's Nexus.
+[23:57:12] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) killed §9Turbo1990gt§9(PYR)
+[23:57:19] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Alijato§9(SCO)
+[23:57:33] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Alijato§9(SCO)
+[23:57:48] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Alijato§9(SCO)
+[23:57:49] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) shot §eEggocommander§e(THO)
+[23:57:53] [Client thread/INFO]: [CHAT] Alchemist selected
+[23:57:54] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) killed §auduki0518§a(SCO)
+[23:58:06] [Client thread/INFO]: [CHAT] §9iTrixPlay§9(CIV) shot §ekill9310§e(ACR)
+[23:58:08] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Alijato§9(SCO)
+[23:58:17] [Client thread/INFO]: [CHAT] TIP: Team work is paramount to Annihilation.  Share resources, store extra armor/weapons at your base for fallen teammates, and move as a unified group.
+[23:58:17] [Client thread/INFO]: [CHAT] §cSnurkle§c(ACR) killed §akurayami8383§a(TRA)
+[23:58:19] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §eBen92122CA§e(PYR)
+[23:58:24] [Client thread/INFO]: [CHAT] §9iTrixPlay§9(CIV) killed §cJTGangsterLP6§c(SCO)
+[23:58:27] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Alijato§9(SCO)
+[23:58:40] [Client thread/INFO]: [CHAT] §cDaddyDrake§c(IMM) killed §aShelli404§a(SCO)
+[23:58:42] [Client thread/INFO]: [CHAT] §aroarry§a(SCO) killed §cDJNightLock§c(SCO)
+[23:58:43] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) killed §9Alijato§9(SCO)
+[23:58:46] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Turbo1990gt§9(PYR)
+[23:58:47] [Client thread/INFO]: [CHAT] §cDaddyDrake§c(IMM) shot §aHAKUTO13§a(CIV)
+[23:58:51] [Client thread/INFO]: [CHAT] §cSnurkle§c(ACR) killed §auduki0518§a(SCO)
+[23:58:58] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:58:59] [Client thread/INFO]: [CHAT] This is your team's Ender Furnace. Anything you place here to be smelted will be safe from any of your teammates and enemies.
+[23:59:00] [Client thread/INFO]: [CHAT] §afujimak§a(ACR) killed §eBen92122CA§e(PYR)
+[23:59:04] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) shot §9Alijato§9(SCO)
+[23:59:05] [Client thread/INFO]: [CHAT] The shop's Glass Bottle could not be purchased, check the price again
+[23:59:12] [Client thread/INFO]: [CHAT] (Team) [Green] roarry: t
+[23:59:17] [Client thread/INFO]: [CHAT] §aOrdinaryCoffee§a(ARC) shot §cwasachaina9813§c(SCO)
+[23:59:17] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[23:59:19] [Client thread/INFO]: [CHAT] §9iTrixPlay§9(CIV) killed §cJTGangsterLP6§c(SCO) defending Blue's Nexus.
+[23:59:31] [Client thread/INFO]: [CHAT] §cnonta121§c(SCO) killed §ekill9310§e(ACR)
+[23:59:37] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §ekill9310§e(ACR)
+[23:59:41] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) shot §9Alijato§9(SCO)
+[23:59:42] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §eBen92122CA§e(PYR)
+[23:59:55] [Client thread/INFO]: [CHAT] §aOrdinaryCoffee§a(ARC) killed §cwasachaina9813§c(SCO)
+[00:00:01] [Client thread/INFO]: [CHAT] §cSnurkle§c(ACR) killed §auduki0518§a(SCO)
+[00:00:12] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Turbo1990gt§9(PYR)
+[00:00:17] [Client thread/INFO]: [CHAT] TIP: Destroy the opposing team by hitting the enemy nexus with a pickaxe!
+[00:00:26] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Alijato§9(SCO)
+[00:00:27] [Client thread/INFO]: [CHAT] §cTheKingOfAll_§c(SPY) shot §akurayami8383§a(TRA)
+[00:00:28] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) shot §9Turbo1990gt§9(PYR)
+[00:00:28] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, uduki0518.
+[00:00:32] [Client thread/INFO]: [CHAT] This is a teleport placed by kurayami8383, sneak to go through it.
+[00:00:38] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §akurayami8383§a(TRA)
+[00:00:40] [Client thread/INFO]: [CHAT] This is a teleport placed by kurayami8383, sneak to go through it.
+[00:00:48] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §akurayami8383§a(TRA)
+[00:00:49] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) shot §9Turbo1990gt§9(PYR)
+[00:00:53] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §ekill9310§e(ACR)
+[00:00:55] [Client thread/INFO]: [CHAT] [Blue] Turbo1990gt: wow JonnyCrafter1337 bowspammer
+[00:01:02] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(ENC) killed §aHAKUTO13§a(CIV)
+[00:01:03] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §9Turbo1990gt§9(PYR)
+[00:01:07] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §9Turbo1990gt§9(PYR)
+[00:01:10] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §9Turbo1990gt§9(PYR)
+[00:01:17] [Client thread/INFO]: [CHAT] §9Alijato§9(SCO) killed §ekill9310§e(ACR)
+[00:01:17] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) killed §9Alijato§9(SCO)
+[00:01:17] [Client thread/INFO]: [CHAT] §ebrandon171766§e(ALC) killed §cbox_takahiro§c(THO)
+[00:01:17] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §akiritogame02§a(ACR)
+[00:01:19] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Turbo1990gt§9(PYR)
+[00:01:25] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Alijato§9(SCO)
+[00:01:27] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(BER) killed §9Turbo1990gt§9(PYR)
+[00:01:30] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §cBOOOOOOOOOSTIO§c(BER)
+[00:01:34] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §9Alijato§9(SCO)
+[00:01:38] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §9Turbo1990gt§9(PYR)
+[00:01:38] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §cHoboViking§c(SUC)
+[00:01:51] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[00:01:52] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[00:01:52] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[00:01:53] [Client thread/INFO]: [CHAT] §9iTrixPlay§9(CIV) shot §ekill9310§e(ACR) defending Blue's Nexus.
+[00:01:53] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[00:01:54] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[00:01:54] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[00:01:55] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[00:01:56] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[00:01:56] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:01:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:01:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:01:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Yellow team's
+[00:01:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[00:01:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by Shelli404
+[00:01:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:01:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:01:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:01:57] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:01:57] [Client thread/INFO]: [CHAT] +3 Shotbow Xp
+[00:02:01] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: gg
+[00:02:04] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: Nice one.
+[00:02:04] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: Moice
+[00:02:05] [Client thread/INFO]: [CHAT] §9Fam_CH1§9(ACR) killed §cJTGangsterLP6§c(SCO) defending Blue's Nexus.
+[00:02:06] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: Noice
+[00:02:06] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) shot §9motoyuu§9(CIV) attacking Blue's Nexus.
+[00:02:17] [Client thread/INFO]: [CHAT] NEWS: Does your clan have what it takes to Annihilate the competition and become the Annihilation Spring 2018 champion? Check out how to sign up here: https://goo.gl/3VFJWh
+[00:02:24] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §aHorst_Frank§a(ALC) in honour of Yellow.
+[00:02:28] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §akiritogame02§a(ACR) in honour of Yellow.
+[00:02:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[00:02:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[00:02:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[00:02:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[00:02:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Phase 4 has started
+[00:02:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Blaze Powder is now available
+[00:02:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Firwen has spawned
+[00:02:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[00:02:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[00:02:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒
+[00:02:38] [Client thread/INFO]: [CHAT] §9Turbo1990gt§9(PYR) killed §afujimak§a(ACR)
+[00:03:11] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: INCOMING
+[00:03:13] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: Caps
+[00:03:15] [Client thread/INFO]: [CHAT] §9Alijato§9(SCO) killed §ekill9310§e(ACR)
+[00:03:31] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §akiritogame02§a(ACR) in honour of Yellow.
+[00:03:31] [Client thread/INFO]: [CHAT] §aroarry§a(SCO) killed §cwasachaina9813§c(SCO)
+[00:03:36] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: There we go.
+[00:03:38] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: Meh
+[00:03:46] [Client thread/INFO]: [CHAT] §9Turbo1990gt§9(PYR) killed §c___Mika___§c(SCO)
+[00:03:57] [Client thread/INFO]: [CHAT] §9rohanikov§9(WAR) shot §cHoboViking§c(SUC)
+[00:04:00] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: I assume red will start coming for u ssoon
+[00:04:05] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: Once they finish off Blue
+[00:04:06] [Client thread/INFO]: [CHAT] (Team) [Green] roarry: t
+[00:04:13] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: Or if we finish blue off.
+[00:04:16] [Client thread/INFO]: [CHAT] §cNicko9043§c(ACR) killed §aOrdinaryCoffee§a(ARC)
+[00:04:17] [Client thread/INFO]: [CHAT] TIP: Found an error or glitch? Report it to us and we'll take care of it for you at bugs.shotbow.net.
+[00:04:18] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: Ya
+[00:04:22] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §afujimak§a(ACR)
+[00:04:28] [Client thread/INFO]: [CHAT] §9rohanikov§9(WAR) killed §aHAKUTO13§a(CIV)
+[00:04:34] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §akiritogame02§a(ACR) in honour of Yellow.
+[00:04:37] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: Hopefully my freeze will hold off the assaults.
+[00:04:38] [Client thread/INFO]: [CHAT] (Team) [Green] OrdinaryCoffee: blue isn't even a threat right now. red is
+[00:04:49] [Client thread/INFO]: [CHAT] (Team) [Green] OrdinaryCoffee: take out the biggest threat first and finish off the weak ones last
+[00:05:01] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: No easy feat.
+[00:05:04] [Client thread/INFO]: [CHAT] §eEggocommander§e(THO) killed §akiritogame02§a(ACR) in honour of Yellow.
+[00:05:06] [Client thread/INFO]: [CHAT] (Team) [Green] roarry: t
+[00:05:16] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: And red has more players.
+[00:05:18] [Client thread/INFO]: [CHAT] (Team) [Green] roarry: t
+[00:05:19] [Client thread/INFO]: [CHAT] (Team) [Green] OrdinaryCoffee: never said it was
+[00:05:22] [Client thread/INFO]: [CHAT] §9Alijato§9(SCO) killed §c___Mika___§c(SCO)
+[00:05:24] [Client thread/INFO]: [CHAT] (Team) [Green] OrdinaryCoffee: but if we wait it'll be that much harder
+[00:05:30] [Client thread/INFO]: [CHAT] (Team) [Green] OrdinaryCoffee: plus they'll likely be attacking us
+[00:05:31] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §afujimak§a(ACR)
+[00:05:32] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) shot §9Waterbroc7§9(ACR)
+[00:05:32] [Client thread/INFO]: [CHAT] §9MivNaii§9(ARC) killed §eJillydrone§e(WAR)
+[00:05:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:05:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:05:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:05:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Blue team's
+[00:05:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[00:05:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by brandon171766
+[00:05:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:05:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:05:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:05:33] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:05:36] [Client thread/INFO]: [CHAT] [Red] [P] VenomousChewy: gg
+[00:05:41] [Client thread/INFO]: [CHAT] §9rohanikov§9(WAR) shot §cHoboViking§c(SUC) in honour of Blue.
+[00:05:47] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: Now things should get interesting
+[00:05:48] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) killed §9rohanikov§9(WAR)
+[00:05:51] [Client thread/INFO]: [CHAT] [Blue] rohanikov [VAIN]:  oof
+[00:05:51] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) killed §9motoyuu§9(CIV) attacking Blue's Nexus.
+[00:05:53] [Client thread/INFO]: [CHAT] (Team) [Green] OrdinaryCoffee: it's game over
+[00:05:59] [Client thread/INFO]: [CHAT] [Blue] rohanikov [VAIN]:  welp see ya noobs
+[00:06:03] [Client thread/INFO]: [CHAT] §aroarry§a(SCO) killed §eEggocommander§e(THO)
+[00:06:05] [Client thread/INFO]: [CHAT] [Red] HoboViking [R0SE]:  "noobs"
+[00:06:05] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Spartan_D34: well
+[00:06:11] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(ACR) shot §9iTrixPlay§9(CIV)
+[00:06:12] [Client thread/INFO]: [CHAT] (Team) [Green] OrdinaryCoffee: super uneven teams and they've got a bunch of anni grandmasters
+[00:06:13] [Client thread/INFO]: [CHAT] [Red] HoboViking [R0SE]:  says the guy who had to bowspam a leather
+[00:06:13] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Spartan_D34: we are horribly out number
+[00:06:17] [Client thread/INFO]: [CHAT] TIP: Change your class by entering the nether portal near your nexus.  You can unlock classes by meeting certain criteria or by unlocking them with Shotbow XP.
+[00:06:29] [Client thread/INFO]: [CHAT] §9MivNaii§9(ARC) killed §c___Mika___§c(SCO) in honour of Blue.
+[00:06:33] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: Get immobilizer
+[00:06:36] [Client thread/INFO]: [CHAT] §cDaddyDrake§c(IMM) shot §aShelli404§a(SCO)
+[00:06:40] [Client thread/INFO]: [CHAT] §cwasachaina9813§c(SCO) killed §aHAKUTO13§a(CIV)
+[00:06:45] [Client thread/INFO]: [CHAT] §cNicko9043§c(ACR) killed §afujimak§a(ACR)
+[00:06:47] [Client thread/INFO]: [CHAT] §9Alijato§9(SCO) killed §cJonnyCrafter1337§c(ACR) in honour of Blue.
+[00:06:47] [Client thread/INFO]: [CHAT] [Blue] Turbo1990gt: HAHA
+[00:06:54] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) killed §akiritogame02§a(ACR)
+[00:06:54] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: They're coming, I think.
+[00:07:05] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: だれかーいもびまーせやろーーー
+[00:07:13] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: I would get Archer, Immobilizer, and/or Thor
+[00:07:30] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: I think I'll stick with magician.
+[00:07:43] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: Magician has good area attacks
+[00:07:47] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §akiritogame02§a(ACR)
+[00:07:47] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: The freeze can hit more than one.
+[00:07:56] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: Cooldown takes too long though
+[00:08:06] [Client thread/INFO]: [CHAT] §9Turbo1990gt§9(PYR) killed §cJTGangsterLP6§c(SCO) in honour of Blue.
+[00:08:07] [Client thread/INFO]: [CHAT] §cNicko9043§c(ACR) killed §emi_lily§e(ACR)
+[00:08:08] [Client thread/INFO]: [CHAT] §9Turbo1990gt§9(PYR) killed §c___Mika___§c(SCO) in honour of Blue.
+[00:08:15] [Client thread/INFO]: [CHAT] §cHoboViking§c(SUC) killed §akiritogame02§a(ACR)
+[00:08:17] [Client thread/INFO]: [CHAT] TIP: Create your own private room on our official TeamSpeak server. Connect with ts.shotbow.net.
+[00:08:18] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(SCO) killed §9Waterbroc7§9(ACR)
+[00:08:21] [Client thread/INFO]: [CHAT] (Team) [Green] OrdinaryCoffee: honestly i question how these games are ever fair. look at the teams
+[00:08:25] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: If we can take them out and get their stuff we can quickly counter rush them
+[00:08:26] [Client thread/INFO]: [CHAT] [Blue] Waterbroc7:  wow
+[00:08:29] [Client thread/INFO]: [CHAT] §cNaiZz§c(ACR) killed §ebrandon171766§e(SCO)
+[00:08:30] [Client thread/INFO]: [CHAT] §akiritogame02§a(ACR) shot §cHoboViking§c(SUC)
+[00:08:32] [Client thread/INFO]: [CHAT] [Yellow] [G] brandon171766 [VAIN]: gg
+[00:08:41] [Client thread/INFO]: [CHAT] Please wait a moment before opening the shop again!
+[00:08:48] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: What a wuss.
+[00:08:51] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(SCO) killed §9Alijato§9(SCO)
+[00:08:56] [Client thread/INFO]: [CHAT] §9Turbo1990gt§9(PYR) killed §cJonnyCrafter1337§c(SCO) in honour of Blue.
+[00:09:01] [Client thread/INFO]: [CHAT] §9MivNaii§9(ARC) killed §cJTGangsterLP6§c(SCO) in honour of Blue.
+[00:09:05] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) killed §afujimak§a(SUC)
+[00:09:07] [Client thread/INFO]: [CHAT] §c___Mika___§c(SCO) killed §9MivNaii§9(ARC)
+[00:09:07] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) killed §akiritogame02§a(ACR)
+[00:09:27] [Client thread/INFO]: [CHAT] §adan027§a(WIZ) killed §cwasachaina9813§c(SCO) defending Green's Nexus.
+[00:09:37] [Client thread/INFO]: [CHAT] Firwen has been slain and claimed by Red team
+[00:09:45] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: They get boss
+[00:09:46] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(ROB) shot §akiritogame02§a(ACR)
+[00:09:51] [Client thread/INFO]: [CHAT] §cNaiZz§c(ACR) killed §ethriftymom§e(ACR)
+[00:09:51] [Client thread/INFO]: [CHAT] (Team) [Green] [P] Braiti [Lin]: Get ready for rush
+[00:10:03] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: red dia
+[00:10:14] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: Loveley.
+[00:10:15] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: and iron inc
+[00:10:17] [Client thread/INFO]: [CHAT] TIP: Interested in building a map for Annihilation? Post a build submission to our forums! https://shotbow.net/forum/forums/buildsubmission/
+[00:10:28] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(ROB) shot §afujimak§a(SUC)
+[00:10:35] [Client thread/INFO]: [CHAT] §c_____RinaBot§c(ACR) killed §adan027§a(WIZ) attacking Green's Nexus.
+[00:10:40] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: def plz!!!
+[00:11:00] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(ROB) shot §aHorst_Frank§a(ALC)
+[00:11:15] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) shot §akiritogame02§a(ACR)
+[00:11:20] [Client thread/INFO]: [CHAT] §cJTGangsterLP6§c(SCO) killed §afujimak§a(SUC)
+[00:11:22] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §akiritogame02§a(ACR)
+[00:11:23] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §aSpartan_D34§a(BUI)
+[00:11:24] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(ROB) shot §aHAKUTO13§a(CIV)
+[00:11:25] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(SCO) killed §aHorst_Frank§a(ALC)
+[00:11:31] [Client thread/ERROR]: ThrownPotion entity 56247 has no item?!
+[00:11:31] [Client thread/ERROR]: ThrownPotion entity 56247 has no item?!
+[00:11:31] [Client thread/ERROR]: ThrownPotion entity 56247 has no item?!
+[00:11:31] [Client thread/ERROR]: ThrownPotion entity 56247 has no item?!
+[00:11:31] [Client thread/ERROR]: ThrownPotion entity 56247 has no item?!
+[00:11:31] [Client thread/ERROR]: ThrownPotion entity 56247 has no item?!
+[00:11:31] [Client thread/ERROR]: ThrownPotion entity 56247 has no item?!
+[00:11:31] [Client thread/ERROR]: ThrownPotion entity 56247 has no item?!
+[00:11:31] [Client thread/ERROR]: ThrownPotion entity 56247 has no item?!
+[00:11:32] [Client thread/INFO]: [CHAT] §cJTGangsterLP6§c(SCO) killed §aSpartan_D34§a(BUI)
+[00:11:36] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(ROB) shot §akiritogame02§a(ACR)
+[00:11:37] [Client thread/INFO]: [CHAT] §cNaiZz§c(ACR) killed §adan027§a(WIZ)
+[00:11:37] [Client thread/INFO]: [CHAT] §c_____RinaBot§c(ACR) killed §aBraiti§a(THO) attacking Green's Nexus.
+[00:11:39] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §afujimak§a(SUC) attacking Green's Nexus.
+[00:11:43] [Client thread/INFO]: [CHAT] (Team) [Green] fujimak: def plz!!!
+[00:11:44] [Client thread/INFO]: [CHAT] §cJonnyCrafter1337§c(SCO) killed §aroarry§a(SCO)
+[00:11:45] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §aHorst_Frank§a(ALC) attacking Green's Nexus.
+[00:11:48] [Client thread/INFO]: [CHAT] §akiritogame02§a(ACR) killed §cwasachaina9813§c(SWA)
+[00:11:49] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §aHAKUTO13§a(CIV) attacking Green's Nexus.
+[00:11:49] [Client thread/INFO]: [CHAT] §c_____RinaBot§c(ACR) killed §aHorst_Frank§a(ALC)
+[00:11:49] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §aBraiti§a(THO)
+[00:11:51] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(ROB) shot §aroarry§a(SCO)
+[00:11:51] [Client thread/INFO]: [CHAT] §aHorst_Frank§a(ALC) killed §cTagLizard§c(SPY)
+[00:11:51] [Client thread/INFO]: [CHAT] +9 Shotbow Xp
+[00:11:53] [Client thread/INFO]: [CHAT] (Team) [Green] roarry: t
+[00:11:55] [Client thread/INFO]: [CHAT] §c___Mika___§c(SCO) killed §adan027§a(WIZ) attacking Green's Nexus.
+[00:11:56] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §afujimak§a(SUC)
+[00:11:56] [Client thread/INFO]: [CHAT] §c_____RinaBot§c(ACR) killed §akiritogame02§a(ACR)
+[00:11:56] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(ROB) shot §aHAKUTO13§a(CIV)
+[00:12:00] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(ROB) shot §afujimak§a(SUC)
+[00:12:00] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §aBraiti§a(THO)
+[00:12:00] [Client thread/INFO]: [CHAT] §cJTGangsterLP6§c(SCO) killed §aHAKUTO13§a(CIV)
+[00:12:01] [Client thread/INFO]: [CHAT] §c_____RinaBot§c(ACR) killed §aHorst_Frank§a(ALC)
+[00:12:05] [Client thread/INFO]: [CHAT] §c___Mika___§c(SCO) killed §aroarry§a(SCO) attacking Green's Nexus.
+[00:12:05] [Client thread/INFO]: [CHAT] §cJTGangsterLP6§c(SCO) killed §adan027§a(WIZ)
+[00:12:06] [Client thread/INFO]: [CHAT] §cBOOOOOOOOOSTIO§c(ROB) killed §akiritogame02§a(ACR)
+[00:12:07] [Client thread/INFO]: [CHAT] §c3Lv§c(SCO) killed §aBraiti§a(THO)
+[00:12:10] [Client thread/INFO]: [CHAT] §c_____RinaBot§c(ACR) killed §aHorst_Frank§a(ALC)
+[00:12:11] [Client thread/INFO]: [CHAT] [Red] [S] Nicko9043: gg
+[00:12:11] [Client thread/INFO]: [CHAT] §cJTGangsterLP6§c(SCO) killed §afujimak§a(SUC)
+[00:12:11] [Client thread/INFO]: [CHAT] §cJTGangsterLP6§c(SCO) killed §aHAKUTO13§a(CIV)
+[00:12:16] [Client thread/INFO]: [CHAT] 3rd team to be eliminated.
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Green team's
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ nexus has been destroyed
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ by NaiZz
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The game is over,
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ Red team wins!
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ The server is restarting
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ in 60 seconds
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] ▒▒▒▒▒▒▒▒▒▒ 
+[00:12:16] [Client thread/INFO]: [CHAT] +90 Shotbow Xp
+[00:12:16] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, kiritogame02.
+[00:12:17] [Client thread/INFO]: [CHAT] TIP: Team work is paramount to Annihilation.  Share resources, store extra armor/weapons at your base for fallen teammates, and move as a unified group.
+[00:12:18] [Client thread/INFO]: [CHAT] §c_____RinaBot§c(ACR) killed §aBraiti§a(THO)
+[00:12:18] [Client thread/INFO]: [CHAT] Rate this map by clicking: [5] [4] [3] [2] [1]
+[00:12:18] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) killed §adan027§a(WIZ)
+[00:12:18] [Client thread/INFO]: [CHAT] [Red] [P] VenomousChewy: gg
+[00:12:20] [Client thread/INFO]: [CHAT] [Red] [P] Snurkle [GENE]: gg
+[00:12:20] [Client thread/INFO]: [CHAT] [Red] [P] TagLizard: GG
+[00:12:21] [Client thread/INFO]: [CHAT] The server is restarting in 60 seconds
+[00:12:21] [Client thread/INFO]: [CHAT] [Red] [P] ___Mika___: GG
+[00:12:22] [Client thread/INFO]: [CHAT] §cNaiZz§c(ACR) killed §aHAKUTO13§a(CIV)
+[00:12:23] [Client thread/INFO]: [CHAT] [Green] [P] Braiti [Lin]: Sure gg
+[00:12:26] [Client thread/INFO]: [CHAT] The server is restarting in 55 seconds
+[00:12:28] [Client thread/INFO]: [CHAT] §cNaiZz§c(ACR) killed §aHorst_Frank§a(ALC)
+[00:12:29] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) killed §afujimak§a(SUC)
+[00:12:31] [Client thread/INFO]: [CHAT] The server is restarting in 50 seconds
+[00:12:32] [Client thread/INFO]: [CHAT] [Green] [P] Braiti [Lin]: Game was outnumbered
+[00:12:32] [Client thread/INFO]: [CHAT] (Team) [Green] [S] dan027: Teams totally weren't stacked.
+[00:12:36] [Client thread/INFO]: [CHAT] The server is restarting in 45 seconds
+[00:12:37] [Client thread/INFO]: [CHAT] [Green] [P] Braiti [Lin]: Stupid as hell
+[00:12:38] [Client thread/INFO]: [CHAT] §cVenomousChewy§c(SCO) killed §aSpartan_D34§a(BUI)
+[00:12:41] [Client thread/INFO]: [CHAT] The server is restarting in 40 seconds
+[00:12:46] [Client thread/INFO]: [CHAT] A player's NPC was killed while combat logged, roarry.
+[00:12:46] [Client thread/INFO]: [CHAT] The server is restarting in 35 seconds
+[00:12:48] [Client thread/INFO]: [CHAT] [Red] [P] VenomousChewy: ez
+[00:12:51] [Client thread/INFO]: [CHAT] The server is restarting in 30 seconds
+[00:12:56] [Client thread/INFO]: [CHAT] The server is restarting in 25 seconds
+[00:13:01] [Client thread/INFO]: [CHAT] The server is restarting in 20 seconds
+[00:13:06] [Client thread/INFO]: [CHAT] The server is restarting in 15 seconds
+[00:13:11] [Client thread/INFO]: [CHAT] The server is restarting in 10 seconds
+[00:13:16] [Client thread/INFO]: [CHAT] The server is restarting in 5 seconds
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT]        
+[00:13:21] [Client thread/INFO]: [CHAT]        
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT]       
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:21] [Client thread/INFO]: [CHAT] 
+[00:13:22] [Client thread/INFO]: [CHAT] Disconnected: The server is restarting
+[00:13:23] [Client thread/INFO]: [CHAT] ▒▒▒▒�
