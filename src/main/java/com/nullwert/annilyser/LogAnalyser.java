@@ -2,8 +2,6 @@ package com.nullwert.annilyser;
 
 import com.nullwert.annilyser.model.DataStorage;
 import com.nullwert.annilyser.model.listener.*;
-import com.nullwert.annilyser.model.listener.events.GamestateEvent;
-import com.nullwert.annilyser.model.listener.events.KillEvent;
 import com.nullwert.annilyser.parser.Parser;
 
 import java.util.concurrent.ExecutorService;
@@ -31,7 +29,7 @@ public class LogAnalyser {
     }
 
     public void startParser(String path, boolean realtime) {
-        parser = new Parser("C:\\Users\\Torin\\Documents\\git\\annilyser\\Annilyser\\src\\main\\java\\com\\nullwert\\annilyser\\logsim\\testlog.txt", realtime);
+        parser = new Parser("C:\\Users\\Torin\\Documents\\git\\annilyser\\annilyser-core\\src\\main\\java\\com\\nullwert\\annilyser\\logsim\\testlog.txt", realtime);
         parserExecutor.submit(parser);
     }
 

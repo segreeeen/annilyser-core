@@ -11,7 +11,7 @@ repositories {
 }
 
 jar {
-    baseName = 'annilyser-core'
+    archiveFileName = 'annilyser-core'
     version = '1.0.0-SNAPSHOT'
 }
 
