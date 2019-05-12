@@ -4,7 +4,7 @@ public class Kill {
     private final Player killer;
     private final Player victim;
     private String timestamp;
-    private long timestampMillis;
+    private long timestampSeconds;
     private final boolean attacking;
     private final boolean honourable;
     private final boolean defending;
@@ -33,12 +33,12 @@ public class Kill {
         return killer;
     }
 
-    public long getTimestampMillis() {
-        return timestampMillis;
+    public long getTimestampSeconds() {
+        return timestampSeconds;
     }
 
-    public void setTimestampMillis(long timestampMillis) {
-        this.timestampMillis = timestampMillis;
+    public void setTimestampSeconds(long timestampSeconds) {
+        this.timestampSeconds = timestampSeconds;
     }
 
     public boolean isHonourable() {

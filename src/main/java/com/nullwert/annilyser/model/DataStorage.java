@@ -144,27 +144,24 @@ final public class DataStorage {
         }
         players.get(playerName).getKills().add(kill);
         kill.getVictim().getDeaths().add(kill);
-        int teamKills = 0;
-        int teamDeaths = 0;
-        int enemyKills = 0;
-        int enemyDeaths = 0;
-        kill.setTimestampMillis((convertTimestampToMillis(kill.getTimestamp()) - this.startTime) / 1000);
+
+        kill.setTimestampSeconds((convertTimestampToMillis(kill.getTimestamp()) - this.startTime) / 1000);
         switch (kill.getKiller().getTeam()) {
             case BLUE:
-                teamKills = blueKills.incrementAndGet();
-                teamDeaths = blueDeaths.get();
+                blueKills.incrementAndGet();
+                blueDeaths.get();
                 break;
             case GREEN:
-                teamKills = greenKills.incrementAndGet();
-                teamDeaths = greenDeaths.get();
+                greenKills.incrementAndGet();
+                greenDeaths.get();
                 break;
             case RED:
-                teamKills = redKills.incrementAndGet();
-                teamDeaths = redDeaths.get();
+                redKills.incrementAndGet();
+                redDeaths.get();
                 break;
             case YELLOW:
-                teamKills = yellowKills.incrementAndGet();
-                teamDeaths = yellowDeaths.get();
+                yellowKills.incrementAndGet();
+                yellowDeaths.get();
                 break;
             default:
                 break;
@@ -172,20 +169,20 @@ final public class DataStorage {
 
         switch (kill.getVictim().getTeam()) {
             case BLUE:
-                enemyKills = blueKills.get();
-                enemyDeaths = blueDeaths.incrementAndGet();
+                blueKills.get();
+                blueDeaths.incrementAndGet();
                 break;
             case GREEN:
-                enemyKills = greenKills.get();
-                enemyDeaths = greenDeaths.incrementAndGet();
+                greenKills.get();
+                greenDeaths.incrementAndGet();
                 break;
             case RED:
-                enemyKills = redKills.get();
-                enemyDeaths = redDeaths.incrementAndGet();
+                redKills.get();
+                redDeaths.incrementAndGet();
                 break;
             case YELLOW:
-                enemyKills = yellowKills.get();
-                enemyDeaths = yellowDeaths.incrementAndGet();
+                yellowKills.get();
+                yellowDeaths.incrementAndGet();
                 break;
             default:
                 break;
@@ -199,7 +196,7 @@ final public class DataStorage {
         System.out.println("Somebody got killed.");
         KillEvent killEvent = new KillEvent(k, blueKills, greenKills, redKills, yellowKills, blueDeaths, greenDeaths, redDeaths, yellowDeaths);
         fireKillEvent(killEvent);
-        updateLastActionTime(k.getTimestampMillis());
+        updateLastActionTime(k.getTimestampSeconds());
         updateLocalLastActionTime();
     }
 
@@ -255,7 +252,7 @@ final public class DataStorage {
         }
         Nexus n = this.nexuses.get(team);
         long timestampMillis = convertTimestampToMillis(timestamp);
-        n.setTimestampMillis((timestampMillis - this.startTime) / 1000);
+        n.setTimestampSeconds((timestampMillis - this.startTime) / 1000);
         Player p;
         if (players.get(player) == null) {
             p = new Player(player, Token.Class.UNKNOWN, Token.Team.UNKNOWN);
@@ -282,16 +279,16 @@ final public class DataStorage {
         this.nexusListeners.add(l);
     }
 
-    private void fireGamestateEvent(Token.GameState gs, long timestampMillis) {
-        this.GCListeners.stream().forEach(d -> d.fireChangeEvent(new GamestateEvent(gs, timestampMillis)));
+    private void fireGamestateEvent(Token.GameState gs, long timestampSeconds) {
+        this.GCListeners.stream().forEach(d -> d.fireChangeEvent(new GamestateEvent(gs, timestampSeconds)));
     }
 
     private void fireGamestateEvent(Token.GameState gameState, long l, Token.Team winTeam) {
         this.GCListeners.stream().forEach(d -> d.fireChangeEvent(new GamestateEvent(gameState, l, winTeam)));
     }
 
-    private void firePhaseChangeEvent(Token.Phase p, long timestampMillis) {
-        this.phaseListeners.stream().forEach(d -> d.fireChangeEvent(new PhaseChangeEvent(p, timestampMillis)));
+    private void firePhaseChangeEvent(Token.Phase p, long timestampSeconds) {
+        this.phaseListeners.stream().forEach(d -> d.fireChangeEvent(new PhaseChangeEvent(p, timestampSeconds)));
     }
 
     private void fireKillEvent(KillEvent killEvent) {
