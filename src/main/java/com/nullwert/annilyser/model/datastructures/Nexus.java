@@ -7,7 +7,7 @@ public class Nexus {
     private Token.Team team;
     private boolean alive = true;
     private Player destroyer = null;
-    private long timestampMillis;
+    private long timestampSeconds;
 
     public Nexus(Token.Team team) {
         this.team = team;
@@ -26,12 +26,12 @@ public class Nexus {
         return destroyer;
     }
 
-    public long getTimestampMillis() {
-        return timestampMillis;
+    public long getTimestampSeconds() {
+        return timestampSeconds;
     }
 
-    public void setTimestampMillis(long timestampMillis) {
-        this.timestampMillis = timestampMillis;
+    public void setTimestampSeconds(long timestampSeconds) {
+        this.timestampSeconds = timestampSeconds;
     }
 
     public Token.Team getTeam() {

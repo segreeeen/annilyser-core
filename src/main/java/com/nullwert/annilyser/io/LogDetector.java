@@ -4,6 +4,9 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public class LogDetector {
+    public static void main(String[] args) {
+        System.out.println(getLogPath());
+    }
 
     public static Path getLogPath() {
         String workingDirectory = null;
