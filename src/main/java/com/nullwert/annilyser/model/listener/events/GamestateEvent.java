@@ -5,23 +5,23 @@ import com.nullwert.annilyser.parser.token.Token;
 public class GamestateEvent implements DataEvent<Token.GameState> {
 
     private Token.GameState value;
-    private long timestampMillis;
+    private long timestampSeconds;
 
     private Token.Team winner;
 
-    public GamestateEvent(Token.GameState value, long timestampMillis) {
+    public GamestateEvent(Token.GameState value, long timestampSeconds) {
         this.value = value;
-        this.timestampMillis = timestampMillis;
+        this.timestampSeconds = timestampSeconds;
     }
 
-    public GamestateEvent(Token.GameState value, long timestampMillis, Token.Team winTeam) {
+    public GamestateEvent(Token.GameState value, long timestampSeconds, Token.Team winTeam) {
         this.value = value;
-        this.timestampMillis = timestampMillis;
+        this.timestampSeconds = timestampSeconds;
         this.winner = winTeam;
     }
 
-    public long getTimestampMillis() {
-        return timestampMillis;
+    public long getTimestampSeconds() {
+        return timestampSeconds;
     }
 
     public Token.Team getWinner() {
