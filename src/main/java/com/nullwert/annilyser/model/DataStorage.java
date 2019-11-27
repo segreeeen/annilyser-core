@@ -88,7 +88,7 @@ final public class DataStorage {
     }
 
     public Player getPlayer(String name) {
-        return players.get(name);
+        return players.computeIfAbsent(name, Player::new);
     }
 
     public Player addPlayer(String name, Token.Class clazz, Token.Team team) {
@@ -142,8 +142,8 @@ final public class DataStorage {
             this.lastLocalKillEventTime.set(System.currentTimeMillis());
             firstKill = false;
         }
-        players.get(playerName).getKills().add(kill);
-        kill.getVictim().getDeaths().add(kill);
+        players.get(playerName).addKillOrDeath(kill);
+        kill.getVictim().addKillOrDeath(kill);
 
         kill.setTimestampSeconds((convertTimestampToMillis(kill.getTimestamp()) - this.startTime) / 1000);
         switch (kill.getKiller().getTeam()) {

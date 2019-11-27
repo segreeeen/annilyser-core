@@ -4,20 +4,24 @@ import com.nullwert.annilyser.parser.token.Token;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
+import java.util.stream.Collectors;
 
 public class Player {
     private final String name;
     private Token.Class clazz;
     private Token.Team team;
-    private final CopyOnWriteArrayList<Kill> kills;
-    private final CopyOnWriteArrayList<Kill> deaths;
+    private final CopyOnWriteArrayList<Kill> killsDeaths;
+
+    public Player(String name){
+        this.name = name;
+        this.killsDeaths = new CopyOnWriteArrayList<>();
+    }
 
     public Player(String name, Token.Class clazz, Token.Team team) {
         this.name = name;
         this.clazz = clazz;
         this.team = team;
-        this.kills = new CopyOnWriteArrayList<>();
-        this.deaths = new CopyOnWriteArrayList<>();
+        this.killsDeaths = new CopyOnWriteArrayList<>();
     }
 
     public String getName() {
@@ -32,12 +36,16 @@ public class Player {
         return team;
     }
 
-    public CopyOnWriteArrayList<Kill> getKills() {
-        return kills;
+    public void addKillOrDeath(Kill k) {
+        killsDeaths.add(k);
     }
 
-    public CopyOnWriteArrayList<Kill> getDeaths() {
-        return deaths;
+    public List<Kill> getKills() {
+        return killsDeaths.stream().filter(k -> k.getKiller() == this).collect(Collectors.toList());
+    }
+
+    public List<Kill> getDeaths() {
+        return killsDeaths.stream().filter(k -> k.getVictim() == this).collect(Collectors.toList());
     }
 
     @Override
@@ -46,9 +54,7 @@ public class Player {
                 "name='" + name + '\'' +
                 ", clazz=" + clazz +
                 ", team=" + team +
-                ", kills=" + kills +
-                ", deaths=" + deaths +
-                '}';
+                ", killsDeaths=" + killsDeaths;
     }
 
     public void setTeam(Token.Team team) {

@@ -1,24 +1,23 @@
 package com.nullwert.annilyser.model.datastructures;
 
+import com.nullwert.annilyser.parser.token.Token;
+
 public class Kill {
     private final Player killer;
     private final Player victim;
     private String timestamp;
     private long timestampSeconds;
-    private final boolean attacking;
     private final boolean honourable;
-    private final boolean defending;
+    private final Token.Attackmode attackmode;
+    private final Token.Deathkind deathkind;
 
-    public Kill(boolean honourable, Player victim, String timestamp, boolean attacking, boolean defending, Player killer) {
+    public Kill(boolean honourable, Player victim,  Player killer, String timestamp, Token.Attackmode attackmode, Token.Deathkind deathkind) {
         this.victim = victim;
         this.timestamp = timestamp;
-        this.attacking = attacking;
-        this.defending = defending;
+        this.attackmode = attackmode;
+        this.deathkind = deathkind;
         this.honourable = honourable;
         this.killer = killer;
-    }
-    public boolean isAttacking() {
-        return attacking;
     }
 
     public String getTimestamp() {
@@ -45,14 +44,21 @@ public class Kill {
         return honourable;
     }
 
+    public Token.Attackmode getAttackmode() {
+        return attackmode;
+    }
+
+    public Token.Deathkind getDeathkind() {
+        return deathkind;
+    }
+
     @Override
     public String toString() {
         return "Kill{" +
                 "victim=" + victim.getName() +
                 ", timestamp='" + timestamp + '\'' +
-                ", attacking=" + attacking +
+                ", attacking=" + attackmode +
                 ", honourable=" + honourable +
-                ", defending=" + defending +
                 '}';
     }
 }

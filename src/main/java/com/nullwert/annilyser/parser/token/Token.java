@@ -1,5 +1,8 @@
 package com.nullwert.annilyser.parser.token;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class Token {
 
     public enum Class {
@@ -139,6 +142,36 @@ public class Token {
     public enum Team {
         BLUE, GREEN, RED, YELLOW, UNKNOWN;
 
+        public static Set<Team> getEnemyTeams(Team team) {
+            Set<Team> set = new HashSet<Team>();
+            switch (team) {
+                case YELLOW:
+                    set.add(RED);
+                    set.add(BLUE);
+                    set.add(GREEN);
+                    break;
+                case GREEN:
+                    set.add(RED);
+                    set.add(BLUE);
+                    set.add(YELLOW);
+                    break;
+                case BLUE:
+                    set.add(RED);
+                    set.add(YELLOW);
+                    set.add(GREEN);
+                    break;
+                case RED:
+                    set.add(YELLOW);
+                    set.add(BLUE);
+                    set.add(GREEN);
+                    break;
+                default:
+                    return null;
+            }
+
+            return set;
+        }
+
         public static Team getByColorString(String color) {
             switch (color) {
                 case "9":
@@ -218,7 +251,7 @@ public class Token {
     }
 
     public enum Attackmode {
-        DEFENSE, ATTACK;
+        DEFENSE, ATTACK, UNKNOWN;
 
         public static Attackmode getByModeString(String mode) {
             switch (mode) {

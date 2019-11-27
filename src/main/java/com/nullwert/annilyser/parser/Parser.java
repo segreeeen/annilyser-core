@@ -10,13 +10,13 @@ import com.nullwert.annilyser.model.listener.NexusListener;
 import com.nullwert.annilyser.model.listener.PhaseChangeListener;
 import com.nullwert.annilyser.parser.token.Token;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import static com.nullwert.annilyser.parser.ParserRegEx.*;
 
 public class Parser implements Runnable {
     private final BlockingQueue<String> lines;
@@ -37,7 +37,6 @@ public class Parser implements Runnable {
     }
 
     /**
-     *
      * @param file
      * @param realtime filereader reads log every x ms when true, reads log line by line when false
      */
@@ -95,7 +94,7 @@ public class Parser implements Runnable {
             this.clockCount = -1;
         }
 
-        return String.format("%02d",this.dayCount.get());
+        return String.format("%02d", this.dayCount.get());
     }
 
     private long asMilliSeconds(String line) {
@@ -106,9 +105,9 @@ public class Parser implements Runnable {
 
     private boolean parseNexusDestroyed(String vMsg, String time) {
 
-        String team = retrieveGroupResult(regEx.NEXUS_DESTROYED_LINE1, vMsg, ParserRegEx.NEXUS_DESTROYED_TEAM);
+        String team = retrieveGroupResults(regEx.NEXUS_DESTROYED_LINE1, vMsg, ParserRegEx.NEXUS_DESTROYED_TEAM).get(NEXUS_DESTROYED_TEAM);
         boolean line2 = regEx.NEXUS_DESTROYED_LINE2.matcher(vMsg).matches();
-        String destroyer = retrieveGroupResult(regEx.NEXUS_DESTROYED_LINE3, vMsg, ParserRegEx.NEXUS_DESTROYED_BY);
+        String destroyer = retrieveGroupResults(regEx.NEXUS_DESTROYED_LINE3, vMsg, ParserRegEx.NEXUS_DESTROYED_BY).get(NEXUS_DESTROYED_BY);
         if (team != null) {
             if (nexusCount.get() == 0) {
                 nexusTeam = team;
@@ -129,7 +128,7 @@ public class Parser implements Runnable {
     }
 
     private boolean parseGameStatus(String vMsg, String time) {
-        String win = retrieveGroupResult(regEx.WIN, vMsg, ParserRegEx.WIN_TEAM);
+        String win = retrieveGroupResults(regEx.WIN, vMsg, WIN_TEAM).get(WIN_TEAM);
         if (win != null) {
             Token.GameState state = Token.GameState.getByStateString(win);
             Token.Team team = Token.Team.getByString(win);
@@ -137,14 +136,14 @@ public class Parser implements Runnable {
             return true;
         }
 
-        String mode = retrieveGroupResult(regEx.GAMESTART, vMsg, ParserRegEx.GAMESTART_MODE);
+        String mode = retrieveGroupResults(regEx.GAMESTART, vMsg, ParserRegEx.GAMESTART_MODE).get(GAMESTART_MODE);
         if (mode != null) {
             Token.GameState state = Token.GameState.getByStateString(mode);
             if (state == Token.GameState.PHASE) {
                 DataStorage.getInstance().setGameState(state, time);
-                String phase = retrieveGroupResult(regEx.GAMESTART, vMsg, ParserRegEx.GAMESTART_PHASENUMBER);
-                Token.Phase phaseToken = Token.Phase.getByPhaseString(phase);
+                String phase = retrieveGroupResults(regEx.GAMESTART, vMsg, ParserRegEx.GAMESTART_PHASENUMBER).get(GAMESTART_PHASENUMBER);
                 if (phase != null) {
+                    Token.Phase phaseToken = Token.Phase.getByPhaseString(phase);
                     DataStorage.getInstance().setPhase(phaseToken, time);
                     return true;
                 }
@@ -157,34 +156,33 @@ public class Parser implements Runnable {
     }
 
     private boolean parseDeath(String vMsg, String time) {
-        List<String> kill = retrieveGroupResults(regEx.KILL, vMsg, ParserRegEx.KILL_KILLER_NAME, ParserRegEx.KILL_KILLER_TEAM, ParserRegEx.KILL_KILLER_CLASS,
-                ParserRegEx.KILL_VICTIM_NAME, ParserRegEx.KILL_VICTIM_TEAM, ParserRegEx.KILL_VICTIM_CLASS, ParserRegEx.KILL_ATTACKROLE, ParserRegEx.KILL_ATTACKED_NEXUS, ParserRegEx.KILL_HONOUR_OF);
+        Map<String, String> kill = retrieveGroupResults(regEx.KILL, vMsg, KILL_KILLER_NAME, KILL_KILLER_TEAM, KILL_KILLER_CLASS,
+                KILL_VICTIM_NAME, KILL_DEATH_KIND, KILL_VICTIM_TEAM, KILL_VICTIM_CLASS, KILL_ATTACKROLE, KILL_ATTACKED_NEXUS, KILL_HONOUR_OF);
         if (kill != null) {
-            String killer_name = kill.get(0);
-            Token.Team killer_team = Token.Team.getByColorString(kill.get(1));
-            String killer_class = kill.get(2);
-            Token.Class KClass= Token.Class.getAbbrString(killer_class);
-            String victim_name = kill.get(3);
-            Token.Team victim_team = Token.Team.getByColorString(kill.get(4));
-            String victim_class = kill.get(5);
-            Token.Class VClass= Token.Class.getAbbrString(victim_class);
+            String killer_name = kill.get(KILL_KILLER_NAME);
+            Token.Team killer_team = Token.Team.getByColorString(kill.get(KILL_KILLER_TEAM));
+            String killer_class = kill.get(KILL_KILLER_CLASS);
+            Token.Class KClass = Token.Class.getAbbrString(killer_class);
+            Token.Deathkind deathKind = Token.Deathkind.getByKindString(kill.get(KILL_DEATH_KIND));
+            String victim_name = kill.get(KILL_VICTIM_NAME);
+            Token.Team victim_team = Token.Team.getByColorString(kill.get(KILL_VICTIM_TEAM));
+            String victim_class = kill.get(KILL_VICTIM_CLASS);
+            Token.Class VClass = Token.Class.getAbbrString(victim_class);
 
             Player killer = DataStorage.getInstance().getPlayer(killer_name);
-            killer = getPlayer(killer_name, killer_team, KClass, killer);
+            killer.setClass(KClass);
+            killer.setTeam(killer_team);
             Player victim = DataStorage.getInstance().getPlayer(victim_name);
-            victim = getPlayer(victim_name, victim_team, VClass, victim);
+            victim.setClass(VClass);
+            victim.setTeam(victim_team);
             if (kill.size() == 8) {
-                Token.Attackmode attackrole = Token.Attackmode.getByModeString(kill.get(6));
-                Token.Team attacked_nexus = Token.Team.getByString(kill.get(7));
-                if (attackrole == Token.Attackmode.ATTACK) {
-                    DataStorage.getInstance().addKill(killer.getName(), new Kill(false, victim, time, true, false, killer));
-                } else if (attackrole == Token.Attackmode.DEFENSE) {
-                    DataStorage.getInstance().addKill(killer.getName(), new Kill(false, victim, time, false, true, killer));
-                }
+                Token.Attackmode attackMode = Token.Attackmode.getByModeString(kill.get(KILL_ATTACKROLE));
+                Token.Team attacked_nexus = Token.Team.getByString(kill.get(KILL_ATTACKED_NEXUS));
+                DataStorage.getInstance().addKill(killer.getName(), new Kill(false, victim, killer, time, attackMode, deathKind));
             } else if (kill.size() == 7) {
-                DataStorage.getInstance().addKill(killer.getName(), new Kill(true, victim, time, false, false, killer));
+                DataStorage.getInstance().addKill(killer.getName(), new Kill(true, victim, killer, time, Token.Attackmode.UNKNOWN, deathKind));
             } else if (kill.size() == 6) {
-                DataStorage.getInstance().addKill(killer.getName(), new Kill(false, victim, time, false, false, killer));
+                DataStorage.getInstance().addKill(killer.getName(), new Kill(true, victim, killer, time, Token.Attackmode.UNKNOWN, deathKind));
             }
 
             return true;
@@ -195,36 +193,27 @@ public class Parser implements Runnable {
     private Player getPlayer(String name, Token.Team team, Token.Class clazz, Player p) {
         if (p == null) {
             p = DataStorage.getInstance().addPlayer(name, clazz, team);
-        } else if(p.getTeam() == Token.Team.UNKNOWN) {
+        } else if (p.getTeam() == Token.Team.UNKNOWN) {
             p.setTeam(team);
             p.setClass(clazz);
         }
         return p;
     }
 
-    private List<String> retrieveGroupResults(Pattern p, String message, String... group) {
+    private Map<String, String> retrieveGroupResults(Pattern p, String message, String... group) {
         Matcher m = p.matcher(message);
         boolean validMessage = m.matches();
         if (validMessage) {
-            ArrayList<String> l = new ArrayList<>();
+            Map<String, String> map = new HashMap<>();
             for (String s : group) {
                 String g = m.group(s);
                 if (g != null) {
-                    l.add(g);
+                    map.put(s, g);
                 }
             }
-            return l;
+            return map;
         }
-        return null;
-    }
-
-    private String retrieveGroupResult(Pattern p, String message, String group) {
-        List<String> l = retrieveGroupResults(p, message, group);
-        if (l != null) {
-            return l.size() > 0 ? l.get(0) : null;
-        } else {
-            return null;
-        }
+        return new HashMap<>();
     }
 
 }
