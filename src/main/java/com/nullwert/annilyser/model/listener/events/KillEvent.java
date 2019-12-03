@@ -1,96 +1,59 @@
 package com.nullwert.annilyser.model.listener.events;
 
-import com.nullwert.annilyser.model.datastructures.Kill;
+import com.nullwert.annilyser.model.datastructures.*;
+import com.nullwert.annilyser.parser.token.Token;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class KillEvent implements DataEvent<Kill> {
 
     private final Kill value;
-    private final int blueKills;
-    private final int greenKills;
-    private final int redKills;
-    private final int yellowKills;
-    private final int blueDeaths;
-    private final int greenDeaths;
-    private final int redDeaths;
-    private final int yellowDeaths;
-    private final int killsTotal;
-    private final long killsPerSecond;
-    private final long killAverage;
-    private final long maxKills;
-    private final long minKills;
-
-    public KillEvent(Kill value, int blueKills, int greenKills, int redKills, int yellowKills, int blueDeaths, int greenDeaths, int redDeaths, int yellowDeaths) {
-        this.value = value;
-        this.blueKills = blueKills;
-        this.greenKills = greenKills;
-        this.redKills = redKills;
-        this.yellowKills = yellowKills;
-        this.blueDeaths = blueDeaths;
-        this.greenDeaths = greenDeaths;
-        this.redDeaths = redDeaths;
-        this.yellowDeaths = yellowDeaths;
-        this.killsTotal = blueKills + greenKills + redKills + yellowKills;
-        this.killAverage = killsTotal / 4;
-        this.killsPerSecond = ((long)killsTotal)/value.getTimestampSeconds();
-        this.maxKills = Math.max(blueKills, Math.max(greenKills, Math.max(redKills, yellowKills)));
-        this.minKills = Math.min(blueKills, Math.min(greenKills, Math.min(redKills, yellowKills)));
-    }
-
-    public long getKillsPerSecond() {
-        return killsPerSecond;
-    }
-
-    public int getKillsTotal() {
-        return killsTotal;
-    }
-
-    public int getBlueKills() {
-        return blueKills;
-    }
-
-    public int getGreenKills() {
-        return greenKills;
-    }
-
-    public int getRedKills() {
-        return redKills;
-    }
-
-    public int getYellowKills() {
-        return yellowKills;
-    }
-
-    public int getBlueDeaths() {
-        return blueDeaths;
-    }
-
-    public int getGreenDeaths() {
-        return greenDeaths;
-    }
-
-    public int getRedDeaths() {
-        return redDeaths;
-    }
-
-    public int getYellowDeaths() {
-        return yellowDeaths;
-    }
-
+    private final IStatistics yellow;
+    private final IStatistics red;
+    private final IStatistics blue;
+    private final IStatistics green;
+    private final  List<TeamRelation> yellowRelations;
+    private final  List<TeamRelation> greenRelations;
+    private final  List<TeamRelation> redRelations;
+    private final  List<TeamRelation> blueRelations;
+    private final List<Player> players;
+    private List<IStatistics> klassen;
 
     @Override
     public Kill getValue() {
         return value;
     }
 
-    public long getKillAverage() {
-        return killAverage;
+    public KillEvent(Kill value,
+                     Map<Token.Class, Klasse> klassen,
+                     List<Player> players,
+                     IStatistics yellow,
+                     IStatistics red,
+                     IStatistics blue,
+                     IStatistics green,
+                     List<TeamRelation> yellowRelations,
+                     List<TeamRelation> greenRelations,
+                     List<TeamRelation> redRelations,
+                     List<TeamRelation> blueRelations) {
+        this.players = players;
+        this.value = value;
+        this.yellow = yellow;
+        this.red = red;
+        this.green = green;
+        this.blue = blue;
+        this.yellowRelations = yellowRelations;
+        this.greenRelations = greenRelations;
+        this.redRelations = redRelations;
+        this.blueRelations = blueRelations;
+        copyKlassen(klassen);
     }
 
-    public long getMaxKills() {
-        return maxKills;
-    }
-
-    public long getMinKills() {
-        return minKills;
+    private void copyKlassen(Map<Token.Class, Klasse> klassen) {
+        this.klassen = klassen.values().stream().map(Klasse::getCopy).collect(Collectors.toList());
     }
 }

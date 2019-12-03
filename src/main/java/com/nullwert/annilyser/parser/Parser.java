@@ -30,9 +30,8 @@ public class Parser implements Runnable {
 
 
     public static void main(String[] args) {
-
         ExecutorService exec = Executors.newCachedThreadPool();
-        Parser p = new Parser("F:\\git\\annilyserV2\\annilyser-core\\src\\main\\java\\com\\nullwert\\annilyser\\logsim\\testlog.txt", false);
+        Parser p = new Parser("C:\\Users\\Torin\\Documents\\git\\annilyser\\annilyser-core\\src\\main\\java\\com\\nullwert\\annilyser\\logsim\\testlog.txt", false);
         exec.submit(p);
     }
 
@@ -158,7 +157,7 @@ public class Parser implements Runnable {
     private boolean parseDeath(String vMsg, String time) {
         Map<String, String> kill = retrieveGroupResults(regEx.KILL, vMsg, KILL_KILLER_NAME, KILL_KILLER_TEAM, KILL_KILLER_CLASS,
                 KILL_VICTIM_NAME, KILL_DEATH_KIND, KILL_VICTIM_TEAM, KILL_VICTIM_CLASS, KILL_ATTACKROLE, KILL_ATTACKED_NEXUS, KILL_HONOUR_OF);
-        if (kill != null) {
+        if (!kill.isEmpty()) {
             String killer_name = kill.get(KILL_KILLER_NAME);
             Token.Team killer_team = Token.Team.getByColorString(kill.get(KILL_KILLER_TEAM));
             String killer_class = kill.get(KILL_KILLER_CLASS);
@@ -169,20 +168,17 @@ public class Parser implements Runnable {
             String victim_class = kill.get(KILL_VICTIM_CLASS);
             Token.Class VClass = Token.Class.getAbbrString(victim_class);
 
-            Player killer = DataStorage.getInstance().getPlayer(killer_name);
-            killer.setClass(KClass);
-            killer.setTeam(killer_team);
-            Player victim = DataStorage.getInstance().getPlayer(victim_name);
-            victim.setClass(VClass);
-            victim.setTeam(victim_team);
-            if (kill.size() == 8) {
+            Player killer = DataStorage.getInstance().addPlayer(killer_name, KClass, killer_team);
+            Player victim = DataStorage.getInstance().addPlayer(victim_name, VClass, victim_team);
+
+            if (kill.size() == 9) {
                 Token.Attackmode attackMode = Token.Attackmode.getByModeString(kill.get(KILL_ATTACKROLE));
                 Token.Team attacked_nexus = Token.Team.getByString(kill.get(KILL_ATTACKED_NEXUS));
-                DataStorage.getInstance().addKill(killer.getName(), new Kill(false, victim, killer, time, attackMode, deathKind));
+                DataStorage.getInstance().addKill(killer.getName(), new Kill(false, victim, killer, time, attackMode, deathKind, vMsg));
             } else if (kill.size() == 7) {
-                DataStorage.getInstance().addKill(killer.getName(), new Kill(true, victim, killer, time, Token.Attackmode.UNKNOWN, deathKind));
+                DataStorage.getInstance().addKill(killer.getName(), new Kill(true, victim, killer, time, Token.Attackmode.UNKNOWN, deathKind, vMsg));
             } else if (kill.size() == 6) {
-                DataStorage.getInstance().addKill(killer.getName(), new Kill(true, victim, killer, time, Token.Attackmode.UNKNOWN, deathKind));
+                DataStorage.getInstance().addKill(killer.getName(), new Kill(true, victim, killer, time, Token.Attackmode.UNKNOWN, deathKind, vMsg));
             }
 
             return true;

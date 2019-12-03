@@ -6,11 +6,13 @@ import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.stream.Collectors;
 
-public class Player {
+public class Player extends AbstractPlayerGroup{
     private final String name;
     private Token.Class clazz;
     private Token.Team team;
     private final CopyOnWriteArrayList<Kill> killsDeaths;
+    KillStats killStats = new KillStats();
+    KillStats deathStats = new KillStats();
 
     public Player(String name){
         this.name = name;
@@ -36,8 +38,15 @@ public class Player {
         return team;
     }
 
-    public void addKillOrDeath(Kill k) {
+    public void addKill(Kill k) {
         killsDeaths.add(k);
+        if (k.getKiller() == this) {
+            logKill(k, killStats);
+        }
+
+        if (k.getVictim() == this) {
+            logKill(k, deathStats);
+        }
     }
 
     public List<Kill> getKills() {

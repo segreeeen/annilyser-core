@@ -1,8 +1,6 @@
 package com.nullwert.annilyser.model;
 
-import com.nullwert.annilyser.model.datastructures.Kill;
-import com.nullwert.annilyser.model.datastructures.Nexus;
-import com.nullwert.annilyser.model.datastructures.Player;
+import com.nullwert.annilyser.model.datastructures.*;
 import com.nullwert.annilyser.model.listener.*;
 import com.nullwert.annilyser.model.listener.events.*;
 import com.nullwert.annilyser.parser.token.Token;
@@ -41,6 +39,8 @@ final public class DataStorage {
     private AtomicLong lastKillEventTime;
     private AtomicLong lastLocalKillEventTime;
     private boolean firstKill;
+    private Map<Token.Team, Team> teams;
+    private Map<Token.Class, Klasse> classes;
 
     private static class Loader {
         static final DataStorage INSTANCE = new DataStorage();
@@ -52,6 +52,8 @@ final public class DataStorage {
         killListeners = new ArrayList<>();
         deathListeners = new ArrayList<>();
         nexusListeners = new ArrayList<>();
+        teams = new HashMap<>();
+        classes = new HashMap<>();
         init();
     }
 
@@ -77,6 +79,15 @@ final public class DataStorage {
         this.lastKillEventTime = new AtomicLong(0);
         this.lastLocalKillEventTime = new AtomicLong(0);
         this.firstKill = true;
+        teams.clear();
+        initTeams();
+    }
+
+    private void initTeams() {
+        teams.put(Token.Team.BLUE, new Team(Token.Team.BLUE));
+        teams.put(Token.Team.GREEN, new Team(Token.Team.GREEN));
+        teams.put(Token.Team.RED, new Team(Token.Team.RED));
+        teams.put(Token.Team.YELLOW, new Team(Token.Team.YELLOW));
     }
 
     public void reset() {
@@ -87,14 +98,16 @@ final public class DataStorage {
         return Loader.INSTANCE;
     }
 
-    public Player getPlayer(String name) {
-        return players.computeIfAbsent(name, Player::new);
-    }
-
     public Player addPlayer(String name, Token.Class clazz, Token.Team team) {
-        Player p = new Player(name, clazz, team);
-        players.put(name, p);
-        return p;
+        if (players.get(name) == null) {
+            Player p = new Player(name, clazz, team);
+            teams.get(team).addPlayer(p);
+            classes.computeIfAbsent(clazz, Klasse::new).addPlayer(p);
+            players.put(name, p);
+            return p;
+        } else {
+            return players.get(name);
+        }
     }
 
     public void setGameState(Token.GameState gameState, String time) {
@@ -134,6 +147,13 @@ final public class DataStorage {
     }
 
     public void addKill(String playerName, Kill kill) {
+        kill.getKiller().addKill(kill);
+        kill.getVictim().addKill(kill);
+        teams.get(kill.getKiller().getTeam()).addKill(kill);
+        teams.get(kill.getVictim().getTeam()).addKill(kill);
+        classes.get(kill.getKiller().getClazz()).addKill(kill);
+        classes.get(kill.getVictim().getClazz()).addKill(kill);
+
         if (this.startTime == -1) {
             this.startTime = this.convertTimestampToMillis(kill.getTimestamp());
         }
@@ -142,8 +162,6 @@ final public class DataStorage {
             this.lastLocalKillEventTime.set(System.currentTimeMillis());
             firstKill = false;
         }
-        players.get(playerName).addKillOrDeath(kill);
-        kill.getVictim().addKillOrDeath(kill);
 
         kill.setTimestampSeconds((convertTimestampToMillis(kill.getTimestamp()) - this.startTime) / 1000);
         switch (kill.getKiller().getTeam()) {
@@ -193,8 +211,21 @@ final public class DataStorage {
 
 
     private void addKill(Kill k, int blueKills, int greenKills, int redKills, int yellowKills, int blueDeaths, int greenDeaths, int redDeaths, int yellowDeaths) {
-        System.out.println("Somebody got killed.");
-        KillEvent killEvent = new KillEvent(k, blueKills, greenKills, redKills, yellowKills, blueDeaths, greenDeaths, redDeaths, yellowDeaths);
+        System.out.println(k.getLogLine());
+        Long before = System.currentTimeMillis();
+        KillEvent killEvent = new KillEvent(k,
+                classes,
+                new ArrayList<>(players.values()),
+                teams.get(Token.Team.YELLOW).getCopy(),
+                teams.get(Token.Team.RED).getCopy(),
+                teams.get(Token.Team.BLUE).getCopy(),
+                teams.get(Token.Team.GREEN).getCopy(),
+                teams.get(Token.Team.YELLOW).getEnemyRelations(),
+                teams.get(Token.Team.RED).getEnemyRelations(),
+                teams.get(Token.Team.BLUE).getEnemyRelations(),
+                teams.get(Token.Team.GREEN).getEnemyRelations());
+        Long delta = System.currentTimeMillis() - before;
+        System.out.println(delta);
         fireKillEvent(killEvent);
         updateLastActionTime(k.getTimestampSeconds());
         updateLocalLastActionTime();

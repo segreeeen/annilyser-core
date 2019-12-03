@@ -5,94 +5,144 @@ import com.nullwert.annilyser.parser.token.Token;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Team<T extends Token.Team> {
-    private Map<String, Player> players;
-    private T team;
+public class Team extends AbstractPlayerGroup {
+    private Token.Team team;
     private Set<Token.Team> enemyTeams;
 
-    public Team(T team) {
+    public Team(Token.Team team) {
+        super();
         this.team = team;
         this.enemyTeams = Token.Team.getEnemyTeams(team);
+    }
+
+    @Override
+    public void addKill(Kill k) {
+        if (k.getVictim().getTeam() != team && k.getKiller().getTeam() != team) {
+            return;
+        }
+
+        KillStats killStats = new KillStats();
+        KillStats deathStats = new KillStats();
+        
+        if (k.getKiller().getTeam() == team) {
+            logKill(k, killStats);
+        }
+
+        if (k.getVictim().getTeam() == team) {
+            logKill(k, deathStats);
+        }
+
+        this.killStats.add(killStats);
+        this.deathStats.add(deathStats);
     }
 
     public List<TeamRelation> getEnemyRelations() {
         List<TeamRelation> relations = new ArrayList<>();
 
-        List<Kill> teamkills = players.values().stream()
+        List<Kill> teamkills = players.stream()
                 .map(Player::getKills)
                 .flatMap(Collection::stream)
                 .collect(Collectors.toList());
 
-        List<Kill> teamdeaths = players.values().stream()
+        List<Kill> teamdeaths = players.stream()
                 .map(Player::getDeaths)
                 .flatMap(Collection::stream)
                 .collect(Collectors.toList());
 
         for (Token.Team enemy : enemyTeams) {
-            TeamRelation relation = new TeamRelation(enemy);
+            TeamRelation relation = new TeamRelation(this.team, enemy);
+            KillStats kills = relation.getKillStats();
+            KillStats killedBys = relation.getKilledByEnemyStats();
+
             relation.setPlayerCount(this.getPlayerCount());
 
             Long killedEnemiesTotal = teamkills.stream()
                     .filter(kill -> kill.getVictim().getTeam() == enemy).count();
-            relation.setKilledEnemiesTotal(killedEnemiesTotal);
+            kills.setTotal(killedEnemiesTotal);
             Long killedEnemiesByBow = teamkills.stream()
                     .filter(kill -> kill.getVictim().getTeam() == enemy)
                     .filter(kill -> kill.getDeathkind() == Token.Deathkind.SHOT).count();
-            relation.setKilledByEnemiesByBow(killedEnemiesByBow);
+            kills.setBow(killedEnemiesByBow);
             Long killedEnemiesMelee = teamkills.stream()
                     .filter(kill -> kill.getVictim().getTeam() == enemy)
                     .filter(kill -> kill.getDeathkind() == Token.Deathkind.KILLED).count();
-            relation.setKilledEnemiesMelee(killedEnemiesMelee);
-            Long killedEnemiesNexus = teamkills.stream()
+            kills.setMelee(killedEnemiesMelee);
+            Long killedEnemiesNexusAttack = teamkills.stream()
                     .filter(kill -> kill.getVictim().getTeam() == enemy)
                     .filter(kill -> kill.getAttackmode() == Token.Attackmode.ATTACK)
                     .count();
-            relation.setKilledEnemiesNexus(killedEnemiesNexus);
-            Long killedEnemiesByBowNexus = teamkills.stream()
+            kills.setNexusAttack(killedEnemiesNexusAttack);
+            Long killedEnemiesByBowNexusAttack = teamkills.stream()
                     .filter(kill -> kill.getVictim().getTeam() == enemy)
                     .filter(kill -> kill.getAttackmode() == Token.Attackmode.ATTACK)
                     .filter(kill -> kill.getDeathkind() == Token.Deathkind.SHOT).count();
-            relation.setKilledEnemiesByBowNexus(killedEnemiesByBowNexus);
-            Long killedEnemiesMeleeNexus = teamkills.stream()
+            kills.setBowNexusAttack(killedEnemiesByBowNexusAttack);
+            Long killedEnemiesMeleeNexusAttack = teamkills.stream()
                     .filter(kill -> kill.getVictim().getTeam() == enemy)
                     .filter(kill -> kill.getAttackmode() == Token.Attackmode.ATTACK)
                     .filter(kill -> kill.getDeathkind() == Token.Deathkind.KILLED).count();
-            relation.setKilledEnemiesMeleeNexus(killedEnemiesMeleeNexus);
+            kills.setMeleeNexusAttack(killedEnemiesMeleeNexusAttack);
+            Long killedEnemiesNexusDefense = teamkills.stream()
+                    .filter(kill -> kill.getVictim().getTeam() == enemy)
+                    .filter(kill -> kill.getAttackmode() == Token.Attackmode.DEFENSE)
+                    .count();
+            kills.setNexusDefense(killedEnemiesNexusDefense);
+            Long killedEnemiesByBowNexusDefense = teamkills.stream()
+                    .filter(kill -> kill.getVictim().getTeam() == enemy)
+                    .filter(kill -> kill.getAttackmode() == Token.Attackmode.DEFENSE)
+                    .filter(kill -> kill.getDeathkind() == Token.Deathkind.SHOT).count();
+            kills.setBowNexusDefense(killedEnemiesByBowNexusDefense);
+            Long killedEnemiesMeleeNexusDefense = teamkills.stream()
+                    .filter(kill -> kill.getVictim().getTeam() == enemy)
+                    .filter(kill -> kill.getAttackmode() == Token.Attackmode.DEFENSE)
+                    .filter(kill -> kill.getDeathkind() == Token.Deathkind.KILLED).count();
+            kills.setMeleeNexusDefense(killedEnemiesMeleeNexusDefense);
 
             Long killedByEnemiesTotal = teamdeaths.stream()
                     .filter(kill -> kill.getKiller().getTeam() == enemy).count();
-            relation.setKilledByEnemiesTotal(killedByEnemiesTotal);
+            killedBys.setTotal(killedByEnemiesTotal);
             Long killedByEnemiesByBow = teamdeaths.stream()
                     .filter(kill -> kill.getKiller().getTeam() == enemy)
                     .filter(kill -> kill.getDeathkind() == Token.Deathkind.SHOT).count();
-            relation.setKilledByEnemiesByBow(killedByEnemiesByBow);
+            killedBys.setBow(killedByEnemiesByBow);
             Long killedByEnemiesMelee = teamdeaths.stream()
                     .filter(kill -> kill.getKiller().getTeam() == enemy)
                     .filter(kill -> kill.getDeathkind() == Token.Deathkind.KILLED).count();
-            relation.setKilledByEnemiesMelee(killedByEnemiesMelee);
+            killedBys.setMelee(killedByEnemiesMelee);
 
-            Long killedByEnemiesNexus = teamdeaths.stream()
+            Long killedByEnemiesNexusAttack = teamdeaths.stream()
                     .filter(kill -> kill.getKiller().getTeam() == enemy)
                     .filter(kill -> kill.getAttackmode() == Token.Attackmode.ATTACK)
                     .count();
-            relation.setKilledByEnemiesNexus(killedByEnemiesNexus);
-            Long killedByEnemiesByBowNexus = teamdeaths.stream()
+            killedBys.setNexusAttack(killedByEnemiesNexusAttack);
+            Long killedByEnemiesByBowNexusAttack = teamdeaths.stream()
                     .filter(kill -> kill.getKiller().getTeam() == enemy)
                     .filter(kill -> kill.getAttackmode() == Token.Attackmode.ATTACK)
                     .filter(kill -> kill.getDeathkind() == Token.Deathkind.SHOT).count();
-            relation.setKilledByEnemiesByBowNexus(killedByEnemiesByBowNexus);
-            Long killedByEnemiesMeleeNexus = teamdeaths.stream()
+            killedBys.setBowNexusAttack(killedByEnemiesByBowNexusAttack);
+            Long killedByEnemiesMeleeNexusAttack = teamdeaths.stream()
                     .filter(kill -> kill.getKiller().getTeam() == enemy)
                     .filter(kill -> kill.getAttackmode() == Token.Attackmode.ATTACK)
                     .filter(kill -> kill.getDeathkind() == Token.Deathkind.KILLED).count();
-            relation.setKilledByEnemiesMeleeNexus(killedByEnemiesMeleeNexus);
+            killedBys.setMeleeNexusAttack(killedByEnemiesMeleeNexusAttack);
+            Long killedByEnemiesNexusDefense = teamdeaths.stream()
+                    .filter(kill -> kill.getKiller().getTeam() == enemy)
+                    .filter(kill -> kill.getAttackmode() == Token.Attackmode.DEFENSE)
+                    .count();
+            killedBys.setNexusDefense(killedByEnemiesNexusDefense);
+            Long killedByEnemiesByBowNexusDefense = teamdeaths.stream()
+                    .filter(kill -> kill.getKiller().getTeam() == enemy)
+                    .filter(kill -> kill.getAttackmode() == Token.Attackmode.DEFENSE)
+                    .filter(kill -> kill.getDeathkind() == Token.Deathkind.SHOT).count();
+            killedBys.setBowNexusDefense(killedByEnemiesByBowNexusDefense);
+            Long killedByEnemiesMeleeNexusDefense = teamdeaths.stream()
+                    .filter(kill -> kill.getKiller().getTeam() == enemy)
+                    .filter(kill -> kill.getAttackmode() == Token.Attackmode.DEFENSE)
+                    .filter(kill -> kill.getDeathkind() == Token.Deathkind.KILLED).count();
+            killedBys.setMeleeNexusDefense(killedByEnemiesMeleeNexusDefense);
             relations.add(relation);
         }
         return relations;
-    }
-
-    public int getPlayerCount() {
-        return players.size();
     }
 
 

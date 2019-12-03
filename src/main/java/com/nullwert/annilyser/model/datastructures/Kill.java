@@ -11,13 +11,17 @@ public class Kill {
     private final Token.Attackmode attackmode;
     private final Token.Deathkind deathkind;
 
-    public Kill(boolean honourable, Player victim,  Player killer, String timestamp, Token.Attackmode attackmode, Token.Deathkind deathkind) {
+
+    private final String logLine;
+
+    public Kill(boolean honourable, Player victim,  Player killer, String timestamp, Token.Attackmode attackmode, Token.Deathkind deathkind, String logLine) {
         this.victim = victim;
         this.timestamp = timestamp;
         this.attackmode = attackmode;
         this.deathkind = deathkind;
         this.honourable = honourable;
         this.killer = killer;
+        this.logLine = logLine;
     }
 
     public String getTimestamp() {
@@ -50,6 +54,10 @@ public class Kill {
 
     public Token.Deathkind getDeathkind() {
         return deathkind;
+    }
+
+    public String getLogLine() {
+        return logLine;
     }
 
     @Override

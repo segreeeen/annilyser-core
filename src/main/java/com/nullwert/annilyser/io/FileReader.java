@@ -21,7 +21,7 @@ public class FileReader {
     private final BlockingQueue<String> doneLines = new ArrayBlockingQueue<String>(4096);
     private LineSplitterRunnable splitter;
     private ScheduledExecutorService schedExec = Executors.newSingleThreadScheduledExecutor();
-    private ExecutorService exec = Executors.newSingleThreadExecutor();
+    private ExecutorService exec = Executors.newCachedThreadPool();
     private boolean realtime;
 
     public FileReader(String path, boolean realtime) {
@@ -50,8 +50,8 @@ public class FileReader {
         } else {
             NonRealtimeReader nonRealtimeReader = new NonRealtimeReader();
             splitter = new LineSplitterRunnable();
-            exec.submit(nonRealtimeReader);
-            exec.submit(splitter);
+            exec.execute(nonRealtimeReader);
+            exec.execute(splitter);
         }
     }
 
@@ -139,7 +139,14 @@ public class FileReader {
         public void run() {
             try {
                 Stream<String> lines = Files.lines(Paths.get(path), Charset.forName("UTF-8"));
-                lines.forEach(s -> rawLines.offer(s));
+                lines.forEach(s -> {
+                    rawLines.offer(s);
+                    try {
+                        Thread.sleep(50);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                });
             } catch (IOException e) {
                 e.printStackTrace();
             }
