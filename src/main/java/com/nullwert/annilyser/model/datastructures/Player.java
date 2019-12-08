@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.stream.Collectors;
 
-public class Player extends AbstractPlayerGroup{
+public class Player extends AbstractPlayerGroup {
     private final String name;
     private Token.Class clazz;
     private Token.Team team;
@@ -15,11 +15,13 @@ public class Player extends AbstractPlayerGroup{
     KillStats deathStats = new KillStats();
 
     public Player(String name){
+        super(Kind.PLAYER);
         this.name = name;
         this.killsDeaths = new CopyOnWriteArrayList<>();
     }
 
     public Player(String name, Token.Class clazz, Token.Team team) {
+        super(Kind.PLAYER);
         this.name = name;
         this.clazz = clazz;
         this.team = team;

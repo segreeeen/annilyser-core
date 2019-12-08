@@ -1,6 +1,9 @@
 package com.nullwert.annilyser.model.datastructures;
 
 public interface IStatistics {
+    public Kind getKind();
+
+    public String getName();
 
     public KillStats getTotalKillstats();
 

@@ -31,7 +31,7 @@ public class Parser implements Runnable {
 
     public static void main(String[] args) {
         ExecutorService exec = Executors.newCachedThreadPool();
-        Parser p = new Parser("C:\\Users\\Torin\\Documents\\git\\annilyser\\annilyser-core\\src\\main\\java\\com\\nullwert\\annilyser\\logsim\\testlog.txt", false);
+        Parser p = new Parser("F:\\git\\annilyserV2\\annilyser-core\\src\\main\\java\\com\\nullwert\\annilyser\\logsim\\testlog.txt", false);
         exec.submit(p);
     }
 

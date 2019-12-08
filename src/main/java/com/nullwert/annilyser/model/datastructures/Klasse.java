@@ -6,6 +6,7 @@ public class Klasse extends AbstractPlayerGroup {
     private Token.Class klasse;
 
     public Klasse(Token.Class klasse) {
+        super(Kind.CLASS);
         this.klasse = klasse;
     }
 
@@ -27,4 +28,8 @@ public class Klasse extends AbstractPlayerGroup {
         deathStats.add(deaths);
     }
 
+    @Override
+    public String getName() {
+        return this.klasse.className;
+    }
 }

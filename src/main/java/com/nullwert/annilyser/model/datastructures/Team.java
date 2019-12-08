@@ -10,7 +10,7 @@ public class Team extends AbstractPlayerGroup {
     private Set<Token.Team> enemyTeams;
 
     public Team(Token.Team team) {
-        super();
+        super(Kind.TEAM);
         this.team = team;
         this.enemyTeams = Token.Team.getEnemyTeams(team);
     }
@@ -146,4 +146,8 @@ public class Team extends AbstractPlayerGroup {
     }
 
 
+    @Override
+    public String getName() {
+        return this.team.toString();
+    }
 }

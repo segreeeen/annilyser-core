@@ -13,10 +13,13 @@ public abstract class AbstractPlayerGroup implements IPlayerGroup, IStatistics {
     protected KillStats killStats;
     protected KillStats deathStats;
 
-    public AbstractPlayerGroup() {
+    protected final Kind kind;
+
+    public AbstractPlayerGroup(Kind kind) {
         this.killStats = new KillStats();
         this.deathStats = new KillStats();
         this.players = new ArrayList<>();
+        this.kind = kind;
     }
 
 
@@ -102,6 +105,10 @@ public abstract class AbstractPlayerGroup implements IPlayerGroup, IStatistics {
     public IStatistics getCopy() {
         KillStats copyKills = new KillStats().add(killStats);
         KillStats copyDeaths = new KillStats().add(killStats);
-        return new ImmutableGroupStats(copyKills, copyDeaths, players.size());
+        return new ImmutableGroupStats(kind, getName(), copyKills, copyDeaths, players.size());
+    }
+
+    public Kind getKind() {
+        return kind;
     }
 }
