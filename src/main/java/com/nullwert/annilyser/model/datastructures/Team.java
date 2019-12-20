@@ -5,12 +5,12 @@ import com.nullwert.annilyser.parser.token.Token;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Team extends AbstractPlayerGroup {
+public class Team extends AbstractPlayerGroup implements IRelatable<TeamRelation>{
     private Token.Team team;
     private Set<Token.Team> enemyTeams;
 
     public Team(Token.Team team) {
-        super(Kind.TEAM);
+        super(Kind.TEAM, team.toString().substring(0, 1) + team.toString().substring(1).toLowerCase(), team.toString().toLowerCase());
         this.team = team;
         this.enemyTeams = Token.Team.getEnemyTeams(team);
     }
@@ -36,8 +36,8 @@ public class Team extends AbstractPlayerGroup {
         this.deathStats.add(deathStats);
     }
 
-    public List<TeamRelation> getEnemyRelations() {
-        List<TeamRelation> relations = new ArrayList<>();
+    public List<IRelation> getRelations() {
+        List<IRelation> relations = new ArrayList<>();
 
         List<Kill> teamkills = players.stream()
                 .map(Player::getKills)
@@ -143,11 +143,5 @@ public class Team extends AbstractPlayerGroup {
             relations.add(relation);
         }
         return relations;
-    }
-
-
-    @Override
-    public String getName() {
-        return this.team.toString();
     }
 }

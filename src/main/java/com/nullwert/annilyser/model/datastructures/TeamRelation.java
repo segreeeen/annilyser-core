@@ -2,7 +2,8 @@ package com.nullwert.annilyser.model.datastructures;
 
 import com.nullwert.annilyser.parser.token.Token;
 
-public class TeamRelation {
+
+public class TeamRelation implements IRelation<Token.Team> {
     private Token.Team team;
     private Token.Team enemy;
     private long playerCount;
@@ -49,8 +50,6 @@ public class TeamRelation {
     public void setKillStats(KillStats killStats) {
         this.killStats = killStats;
     }
-
-
 
     public void setKilledByEnemyStats(KillStats killedByEnemyStats) {
         this.killedByEnemyStats = killedByEnemyStats;

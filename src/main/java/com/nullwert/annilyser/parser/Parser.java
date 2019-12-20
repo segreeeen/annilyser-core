@@ -1,6 +1,7 @@
 package com.nullwert.annilyser.parser;
 
 import com.nullwert.annilyser.io.FileReader;
+import com.nullwert.annilyser.logsim.LogSimulator;
 import com.nullwert.annilyser.model.DataStorage;
 import com.nullwert.annilyser.model.datastructures.Kill;
 import com.nullwert.annilyser.model.datastructures.Player;
@@ -9,6 +10,8 @@ import com.nullwert.annilyser.model.listener.KillListener;
 import com.nullwert.annilyser.model.listener.NexusListener;
 import com.nullwert.annilyser.model.listener.PhaseChangeListener;
 import com.nullwert.annilyser.parser.token.Token;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.*;
 import java.util.concurrent.*;
@@ -27,17 +30,17 @@ public class Parser implements Runnable {
     private String nexusTeam;
     private long clockCount = -1;
     private AtomicInteger dayCount = new AtomicInteger(1);
+    Logger logger = LoggerFactory.getLogger(Parser.class);
 
 
     public static void main(String[] args) {
         ExecutorService exec = Executors.newCachedThreadPool();
-        Parser p = new Parser("F:\\git\\annilyserV2\\annilyser-core\\src\\main\\java\\com\\nullwert\\annilyser\\logsim\\testlog.txt", false);
+        Parser p = new Parser("C:\\Users\\Torin\\Documents\\git\\annilyser\\annilyser-core\\src\\main\\java\\com\\nullwert\\annilyser\\logsim\\testlog.txt", true);
         exec.submit(p);
     }
 
     /**
      * @param file
-     * @param realtime filereader reads log every x ms when true, reads log line by line when false
      */
     public Parser(String file, boolean realtime) {
         this.regEx = new ParserRegEx();
@@ -46,16 +49,16 @@ public class Parser implements Runnable {
     }
 
     public void run() {
-        System.out.println("Started parser.");
+        logger.info("Started parser");
         this.reader.start();
-        System.out.println("Started reader.");
+        logger.info("Started reader.");
         while (running) {
             String s = null;
             try {
                 s = this.lines.take();
                 parse(s);
             } catch (InterruptedException e) {
-                System.out.println("Shutting down parser.");
+                logger.info("Shutting down parser.");
             }
         }
     }

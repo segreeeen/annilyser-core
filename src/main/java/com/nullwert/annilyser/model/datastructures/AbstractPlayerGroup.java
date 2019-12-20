@@ -1,25 +1,24 @@
 package com.nullwert.annilyser.model.datastructures;
 
-import com.nullwert.annilyser.parser.token.Token;
-
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
 
-public abstract class AbstractPlayerGroup implements IPlayerGroup, IStatistics {
+public abstract class AbstractPlayerGroup implements IPlayerGroup, IStatistic {
     protected List<Player> players;
     protected KillStats killStats;
     protected KillStats deathStats;
+    private final String name;
+    private final String group;
 
     protected final Kind kind;
 
-    public AbstractPlayerGroup(Kind kind) {
+    public AbstractPlayerGroup(Kind kind, String name, String group) {
         this.killStats = new KillStats();
         this.deathStats = new KillStats();
         this.players = new ArrayList<>();
         this.kind = kind;
+        this.name = name;
+        this.group = group;
     }
 
 
@@ -78,11 +77,11 @@ public abstract class AbstractPlayerGroup implements IPlayerGroup, IStatistics {
         }
     }
 
-    public KillStats getTotalKillstats() {
+    public KillStats getAbsoluteKillstats() {
         return this.killStats;
     }
 
-    public KillStats getTotalDeathstats() {
+    public KillStats getAbsoluteDeathstats() {
         return this.deathStats;
     }
 
@@ -102,13 +101,26 @@ public abstract class AbstractPlayerGroup implements IPlayerGroup, IStatistics {
         this.players.add(p);
     }
 
-    public IStatistics getCopy() {
+    public IStatistic getCopy() {
         KillStats copyKills = new KillStats().add(killStats);
-        KillStats copyDeaths = new KillStats().add(killStats);
-        return new ImmutableGroupStats(kind, getName(), copyKills, copyDeaths, players.size());
+        KillStats copyDeaths = new KillStats().add(deathStats);
+        if (getRelations() != null) {
+            return new ImmutableGroupStats(kind, getName(), copyKills, copyDeaths, players.size(), this.group, getRelations());
+        } else {
+            return new ImmutableGroupStats(kind, getName(), copyKills, copyDeaths, players.size(), this.group);
+        }
     }
 
     public Kind getKind() {
         return kind;
+    }
+
+    public String getName() {
+        return this.name;
+    }
+
+    @Override
+    public String getGroup() {
+        return this.group;
     }
 }

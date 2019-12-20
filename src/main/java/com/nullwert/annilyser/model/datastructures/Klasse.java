@@ -2,11 +2,13 @@ package com.nullwert.annilyser.model.datastructures;
 
 import com.nullwert.annilyser.parser.token.Token;
 
+import java.util.List;
+
 public class Klasse extends AbstractPlayerGroup {
     private Token.Class klasse;
 
     public Klasse(Token.Class klasse) {
-        super(Kind.CLASS);
+        super(Kind.CLASS, klasse.className, klasse.className.toLowerCase());
         this.klasse = klasse;
     }
 
@@ -29,7 +31,7 @@ public class Klasse extends AbstractPlayerGroup {
     }
 
     @Override
-    public String getName() {
-        return this.klasse.className;
+    public List<IRelation> getRelations() {
+        return null;
     }
 }

@@ -2,7 +2,7 @@ package com.nullwert.annilyser.model.datastructures;
 
 import java.util.concurrent.atomic.AtomicLong;
 
-public class KillStats {
+public class KillStats implements IKillDeathStats{
     private AtomicLong total = new AtomicLong(0);
     private AtomicLong bow = new AtomicLong(0);
     private AtomicLong melee = new AtomicLong(0);

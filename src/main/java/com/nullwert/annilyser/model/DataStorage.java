@@ -3,7 +3,10 @@ package com.nullwert.annilyser.model;
 import com.nullwert.annilyser.model.datastructures.*;
 import com.nullwert.annilyser.model.listener.*;
 import com.nullwert.annilyser.model.listener.events.*;
+import com.nullwert.annilyser.parser.Parser;
 import com.nullwert.annilyser.parser.token.Token;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -24,15 +27,6 @@ final public class DataStorage {
     private List<KillListener> killListeners;
     private List<DataListener> deathListeners;
     private List<NexusListener> nexusListeners;
-    private AtomicInteger blueKills;
-    private AtomicInteger greenKills;
-    private AtomicInteger redKills;
-    private AtomicInteger yellowKills;
-    private AtomicInteger blueDeaths;
-    private AtomicInteger greenDeaths;
-    private AtomicInteger redDeaths;
-    private AtomicInteger yellowDeaths;
-    private AtomicInteger totalKills;
     private long startTime;
     private Semaphore timeLock = new Semaphore(1);
     private Semaphore localTimeLock = new Semaphore(1);
@@ -41,6 +35,9 @@ final public class DataStorage {
     private boolean firstKill;
     private Map<Token.Team, Team> teams;
     private Map<Token.Class, Klasse> classes;
+    private List<Kill> totalKills;
+
+    Logger logger = LoggerFactory.getLogger(Parser.class);
 
     private static class Loader {
         static final DataStorage INSTANCE = new DataStorage();
@@ -64,15 +61,7 @@ final public class DataStorage {
         this.nexuses.put(Token.Team.GREEN, new Nexus(Token.Team.GREEN));
         this.nexuses.put(Token.Team.RED, new Nexus(Token.Team.RED));
         this.nexuses.put(Token.Team.YELLOW, new Nexus(Token.Team.YELLOW));
-        this.blueKills = new AtomicInteger();
-        this.greenKills = new AtomicInteger();
-        this.redKills = new AtomicInteger();
-        this.yellowKills = new AtomicInteger();
-        this.blueDeaths = new AtomicInteger();
-        this.greenDeaths = new AtomicInteger();
-        this.redDeaths = new AtomicInteger();
-        this.yellowDeaths = new AtomicInteger();
-        this.totalKills = new AtomicInteger();
+        this.totalKills = new ArrayList<>();
         this.gameState = Token.GameState.IDLE;
         this.phase = Token.Phase.ONE;
         this.startTime = -1;
@@ -124,7 +113,7 @@ final public class DataStorage {
                 reset();
                 this.startTime = this.convertTimestampToMillis(time);
 
-                System.out.println(this.startTime);
+                logger.info("The game has started at: {} ", time);
             } else if (gameState == Token.GameState.DONE) {
                 this.startTime = -1;
             }
@@ -147,6 +136,7 @@ final public class DataStorage {
     }
 
     public void addKill(String playerName, Kill kill) {
+        this.totalKills.add(kill);
         kill.getKiller().addKill(kill);
         kill.getVictim().addKill(kill);
         teams.get(kill.getKiller().getTeam()).addKill(kill);
@@ -164,70 +154,17 @@ final public class DataStorage {
         }
 
         kill.setTimestampSeconds((convertTimestampToMillis(kill.getTimestamp()) - this.startTime) / 1000);
-        switch (kill.getKiller().getTeam()) {
-            case BLUE:
-                blueKills.incrementAndGet();
-                blueDeaths.get();
-                break;
-            case GREEN:
-                greenKills.incrementAndGet();
-                greenDeaths.get();
-                break;
-            case RED:
-                redKills.incrementAndGet();
-                redDeaths.get();
-                break;
-            case YELLOW:
-                yellowKills.incrementAndGet();
-                yellowDeaths.get();
-                break;
-            default:
-                break;
-        }
 
-        switch (kill.getVictim().getTeam()) {
-            case BLUE:
-                blueKills.get();
-                blueDeaths.incrementAndGet();
-                break;
-            case GREEN:
-                greenKills.get();
-                greenDeaths.incrementAndGet();
-                break;
-            case RED:
-                redKills.get();
-                redDeaths.incrementAndGet();
-                break;
-            case YELLOW:
-                yellowKills.get();
-                yellowDeaths.incrementAndGet();
-                break;
-            default:
-                break;
-        }
-
-        addKill(kill, blueKills.get(), greenKills.get(), redKills.get(), yellowKills.get(), blueDeaths.get(), greenDeaths.get(), redDeaths.get(), yellowDeaths.get());
-    }
-
-
-    private void addKill(Kill k, int blueKills, int greenKills, int redKills, int yellowKills, int blueDeaths, int greenDeaths, int redDeaths, int yellowDeaths) {
-        System.out.println(k.getLogLine());
+        logger.info("Killer: {}, Killerteam: {}, Killerclass: {}", kill.getKiller().getName(), kill.getKiller().getTeam(), kill.getKiller().getClazz());
+        logger.info("Victim: {}, Victimteam: {}, Victimclass: {}", kill.getVictim().getName(), kill.getVictim().getTeam(), kill.getVictim().getClazz());
         Long before = System.currentTimeMillis();
-        KillEvent killEvent = new KillEvent(k,
+        KillEvent killEvent = new KillEvent(kill,
                 classes,
                 new ArrayList<>(players.values()),
-                teams.get(Token.Team.YELLOW).getCopy(),
-                teams.get(Token.Team.RED).getCopy(),
-                teams.get(Token.Team.BLUE).getCopy(),
-                teams.get(Token.Team.GREEN).getCopy(),
-                teams.get(Token.Team.YELLOW).getEnemyRelations(),
-                teams.get(Token.Team.RED).getEnemyRelations(),
-                teams.get(Token.Team.BLUE).getEnemyRelations(),
-                teams.get(Token.Team.GREEN).getEnemyRelations());
+                new ArrayList<>(teams.values()));
         Long delta = System.currentTimeMillis() - before;
-        System.out.println(delta);
         fireKillEvent(killEvent);
-        updateLastActionTime(k.getTimestampSeconds());
+        updateLastActionTime(kill.getTimestampSeconds());
         updateLocalLastActionTime();
     }
 

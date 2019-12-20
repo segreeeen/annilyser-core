@@ -1,5 +1,9 @@
 package com.nullwert.annilyser.io;
 
+import com.nullwert.annilyser.logsim.LogSimulator;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import javax.sound.sampled.Line;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -23,6 +27,8 @@ public class FileReader {
     private ScheduledExecutorService schedExec = Executors.newSingleThreadScheduledExecutor();
     private ExecutorService exec = Executors.newCachedThreadPool();
     private boolean realtime;
+    Logger logger = LoggerFactory.getLogger(LogSimulator.class);
+
 
     public FileReader(String path, boolean realtime) {
         this.path = path;
@@ -43,8 +49,8 @@ public class FileReader {
 
     public void start() {
         if (realtime) {
-            schedExec.scheduleAtFixedRate(new ReadLatestRunnable(), 1, 1, TimeUnit.MILLISECONDS);
-            System.out.println("Started reader thread.");
+            schedExec.scheduleAtFixedRate(new ReadLatestRunnable(), 1, 400, TimeUnit.MILLISECONDS);
+            logger.info("Started reader thread.");
             splitter = new LineSplitterRunnable();
             exec.submit(splitter);
         } else {

@@ -11,17 +11,9 @@ public class Player extends AbstractPlayerGroup {
     private Token.Class clazz;
     private Token.Team team;
     private final CopyOnWriteArrayList<Kill> killsDeaths;
-    KillStats killStats = new KillStats();
-    KillStats deathStats = new KillStats();
-
-    public Player(String name){
-        super(Kind.PLAYER);
-        this.name = name;
-        this.killsDeaths = new CopyOnWriteArrayList<>();
-    }
 
     public Player(String name, Token.Class clazz, Token.Team team) {
-        super(Kind.PLAYER);
+        super(Kind.PLAYER, name, team.toString().toLowerCase());
         this.name = name;
         this.clazz = clazz;
         this.team = team;
@@ -30,6 +22,16 @@ public class Player extends AbstractPlayerGroup {
 
     public String getName() {
         return name;
+    }
+
+    @Override
+    public String getGroup() {
+        return this.team.toString().toLowerCase();
+    }
+
+    @Override
+    public List<IRelation> getRelations() {
+        return null;
     }
 
     public Token.Class getClazz() {
@@ -42,13 +44,20 @@ public class Player extends AbstractPlayerGroup {
 
     public void addKill(Kill k) {
         killsDeaths.add(k);
+
+        KillStats kills = new KillStats();
+        KillStats deaths = new KillStats();
+
         if (k.getKiller() == this) {
-            logKill(k, killStats);
+            logKill(k, kills);
         }
 
         if (k.getVictim() == this) {
-            logKill(k, deathStats);
+            logKill(k, deaths);
         }
+
+        killStats.add(kills);
+        deathStats.add(deaths);
     }
 
     public List<Kill> getKills() {

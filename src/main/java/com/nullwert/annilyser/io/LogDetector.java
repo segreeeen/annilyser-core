@@ -2,13 +2,10 @@ package com.nullwert.annilyser.io;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Optional;
 
 public class LogDetector {
-    public static void main(String[] args) {
-        System.out.println(getLogPath());
-    }
-
-    public static Path getLogPath() {
+    public static Optional<Path> getLogPath() {
         String workingDirectory = null;
         String osName = System.getProperty("os.name");
         String osNameMatch = osName.toLowerCase();
@@ -23,7 +20,9 @@ public class LogDetector {
         }
         Path p = Paths.get(workingDirectory);
         if (p.toFile().exists()) {
-            return p;
-        } else return null;
+            return Optional.of(p);
+        }
+
+        return Optional.empty();
     }
 }
