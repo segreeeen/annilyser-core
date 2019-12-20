@@ -2,3 +2,11 @@ language: java
 
 script:
     - ./gradlew clean build publishToMavenLocal
+    
+deploy:
+    provider: bintray
+    file: "./.bintray-descriptor"
+    user: "SeGreeeen"
+    key: "e16da2839e3deb510f3dcd051acdaf65f4a7e11d"
+    skip_cleanup: true # to upload artifacts created during the build
+    
