@@ -1,10 +1,13 @@
+import java.text.SimpleDateFormat
+
 plugins {
     id "com.jfrog.bintray" version "1.8.4"
+    id "com.jfrog.artifactory" version "4.5.4"
 }
 def core_version = '0.0.1'
 
 group 'com.nullwert.annilyser'
-version core_version
+version core_version + (Boolean.valueOf(System.getProperty("snapshot")) ? "-SNAPSHOT" : "")
 
 apply plugin: 'java-library'
 apply plugin: 'maven-publish'
@@ -18,10 +21,28 @@ repositories {
 
 jar {
     archiveFileName = 'annilyser-core'
-    version = core_version
+    version = version
 }
 
-
+artifactory {
+    contextUrl = 'http://oss.jfrog.org'
+    publish {
+        repository {
+            repoKey = 'oss-snapshot-local'
+            username = System.getenv('BINTRAY_USER')
+            password = System.getenv('BINTRAY_KEY')
+        }
+        defaults {
+            publications('MyPublication')
+            publishArtifacts = true
+            publishPom = true
+        }
+    }
+    resolve {
+        repoKey = 'jcenter'
+    }
+    clientConfig.info.setBuildNumber(new SimpleDateFormat("DDmmyyhhmmss").format(new Date()))
+}
 
 bintray {
     user = System.getenv('BINTRAY_USER')
@@ -36,7 +57,7 @@ bintray {
         licenses = ['Apache-2.0']
         vcsUrl = 'https://github.com/annilyser-core.git'
         version {
-            name = core_version
+            name = version
         }
     }
 }
@@ -98,7 +119,7 @@ publishing {
             artifact sourcesJar
             groupId 'com.nullwert.annilyser'
             artifactId 'annilyser-core'
-            version core_version
+            version version
             pom.withXml {
                 def root = asNode()
                 root.appendNode('description', 'Annilyser-Core for parsing Shotbow Annihilation Gamelogs.')
