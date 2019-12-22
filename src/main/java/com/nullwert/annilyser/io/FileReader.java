@@ -52,7 +52,7 @@ public class FileReader {
             schedExec.scheduleAtFixedRate(new ReadLatestRunnable(), 1, 400, TimeUnit.MILLISECONDS);
             logger.info("Started reader thread.");
             splitter = new LineSplitterRunnable();
-            exec.submit(splitter);
+            exec.execute(splitter);
         } else {
             NonRealtimeReader nonRealtimeReader = new NonRealtimeReader();
             splitter = new LineSplitterRunnable();
