@@ -49,9 +49,10 @@ public class FileReader {
 
     public void start() {
         if (realtime) {
-            schedExec.scheduleAtFixedRate(new ReadLatestRunnable(), 1, 400, TimeUnit.MILLISECONDS);
+            ReadLatestRunnable reader = new ReadLatestRunnable();
             logger.info("Started reader thread.");
             splitter = new LineSplitterRunnable();
+            exec.execute(reader);
             exec.execute(splitter);
         } else {
             NonRealtimeReader nonRealtimeReader = new NonRealtimeReader();
@@ -83,6 +84,7 @@ public class FileReader {
                         }
                     }
                 } catch (InterruptedException e) {
+                    logger.error("", e);
                 }
             }
         }
@@ -95,17 +97,25 @@ public class FileReader {
     }
 
     private class ReadLatestRunnable implements Runnable {
-
+        boolean running = true;
         @Override
         public void run() {
+            while (running) {
+                try {
+                    Thread.sleep(700);
+                    String lines = readLatest();
+                    if (lines != null) {
+                        rawLines.offer(lines);
+                    }
+                } catch (InterruptedException e) {
+                    logger.error("",e);
+                }
 
-            String lines = readLatest();
-            if (lines != null) {
-                rawLines.offer(lines);
             }
         }
 
         private String readLatest() {
+
             try {
                 RandomAccessFile aFile = new RandomAccessFile(path, "r");
                 FileChannel inChannel = aFile.getChannel();
@@ -131,11 +141,16 @@ public class FileReader {
 
                 return retval;
             } catch (FileNotFoundException e) {
-                e.printStackTrace();
+                logger.error("", e);
             } catch (IOException e) {
-                e.printStackTrace();
+                logger.error("", e);
             }
             return null;
+        }
+
+        private void stop() {
+            running = false;
+            Thread.currentThread().interrupt();
         }
     }
 
@@ -150,11 +165,11 @@ public class FileReader {
                     try {
                         Thread.sleep(50);
                     } catch (InterruptedException e) {
-                        e.printStackTrace();
+                        logger.error("", e);
                     }
                 });
             } catch (IOException e) {
-                e.printStackTrace();
+                logger.error("", e);
             }
         }
 
