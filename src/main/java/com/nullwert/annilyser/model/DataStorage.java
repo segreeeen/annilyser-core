@@ -174,7 +174,7 @@ final public class DataStorage {
             this.lastKillEventTime.set(actionTime);
             timeLock.release();
         } catch (InterruptedException e) {
-            e.printStackTrace();
+            logger.error("", e);
         }
     }
 
@@ -186,7 +186,7 @@ final public class DataStorage {
             timeLock.release();
             return time;
         } catch (InterruptedException e) {
-            e.printStackTrace();
+            logger.error("", e);
             return -1;
         }
     }
@@ -197,7 +197,7 @@ final public class DataStorage {
             this.lastLocalKillEventTime.set(System.currentTimeMillis());
             timeLock.release();
         } catch (InterruptedException e) {
-            e.printStackTrace();
+            logger.error("", e);
         }
     }
 
@@ -209,7 +209,7 @@ final public class DataStorage {
             timeLock.release();
             return time;
         } catch (InterruptedException e) {
-            e.printStackTrace();
+            logger.error("", e);
             return -1;
         }
     }
@@ -273,7 +273,7 @@ final public class DataStorage {
         try {
             date = simpleDateFormatHour.parse(timeStamp);
         } catch (ParseException e) {
-            e.printStackTrace();
+            logger.error("", e);
         }
         return date.getTime();
     }
