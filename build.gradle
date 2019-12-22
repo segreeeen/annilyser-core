@@ -2,7 +2,7 @@ import java.text.SimpleDateFormat
 
 plugins {
     id "com.jfrog.bintray" version "1.8.4"
-    id "com.jfrog.artifactory" version "4.5.4"
+    id "com.jfrog.artifactory" version "4.7.3"
 }
 def core_version = '0.0.1'
 
