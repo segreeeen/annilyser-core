@@ -1,9 +1,10 @@
 plugins {
     id "com.jfrog.bintray" version "1.8.4"
 }
+def core_version = '0.0.1'
 
 group 'com.nullwert.annilyser'
-version '1.0-SNAPSHOT'
+version core_version
 
 apply plugin: 'java-library'
 apply plugin: 'maven-publish'
@@ -17,13 +18,17 @@ repositories {
 
 jar {
     archiveFileName = 'annilyser-core'
-    version = '0.0.1-SNAPSHOT'
+    version = core_version
 }
+
+
 
 bintray {
     user = System.getenv('BINTRAY_USER')
     key = System.getenv('BINTRAY_KEY')
     publications = ['MyPublication']
+    publish = true
+    override = true
     pkg {
         repo = 'maven'
         name = 'annilyser-core'
@@ -31,7 +36,7 @@ bintray {
         licenses = ['Apache-2.0']
         vcsUrl = 'https://github.com/annilyser-core.git'
         version {
-            name = '0.0.1'
+            name = core_version
         }
     }
 }
@@ -93,7 +98,7 @@ publishing {
             artifact sourcesJar
             groupId 'com.nullwert.annilyser'
             artifactId 'annilyser-core'
-            version '0.0.1'
+            version core_version
             pom.withXml {
                 def root = asNode()
                 root.appendNode('description', 'Annilyser-Core for parsing Shotbow Annihilation Gamelogs.')
