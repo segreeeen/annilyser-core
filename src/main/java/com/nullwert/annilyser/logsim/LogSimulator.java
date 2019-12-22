@@ -96,7 +96,18 @@ public class LogSimulator {
         }
 
         private long getTimeDifference(String first, String second) {
-            return getTimestampAsMilliSeconds(second) - getTimestampAsMilliSeconds(first);
+            long secondTime = getTimestampAsMilliSeconds(second);
+            long firsttime = getTimestampAsMilliSeconds(first);
+            if (secondTime <= firsttime) {
+                return 0;
+            } else {
+                long time = secondTime - firsttime;
+                if (time > 10000) {
+                    return 10000;
+                }
+
+                return time;
+            }
         }
 
         private long getTimestampAsMilliSeconds(String line) {
@@ -106,8 +117,7 @@ public class LogSimulator {
                 arr[0] = arr[0].substring(1);
                 arr[2] = arr[2].substring(0, 2);
                 int h = Integer.parseInt(arr[0]), m = Integer.parseInt(arr[1]), s = Integer.parseInt(arr[2]);
-                long stamp = (h * 3600 + m * 60 + s) * 1000;
-                return stamp;
+                return (h * 3600 + m * 60 + s) * 1000;
             } catch (Exception e) {
                 return 0;
             }
