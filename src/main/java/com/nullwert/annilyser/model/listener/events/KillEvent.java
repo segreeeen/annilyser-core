@@ -10,6 +10,30 @@ import java.util.stream.Collectors;
 public class KillEvent implements DataEvent<Kill> {
 
     private final Kill value;
+    private final List<Kill> totalKills;
+    private final List<IStatistic> teams;
+    private final List<IStatistic> players;
+    private List<IStatistic> klassen;
+
+    public KillEvent(Kill value,
+                     Map<Token.Class, Klasse> klassen,
+                     List<IStatistic> players,
+                     List<IStatistic> teams,
+                     List<Kill> totalKills) {
+        this.players = players;
+        this.value = value;
+        this.teams = teams;
+        this.totalKills = totalKills;
+        copyKlassen(klassen);
+    }
+
+    private void copyKlassen(Map<Token.Class, Klasse> klassen) {
+        this.klassen = klassen.values().stream().map(Klasse::getCopy).collect(Collectors.toList());
+    }
+
+    public List<Kill> getTotalKills() {
+        return totalKills;
+    }
 
     public List<IStatistic> getTeams() {
         return teams;
@@ -23,26 +47,9 @@ public class KillEvent implements DataEvent<Kill> {
         return klassen;
     }
 
-    private final List<IStatistic> teams;
-    private final List<IStatistic> players;
-    private List<IStatistic> klassen;
-
     @Override
     public Kill getValue() {
         return value;
     }
 
-    public KillEvent(Kill value,
-                     Map<Token.Class, Klasse> klassen,
-                     List<IStatistic> players,
-                     List<IStatistic> teams) {
-        this.players = players;
-        this.value = value;
-        this.teams = teams;
-        copyKlassen(klassen);
-    }
-
-    private void copyKlassen(Map<Token.Class, Klasse> klassen) {
-        this.klassen = klassen.values().stream().map(Klasse::getCopy).collect(Collectors.toList());
-    }
 }

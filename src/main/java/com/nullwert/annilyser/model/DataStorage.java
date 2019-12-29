@@ -10,10 +10,12 @@ import org.slf4j.LoggerFactory;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.time.chrono.IsoChronology;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicLong;
+import java.util.stream.Collectors;
 
 final public class DataStorage {
 
@@ -160,8 +162,9 @@ final public class DataStorage {
         Long before = System.currentTimeMillis();
         KillEvent killEvent = new KillEvent(kill,
                 classes,
-                new ArrayList<>(players.values()),
-                new ArrayList<>(teams.values()));
+                players.values().stream().map(Player::getCopy).collect(Collectors.toList()),
+                teams.values().stream().map(Team::getCopy).collect(Collectors.toList()),
+                new ArrayList<>(totalKills));
         Long delta = System.currentTimeMillis() - before;
         fireKillEvent(killEvent);
         updateLastActionTime(kill.getTimestampSeconds());
