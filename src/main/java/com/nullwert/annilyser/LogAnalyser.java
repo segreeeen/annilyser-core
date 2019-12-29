@@ -23,14 +23,11 @@ public class LogAnalyser {
     private String fileOut;
 
     public LogAnalyser(String fileIn, String fileOut) {
-
         if(fileOut == null || "".equals(fileOut)) {
             LogDetector.getLogPath().ifPresent(path -> setFileOut(path.toString()));
         }
 
         this.fileIn = fileIn;
-        this.fileOut = fileOut;
-
     }
 
     public static boolean isPathDetected() {
