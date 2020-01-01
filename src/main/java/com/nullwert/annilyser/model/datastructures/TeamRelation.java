@@ -54,4 +54,12 @@ public class TeamRelation implements IRelation<Token.Team> {
     public void setKilledByEnemyStats(KillStats killedByEnemyStats) {
         this.killedByEnemyStats = killedByEnemyStats;
     }
+
+    public Token.Team getTeam() {
+        return team;
+    }
+
+    public void setTeam(Token.Team team) {
+        this.team = team;
+    }
 }
