@@ -27,17 +27,17 @@ public class TeamRelation implements IRelation<Token.Team>, IStatistic {
 
     @Override
     public Kind getKind() {
-        return null;
+        return Kind.TEAM_RELATION;
     }
 
     @Override
     public String getName() {
-        return null;
+        return team.name();
     }
 
     @Override
     public String getGroup() {
-        return null;
+        return team.name();
     }
 
     @Override
