@@ -11,14 +11,14 @@ public class KillEvent implements DataEvent<Kill> {
 
     private final Kill value;
     private final List<Kill> totalKills;
-    private final List<IStatistic> teams;
+    private final List<IStatisticRelatable> teams;
     private final List<IStatistic> players;
     private List<IStatistic> klassen;
 
     public KillEvent(Kill value,
                      Map<Token.Class, Klasse> klassen,
                      List<IStatistic> players,
-                     List<IStatistic> teams,
+                     List<IStatisticRelatable> teams,
                      List<Kill> totalKills) {
         this.players = players;
         this.value = value;
@@ -35,7 +35,7 @@ public class KillEvent implements DataEvent<Kill> {
         return totalKills;
     }
 
-    public List<IStatistic> getTeams() {
+    public List<IStatisticRelatable> getTeams() {
         return teams;
     }
 

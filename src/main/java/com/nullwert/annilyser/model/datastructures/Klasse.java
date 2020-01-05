@@ -29,9 +29,4 @@ public class Klasse extends AbstractPlayerGroup {
         killStats.add(kills);
         deathStats.add(deaths);
     }
-
-    @Override
-    public List<IRelation> getRelations() {
-        return null;
-    }
 }

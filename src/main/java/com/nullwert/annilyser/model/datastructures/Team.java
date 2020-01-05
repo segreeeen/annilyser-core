@@ -5,7 +5,7 @@ import com.nullwert.annilyser.parser.token.Token;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Team extends AbstractPlayerGroup implements IRelatable<TeamRelation>{
+public class Team extends AbstractPlayerGroup implements IStatisticRelatable {
     private Token.Team team;
     private Set<Token.Team> enemyTeams;
 
@@ -36,8 +36,8 @@ public class Team extends AbstractPlayerGroup implements IRelatable<TeamRelation
         this.deathStats.add(deathStats);
     }
 
-    public List<IRelation> getRelations() {
-        List<IRelation> relations = new ArrayList<>();
+    public List<IStatistic> getRelations() {
+        List<IStatistic> relations = new ArrayList<>();
 
         List<Kill> teamkills = players.stream()
                 .map(Player::getKills)

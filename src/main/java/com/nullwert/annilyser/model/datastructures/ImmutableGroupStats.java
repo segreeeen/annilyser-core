@@ -2,7 +2,7 @@ package com.nullwert.annilyser.model.datastructures;
 
 import java.util.List;
 
-public class ImmutableGroupStats implements IStatistic {
+public class ImmutableGroupStats implements IStatisticRelatable {
 
     private final KillStats killStats;
     private final KillStats deathStats;
@@ -10,7 +10,7 @@ public class ImmutableGroupStats implements IStatistic {
     private final Kind kind;
     private final String name;
     private final String group;
-    private List<IRelation> relations;
+    private List<IStatistic> relations;
 
     protected ImmutableGroupStats(Kind kind, String name, KillStats killStats, KillStats deathStats, int playerCount, String group) {
         this.kind = kind;
@@ -21,7 +21,7 @@ public class ImmutableGroupStats implements IStatistic {
         this.group = group;
     }
 
-    protected ImmutableGroupStats(Kind kind, String name, KillStats killStats, KillStats deathStats, int playerCount, String group, List<IRelation> relations) {
+    protected ImmutableGroupStats(Kind kind, String name, KillStats killStats, KillStats deathStats, int playerCount, String group, List<IStatistic> relations) {
         this(kind, name, killStats, deathStats, playerCount, group);
         this.relations = relations;
     }
@@ -67,8 +67,7 @@ public class ImmutableGroupStats implements IStatistic {
     }
 
     @Override
-    public List<IRelation> getRelations() {
-        return null;
+    public List<IStatistic> getRelations() {
+        return this.relations;
     }
-
 }

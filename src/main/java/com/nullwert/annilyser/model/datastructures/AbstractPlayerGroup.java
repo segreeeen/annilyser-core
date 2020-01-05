@@ -3,7 +3,7 @@ package com.nullwert.annilyser.model.datastructures;
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class AbstractPlayerGroup implements IPlayerGroup, IStatistic {
+public abstract class AbstractPlayerGroup implements IPlayerGroup, IStatisticRelatable {
     protected List<Player> players;
     protected KillStats killStats;
     protected KillStats deathStats;

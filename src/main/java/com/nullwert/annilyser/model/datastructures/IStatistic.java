@@ -3,24 +3,20 @@ package com.nullwert.annilyser.model.datastructures;
 import java.util.List;
 
 public interface IStatistic {
-    public Kind getKind();
+    Kind getKind();
 
-    public String getName();
+    String getName();
 
-    public String getGroup();
+    String getGroup();
 
-    public IKillDeathStats getAbsoluteKillstats();
+    int getPlayerCount();
 
-    public IKillDeathStats getAbsoluteDeathstats();
+    IKillDeathStats getAbsoluteKillstats();
 
-    public IKillDeathStats getRelativeKillstats();
+    IKillDeathStats getAbsoluteDeathstats();
 
-    public IKillDeathStats getRelativeDeathstats();
+    IKillDeathStats getRelativeKillstats();
 
-    public int getPlayerCount();
-
-    public List<IRelation> getRelations();
-
-
+    IKillDeathStats getRelativeDeathstats();
 
 }

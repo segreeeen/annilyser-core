@@ -1,15 +1,10 @@
 package com.nullwert.annilyser.model.datastructures;
 
+import java.util.List;
+
 public interface IRelation<T> {
     T getEnemy();
 
-    long getPlayerCount();
+    int getPlayerCount();
 
-    KillStats getKillStats();
-
-    KillStats getKillStatsRelative();
-
-    KillStats getKilledByEnemyStats();
-
-    KillStats getKilledByEnemyStatsRelative();
 }

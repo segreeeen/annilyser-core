@@ -29,11 +29,6 @@ public class Player extends AbstractPlayerGroup {
         return this.team.toString().toLowerCase();
     }
 
-    @Override
-    public List<IRelation> getRelations() {
-        return null;
-    }
-
     public Token.Class getClazz() {
         return clazz;
     }
