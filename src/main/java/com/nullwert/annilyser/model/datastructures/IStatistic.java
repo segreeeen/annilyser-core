@@ -19,4 +19,8 @@ public interface IStatistic {
 
     IKillDeathStats getRelativeDeathstats();
 
+    default List<IStatistic> getRelations() {
+        return null;
+    }
+
 }

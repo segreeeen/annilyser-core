@@ -5,7 +5,7 @@ import com.nullwert.annilyser.parser.token.Token;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Team extends AbstractPlayerGroup implements IStatisticRelatable {
+public class Team extends AbstractPlayerGroup implements IStatistic {
     private Token.Team team;
     private Set<Token.Team> enemyTeams;
 

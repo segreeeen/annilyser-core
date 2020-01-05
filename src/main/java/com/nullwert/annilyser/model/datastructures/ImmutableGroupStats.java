@@ -2,7 +2,7 @@ package com.nullwert.annilyser.model.datastructures;
 
 import java.util.List;
 
-public class ImmutableGroupStats implements IStatisticRelatable {
+public class ImmutableGroupStats implements IStatistic {
 
     private final KillStats killStats;
     private final KillStats deathStats;
