@@ -101,7 +101,7 @@ public abstract class AbstractPlayerGroup implements IPlayerGroup, IStatisticRel
         this.players.add(p);
     }
 
-    public IStatistic getCopy() {
+    public IStatisticRelatable getCopy() {
         KillStats copyKills = new KillStats().add(killStats);
         KillStats copyDeaths = new KillStats().add(deathStats);
         if (getRelations() != null) {
