@@ -1,14 +1,8 @@
 package com.nullwert.annilyser.parser;
 
-import com.nullwert.annilyser.io.FileReader;
-import com.nullwert.annilyser.logsim.LogSimulator;
-import com.nullwert.annilyser.model.DataStorage;
-import com.nullwert.annilyser.model.datastructures.Kill;
-import com.nullwert.annilyser.model.datastructures.Player;
-import com.nullwert.annilyser.model.listener.GamestateChangeListener;
-import com.nullwert.annilyser.model.listener.KillListener;
-import com.nullwert.annilyser.model.listener.NexusListener;
-import com.nullwert.annilyser.model.listener.PhaseChangeListener;
+import com.nullwert.annilyser.domain.*;
+import com.nullwert.annilyser.domain.listener.LineListener;
+import com.nullwert.annilyser.domain.listener.events.LineEvent;
 import com.nullwert.annilyser.parser.token.Token;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -21,62 +15,34 @@ import java.util.regex.Pattern;
 
 import static com.nullwert.annilyser.parser.ParserRegEx.*;
 
-public class Parser implements Runnable {
-    private final BlockingQueue<String> lines;
-    private FileReader reader;
+public class Parser {
+
+    private final IGame game;
     private ParserRegEx regEx;
-    private boolean running = true;
+
     private AtomicInteger nexusCount = new AtomicInteger();
     private String nexusTeam;
     private long clockCount = -1;
     private AtomicInteger dayCount = new AtomicInteger(1);
-    Logger logger = LoggerFactory.getLogger(Parser.class);
 
+    private Logger logger = LoggerFactory.getLogger(Parser.class);
 
-    public static void main(String[] args) {
-        ExecutorService exec = Executors.newCachedThreadPool();
-        Parser p = new Parser("C:\\Users\\Torin\\Documents\\git\\annilyser\\annilyser-core\\src\\main\\java\\com\\nullwert\\annilyser\\logsim\\testlog.txt", true);
-        exec.submit(p);
-    }
-
-    /**
-     * @param file
-     */
-    public Parser(String file, boolean realtime) {
+    public Parser(IGame game) {
+        this.game = game;
         this.regEx = new ParserRegEx();
-        this.reader = new FileReader(file, realtime);
-        this.lines = this.reader.getDoneLines();
     }
 
-    public void run() {
-        logger.info("Started parser");
-        this.reader.start();
-        logger.info("Started reader.");
-        while (running) {
-            String s = null;
-            try {
-                s = this.lines.take();
-                parse(s);
-            } catch (InterruptedException e) {
-                logger.info("Shutting down parser.");
-            }
-        }
-    }
-
-    public void stop() {
-        this.running = false;
-        this.reader.stop();
-        Thread.currentThread().interrupt();
-    }
-
-    private void parse(String s) {
+    void parse(String s) {
         Matcher generalMessageMatcher = regEx.GENERAL.matcher(s);
         boolean validMessage = generalMessageMatcher.matches();
         if (validMessage) {
             String vMsg = generalMessageMatcher.group(ParserRegEx.GENERAL_MESSAGE);
             String time = generalMessageMatcher.group(ParserRegEx.GENERAL_TIME);
+
             StringBuilder sb = new StringBuilder();
             time = sb.append(getDay(time)).append(" ").append(time).toString();
+            Line line = new Line(TimeUtils.convertTimestampToMillis(time), vMsg, s);
+            this.game.addLine(line);
             if (parseDeath(vMsg, time)) {
                 return;
             } else if (parseGameStatus(vMsg, time)) {
@@ -122,7 +88,7 @@ public class Parser implements Runnable {
         } else if (destroyer != null) {
             if (nexusCount.get() == 2) {
                 nexusCount.set(0);
-                DataStorage.getInstance().destroyNexus(destroyer, Token.Team.getByString(nexusTeam), time);
+                game.destroyNexus(destroyer, Token.Team.getByString(nexusTeam), time);
             }
         }
 
@@ -134,7 +100,7 @@ public class Parser implements Runnable {
         if (win != null) {
             Token.GameState state = Token.GameState.getByStateString(win);
             Token.Team team = Token.Team.getByString(win);
-            DataStorage.getInstance().setGameState(state, time, team);
+            GameController.getInstance().setGameState(state, time, team);
             return true;
         }
 
@@ -142,15 +108,15 @@ public class Parser implements Runnable {
         if (mode != null) {
             Token.GameState state = Token.GameState.getByStateString(mode);
             if (state == Token.GameState.PHASE) {
-                DataStorage.getInstance().setGameState(state, time);
+                GameController.getInstance().setGameState(state, time);
                 String phase = retrieveGroupResults(regEx.GAMESTART, vMsg, ParserRegEx.GAMESTART_PHASENUMBER).get(GAMESTART_PHASENUMBER);
                 if (phase != null) {
                     Token.Phase phaseToken = Token.Phase.getByPhaseString(phase);
-                    DataStorage.getInstance().setPhase(phaseToken, time);
+                    GameController.getInstance().setPhase(phaseToken, time);
                     return true;
                 }
             } else if (state == Token.GameState.STARTED) {
-                DataStorage.getInstance().setGameState(state, time);
+                GameController.getInstance().setGameState(state, time);
             }
 
         }
@@ -171,17 +137,17 @@ public class Parser implements Runnable {
             String victim_class = kill.get(KILL_VICTIM_CLASS);
             Token.Class VClass = Token.Class.getAbbrString(victim_class);
 
-            Player killer = DataStorage.getInstance().addPlayer(killer_name, KClass, killer_team);
-            Player victim = DataStorage.getInstance().addPlayer(victim_name, VClass, victim_team);
+            Player killer = GameController.getInstance().addPlayer(killer_name, KClass, killer_team);
+            Player victim = GameController.getInstance().addPlayer(victim_name, VClass, victim_team);
 
             if (kill.size() == 9) {
                 Token.Attackmode attackMode = Token.Attackmode.getByModeString(kill.get(KILL_ATTACKROLE));
                 Token.Team attacked_nexus = Token.Team.getByString(kill.get(KILL_ATTACKED_NEXUS));
-                DataStorage.getInstance().addKill(killer.getName(), new Kill(false, victim, killer, time, attackMode, deathKind, vMsg));
+                GameController.getInstance().addKill(new Kill(false, victim, killer, time, attackMode, deathKind, vMsg));
             } else if (kill.size() == 7) {
-                DataStorage.getInstance().addKill(killer.getName(), new Kill(true, victim, killer, time, Token.Attackmode.UNKNOWN, deathKind, vMsg));
+                GameController.getInstance().addKill(new Kill(true, victim, killer, time, Token.Attackmode.UNKNOWN, deathKind, vMsg));
             } else if (kill.size() == 6) {
-                DataStorage.getInstance().addKill(killer.getName(), new Kill(true, victim, killer, time, Token.Attackmode.UNKNOWN, deathKind, vMsg));
+                GameController.getInstance().addKill(new Kill(true, victim, killer, time, Token.Attackmode.UNKNOWN, deathKind, vMsg));
             }
 
             return true;
@@ -191,7 +157,7 @@ public class Parser implements Runnable {
 
     private Player getPlayer(String name, Token.Team team, Token.Class clazz, Player p) {
         if (p == null) {
-            p = DataStorage.getInstance().addPlayer(name, clazz, team);
+            p = GameController.getInstance().addPlayer(name, clazz, team);
         } else if (p.getTeam() == Token.Team.UNKNOWN) {
             p.setTeam(team);
             p.setClass(clazz);

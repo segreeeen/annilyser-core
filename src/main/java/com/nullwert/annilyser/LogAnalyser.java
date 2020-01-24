@@ -1,25 +1,24 @@
 package com.nullwert.annilyser;
 
-import com.nullwert.annilyser.io.LogDetector;
+import com.nullwert.annilyser.parser.LogDetector;
 import com.nullwert.annilyser.logsim.LogSimulator;
-import com.nullwert.annilyser.model.DataStorage;
-import com.nullwert.annilyser.model.listener.*;
+import com.nullwert.annilyser.domain.GameController;
+import com.nullwert.annilyser.domain.listener.*;
 import com.nullwert.annilyser.parser.Parser;
+import com.nullwert.annilyser.parser.ParserController;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.IOException;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class LogAnalyser {
     private ExecutorService parserExecutor = Executors.newSingleThreadExecutor();
-    private Parser parser;
+    private ParserController parserController;
     private String fileIn;
-    Logger logger = LoggerFactory.getLogger(LogAnalyser.class);
+    private Logger logger = LoggerFactory.getLogger(LogAnalyser.class);
     private String fileOut;
 
     public LogAnalyser(String fileIn, String fileOut) {
@@ -43,19 +42,19 @@ public class LogAnalyser {
     }
 
     public void registerGamestateChangeListener(GamestateChangeListener l) {
-        DataStorage.getInstance().registerGamestateChangeListener(l);
+        GameController.getInstance().registerGamestateChangeListener(l);
     }
 
     public void registerPhaseChangeListener(PhaseChangeListener l) {
-        DataStorage.getInstance().registerPhaseChangeListener(l);
+        GameController.getInstance().registerPhaseChangeListener(l);
     }
 
     public void registerKillListener(KillListener l) {
-        DataStorage.getInstance().registerKillListener(l);
+        GameController.getInstance().registerKillListener(l);
     }
 
     public void registerNexusListener(NexusListener l) {
-        DataStorage.getInstance().registerNexusListener(l);
+        GameController.getInstance().registerNexusListener(l);
     }
 
     public void startParser(boolean realtime) {
@@ -72,14 +71,13 @@ public class LogAnalyser {
         }
 
         if(fileOut != null) {
-            parser = new Parser(fileOut, realtime);
-            parserExecutor.submit(parser);
+            parserController = new ParserController(fileOut, realtime);
+            parserController.parseRealtime(GameController.getInstance().getGame());
         }
     }
 
     public void stopParser() {
-        parser.stop();
-        parserExecutor.shutdownNow();
+        parserController.stop();
     }
 
     public void setFileIn(String fileIn) {
